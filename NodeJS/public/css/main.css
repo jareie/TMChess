@@ -1,0 +1,162 @@
+html,body {
+	height:100%;
+}
+
+.container, .row {
+	height:80%;
+}
+
+.flex-row, .flex-row > div[class*='col-'] {  
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex:0 auto;
+    height:100%;
+}
+
+.flex-col {
+    display: flex;
+    display: -webkit-flex;
+    flex: 1;
+	flex-flow: column nowrap;
+}
+
+.flex-grow {
+	display: flex;
+    -webkit-flex: 2;
+    flex: 2;
+}
+
+body {
+    padding-top: 15px !important;
+    /* DARK THEME */ background-color: rgb(234, 250, 255);
+}
+
+/* DARK THEME */
+
+.well {
+    background-color: #555 !important;
+    border-color: #555 !important;
+    color: #ddd !important;
+}
+#message-box {
+    padding: 5px;
+    background-color: #555 !important;
+}
+.panel {
+    background-color: #bbb !important;
+    color: #ddd !important;
+}
+
+#messages-field {
+    color: white;
+}
+
+#invDialog .panel-body {
+    background-color: white !important;
+    color: black !important;
+}
+
+.panel-title {
+    background-color: #333 !important;
+    color: #ddd !important;
+}
+
+.panel-heading {
+    border-color: #333 !important;
+    background-color: #333 !important;
+}
+
+.panel-default {
+    border-color: #333 !important;
+}
+
+.list-group-item {
+    background-color: #555 !important;
+}
+
+.ui-widget-content {
+     background-color: #555 !important;
+     border: #555 !important;
+     color: #ddd !important;
+}
+
+.ui-widget-header {
+    background-color: #333 !important;
+    color: #ddd !important;
+    border: #333 !important;
+}
+
+.ui-dialog-title {
+    background-color: #333 !important;
+    color: #ddd !important;
+}
+
+.ui-dialog-content {
+    background-color: #555 !important;
+}
+
+
+.userStyle {
+    color: #000000;
+    border-radius: 25px;
+    background: rgb(40, 189, 209);
+    padding: 20px;
+    font-family: Verdana,Geneva,sans-serif; 
+    font-size: 15px;
+    width: 300px;
+    
+}
+.fright {
+    text-align: right;
+    float: right;
+}
+.botStyle {
+    text-align: left;
+    color: #000000;
+    border-radius: 25px;
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    font-family: Verdana,Geneva,sans-serif; 
+    font-size: 15px;
+    width: 300px;
+}
+
+.metainfo {
+    color: rgb(50, 50, 50);
+}
+
+#msg-field {
+    float: left;
+    max-width: 100%;
+    width: 80%;
+}
+#msg-button {
+    width: 18%;
+}
+#gotogam[disabled] {
+    cursor: default !important;
+}
+
+.thumbnail div {
+    display: none;
+    opacity: 0 !important;
+}
+
+.thumbnail:hover div {
+    display: inline;
+    opacity: 1 !important;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+.label:hover {
+    cursor: pointer !important;
+}

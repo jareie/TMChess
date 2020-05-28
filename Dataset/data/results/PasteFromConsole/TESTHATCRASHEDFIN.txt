@@ -1,0 +1,2123 @@
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  60.73004412354592  predictions:  {0: 1580, 1: 913}
+1 Accuracy:  60.24869634977939  predictions:  {0: 1710, 1: 745, 2: 38}
+2 Accuracy:  63.136782992378656  predictions:  {0: 1438, 1: 922, 2: 133}
+3 Accuracy:  63.21700762133975  predictions:  {0: 1462, 1: 924, 2: 107}
+4 Accuracy:  63.57801845166466  predictions:  {0: 1283, 1: 1086, 2: 124}
+5 Accuracy:  64.13959085439231  predictions:  {0: 1351, 1: 1017, 2: 125}
+6 Accuracy:  62.97633373445648  predictions:  {0: 1337, 1: 1082, 2: 74}
+7 Accuracy:  64.09947853991176  predictions:  {0: 1392, 1: 949, 2: 152}
+8 Accuracy:  64.86161251504213  predictions:  {0: 1410, 1: 948, 2: 135}
+9 Accuracy:  64.21981548335339  predictions:  {0: 1349, 1: 998, 2: 146}
+10 Accuracy:  64.94183714400322  predictions:  {0: 1320, 1: 1013, 2: 160}
+11 Accuracy:  64.86161251504213  predictions:  {0: 1398, 1: 989, 2: 106}
+12 Accuracy:  65.30284797432812  predictions:  {0: 1340, 1: 974, 2: 179}
+13 Accuracy:  66.94745286803048  predictions:  {0: 1325, 1: 945, 2: 223}
+14 Accuracy:  65.30284797432812  predictions:  {0: 1379, 1: 957, 2: 157}
+15 Accuracy:  65.54352186121139  predictions:  {0: 1390, 1: 936, 2: 167}
+16 Accuracy:  65.70397111913357  predictions:  {0: 1275, 1: 972, 2: 246}
+17 Accuracy:  65.34296028880865  predictions:  {0: 1274, 1: 1013, 2: 206}
+18 Accuracy:  65.9045326915363  predictions:  {0: 1304, 1: 940, 2: 249}
+19 Accuracy:  66.02486963497793  predictions:  {0: 1372, 1: 907, 2: 214}
+20 Accuracy:  66.22543120738067  predictions:  {0: 1385, 1: 909, 2: 199}
+21 Accuracy:  66.22543120738067  predictions:  {0: 1294, 1: 954, 2: 245}
+22 Accuracy:  65.38307260328921  predictions:  {0: 1263, 1: 976, 2: 254}
+23 Accuracy:  65.66385880465303  predictions:  {0: 1239, 1: 994, 2: 260}
+24 Accuracy:  65.78419574809466  predictions:  {0: 1283, 1: 1032, 2: 178}
+25 Accuracy:  66.30565583634176  predictions:  {0: 1322, 1: 1002, 2: 169}
+26 Accuracy:  65.86442037705575  predictions:  {0: 1248, 1: 953, 2: 292}
+27 Accuracy:  65.74408343361412  predictions:  {0: 1387, 1: 936, 2: 170}
+28 Accuracy:  64.42037705575612  predictions:  {0: 1132, 1: 1014, 2: 347}
+29 Accuracy:  65.30284797432812  predictions:  {0: 1115, 1: 1018, 2: 360}
+30 Accuracy:  66.06498194945848  predictions:  {0: 1326, 1: 918, 2: 249}
+31 Accuracy:  65.0220617729643  predictions:  {0: 1227, 1: 982, 2: 284}
+32 Accuracy:  65.50340954673085  predictions:  {0: 1258, 1: 997, 2: 238}
+33 Accuracy:  65.42318491776975  predictions:  {0: 1172, 1: 1090, 2: 231}
+34 Accuracy:  66.06498194945848  predictions:  {0: 1372, 1: 910, 2: 211}
+35 Accuracy:  66.14520657841958  predictions:  {0: 1268, 1: 973, 2: 252}
+36 Accuracy:  65.34296028880865  predictions:  {0: 1188, 1: 953, 2: 352}
+37 Accuracy:  66.18531889290013  predictions:  {0: 1286, 1: 996, 2: 211}
+38 Accuracy:  66.74689129562775  predictions:  {0: 1249, 1: 952, 2: 292}
+39 Accuracy:  65.58363417569194  predictions:  {0: 1392, 1: 865, 2: 236}
+40 Accuracy:  66.38588046530285  predictions:  {0: 1276, 1: 932, 2: 285}
+41 Accuracy:  65.30284797432812  predictions:  {0: 1288, 1: 915, 2: 290}
+42 Accuracy:  65.94464500601684  predictions:  {0: 1252, 1: 987, 2: 254}
+43 Accuracy:  65.30284797432812  predictions:  {0: 1292, 1: 929, 2: 272}
+44 Accuracy:  66.38588046530285  predictions:  {0: 1272, 1: 943, 2: 278}
+45 Accuracy:  65.94464500601684  predictions:  {0: 1138, 1: 1015, 2: 340}
+46 Accuracy:  66.02486963497793  predictions:  {0: 1256, 1: 924, 2: 313}
+47 Accuracy:  64.09947853991176  predictions:  {0: 1134, 1: 978, 2: 381}
+48 Accuracy:  65.34296028880865  predictions:  {0: 1333, 1: 917, 2: 243}
+49 Accuracy:  65.58363417569194  predictions:  {0: 1404, 1: 781, 2: 308}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  61.50777822098126  predictions:  {0: 1603, 1: 877, 2: 27}
+1 Accuracy:  62.305544475468686  predictions:  {0: 1609, 1: 864, 2: 34}
+2 Accuracy:  63.62185879537295  predictions:  {0: 1538, 1: 908, 2: 61}
+3 Accuracy:  64.1404068607898  predictions:  {0: 1493, 1: 910, 2: 104}
+4 Accuracy:  63.861188671719184  predictions:  {0: 1511, 1: 905, 2: 91}
+5 Accuracy:  63.183087355404865  predictions:  {0: 1602, 1: 830, 2: 75}
+6 Accuracy:  64.49940167530913  predictions:  {0: 1468, 1: 923, 2: 116}
+7 Accuracy:  64.73873155165536  predictions:  {0: 1533, 1: 867, 2: 107}
+8 Accuracy:  65.17750299162346  predictions:  {0: 1437, 1: 895, 2: 175}
+9 Accuracy:  65.41683286796969  predictions:  {0: 1470, 1: 907, 2: 130}
+10 Accuracy:  65.65616274431592  predictions:  {0: 1432, 1: 930, 2: 145}
+11 Accuracy:  65.33705624252094  predictions:  {0: 1481, 1: 861, 2: 165}
+12 Accuracy:  65.41683286796969  predictions:  {0: 1424, 1: 929, 2: 154}
+13 Accuracy:  65.45672118069406  predictions:  {0: 1527, 1: 871, 2: 109}
+14 Accuracy:  64.61906661348225  predictions:  {0: 1557, 1: 862, 2: 88}
+15 Accuracy:  66.5337056242521  predictions:  {0: 1434, 1: 907, 2: 166}
+16 Accuracy:  65.45672118069406  predictions:  {0: 1501, 1: 894, 2: 112}
+17 Accuracy:  65.33705624252094  predictions:  {0: 1494, 1: 760, 2: 253}
+18 Accuracy:  65.2572796170722  predictions:  {0: 1449, 1: 887, 2: 171}
+19 Accuracy:  64.9780614280016  predictions:  {0: 1420, 1: 865, 2: 222}
+20 Accuracy:  65.29716792979657  predictions:  {0: 1411, 1: 875, 2: 221}
+21 Accuracy:  63.94096529716793  predictions:  {0: 1580, 1: 724, 2: 203}
+22 Accuracy:  64.73873155165536  predictions:  {0: 1474, 1: 862, 2: 171}
+23 Accuracy:  65.05783805345034  predictions:  {0: 1468, 1: 839, 2: 200}
+24 Accuracy:  65.01794974072597  predictions:  {0: 1423, 1: 900, 2: 184}
+25 Accuracy:  65.85560430793778  predictions:  {0: 1428, 1: 890, 2: 189}
+26 Accuracy:  66.13482249700837  predictions:  {0: 1342, 1: 916, 2: 249}
+27 Accuracy:  66.094934184284  predictions:  {0: 1444, 1: 794, 2: 269}
+28 Accuracy:  65.41683286796969  predictions:  {0: 1470, 1: 842, 2: 195}
+29 Accuracy:  65.33705624252094  predictions:  {0: 1463, 1: 818, 2: 226}
+30 Accuracy:  66.01515755883526  predictions:  {0: 1449, 1: 832, 2: 226}
+31 Accuracy:  65.3769445552453  predictions:  {0: 1329, 1: 895, 2: 283}
+32 Accuracy:  65.69605105704028  predictions:  {0: 1399, 1: 887, 2: 221}
+33 Accuracy:  66.17471080973274  predictions:  {0: 1404, 1: 881, 2: 222}
+34 Accuracy:  66.21459912245712  predictions:  {0: 1403, 1: 928, 2: 176}
+35 Accuracy:  65.17750299162346  predictions:  {0: 1384, 1: 951, 2: 172}
+36 Accuracy:  65.97526924611088  predictions:  {0: 1444, 1: 857, 2: 206}
+37 Accuracy:  66.17471080973274  predictions:  {0: 1356, 1: 923, 2: 228}
+38 Accuracy:  64.85839648982848  predictions:  {0: 1460, 1: 911, 2: 136}
+39 Accuracy:  65.61627443159155  predictions:  {0: 1480, 1: 826, 2: 201}
+40 Accuracy:  65.69605105704028  predictions:  {0: 1390, 1: 911, 2: 206}
+41 Accuracy:  65.8157159952134  predictions:  {0: 1441, 1: 805, 2: 261}
+42 Accuracy:  65.65616274431592  predictions:  {0: 1413, 1: 879, 2: 215}
+43 Accuracy:  65.21739130434783  predictions:  {0: 1538, 1: 830, 2: 139}
+44 Accuracy:  65.2572796170722  predictions:  {0: 1434, 1: 851, 2: 222}
+45 Accuracy:  66.49381731152772  predictions:  {0: 1320, 1: 919, 2: 268}
+46 Accuracy:  66.17471080973274  predictions:  {0: 1381, 1: 860, 2: 266}
+47 Accuracy:  65.3769445552453  predictions:  {0: 1451, 1: 843, 2: 213}
+48 Accuracy:  65.01794974072597  predictions:  {0: 1397, 1: 769, 2: 341}
+49 Accuracy:  64.77861986437973  predictions:  {0: 1426, 1: 918, 2: 163}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  60.449257922182106  predictions:  {0: 1469, 1: 1024}
+1 Accuracy:  61.893301243481744  predictions:  {0: 1453, 1: 999, 2: 41}
+2 Accuracy:  62.374649017248295  predictions:  {0: 1381, 1: 1065, 2: 47}
+3 Accuracy:  62.855996791014846  predictions:  {0: 1401, 1: 1021, 2: 71}
+4 Accuracy:  63.21700762133975  predictions:  {0: 1449, 1: 950, 2: 94}
+5 Accuracy:  63.77858002406739  predictions:  {0: 1371, 1: 1002, 2: 120}
+6 Accuracy:  63.6983553951063  predictions:  {0: 1398, 1: 989, 2: 106}
+7 Accuracy:  64.0593662254312  predictions:  {0: 1382, 1: 975, 2: 136}
+8 Accuracy:  63.898916967509024  predictions:  {0: 1395, 1: 962, 2: 136}
+9 Accuracy:  64.46048937023666  predictions:  {0: 1417, 1: 947, 2: 129}
+10 Accuracy:  64.82150020056157  predictions:  {0: 1335, 1: 979, 2: 179}
+11 Accuracy:  63.85880465302848  predictions:  {0: 1479, 1: 911, 2: 103}
+12 Accuracy:  64.38026474127557  predictions:  {0: 1347, 1: 996, 2: 150}
+13 Accuracy:  65.06217408744484  predictions:  {0: 1373, 1: 927, 2: 193}
+14 Accuracy:  65.22262334536703  predictions:  {0: 1346, 1: 965, 2: 182}
+15 Accuracy:  65.42318491776975  predictions:  {0: 1288, 1: 1028, 2: 177}
+16 Accuracy:  65.0220617729643  predictions:  {0: 1354, 1: 1033, 2: 106}
+17 Accuracy:  65.66385880465303  predictions:  {0: 1355, 1: 931, 2: 207}
+18 Accuracy:  65.06217408744484  predictions:  {0: 1326, 1: 970, 2: 197}
+19 Accuracy:  64.74127557160048  predictions:  {0: 1390, 1: 925, 2: 178}
+20 Accuracy:  65.70397111913357  predictions:  {0: 1319, 1: 938, 2: 236}
+21 Accuracy:  65.66385880465303  predictions:  {0: 1400, 1: 933, 2: 160}
+22 Accuracy:  66.02486963497793  predictions:  {0: 1351, 1: 957, 2: 185}
+23 Accuracy:  65.54352186121139  predictions:  {0: 1335, 1: 962, 2: 196}
+24 Accuracy:  65.86442037705575  predictions:  {0: 1365, 1: 895, 2: 233}
+25 Accuracy:  65.70397111913357  predictions:  {0: 1353, 1: 906, 2: 234}
+26 Accuracy:  65.0220617729643  predictions:  {0: 1428, 1: 838, 2: 227}
+27 Accuracy:  65.62374649017248  predictions:  {0: 1425, 1: 911, 2: 157}
+28 Accuracy:  64.66105094263939  predictions:  {0: 1376, 1: 889, 2: 228}
+29 Accuracy:  65.0220617729643  predictions:  {0: 1431, 1: 892, 2: 170}
+30 Accuracy:  65.1022864019254  predictions:  {0: 1254, 1: 943, 2: 296}
+31 Accuracy:  65.50340954673085  predictions:  {0: 1251, 1: 1004, 2: 238}
+32 Accuracy:  64.98194945848375  predictions:  {0: 1327, 1: 912, 2: 254}
+33 Accuracy:  65.26273565984756  predictions:  {0: 1315, 1: 899, 2: 279}
+34 Accuracy:  65.30284797432812  predictions:  {0: 1382, 1: 943, 2: 168}
+35 Accuracy:  65.30284797432812  predictions:  {0: 1303, 1: 955, 2: 235}
+36 Accuracy:  65.1022864019254  predictions:  {0: 1276, 1: 938, 2: 279}
+37 Accuracy:  64.74127557160048  predictions:  {0: 1286, 1: 947, 2: 260}
+38 Accuracy:  65.66385880465303  predictions:  {0: 1357, 1: 960, 2: 176}
+39 Accuracy:  65.34296028880865  predictions:  {0: 1329, 1: 921, 2: 243}
+40 Accuracy:  65.1022864019254  predictions:  {0: 1280, 1: 970, 2: 243}
+41 Accuracy:  65.06217408744484  predictions:  {0: 1324, 1: 911, 2: 258}
+42 Accuracy:  65.18251103088647  predictions:  {0: 1209, 1: 1016, 2: 268}
+43 Accuracy:  65.34296028880865  predictions:  {0: 1464, 1: 890, 2: 139}
+44 Accuracy:  65.06217408744484  predictions:  {0: 1372, 1: 806, 2: 315}
+45 Accuracy:  66.10509426393902  predictions:  {0: 1318, 1: 913, 2: 262}
+46 Accuracy:  65.06217408744484  predictions:  {0: 1354, 1: 898, 2: 241}
+47 Accuracy:  64.21981548335339  predictions:  {0: 1240, 1: 1045, 2: 208}
+48 Accuracy:  64.90172482952266  predictions:  {0: 1246, 1: 1001, 2: 246}
+49 Accuracy:  65.1022864019254  predictions:  {0: 1357, 1: 911, 2: 225}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  58.140462889066235  predictions:  {0: 1884, 1: 613, 2: 9}
+1 Accuracy:  61.93136472466081  predictions:  {0: 1547, 1: 930, 2: 29}
+2 Accuracy:  62.96887470071828  predictions:  {0: 1518, 1: 929, 2: 59}
+3 Accuracy:  62.769353551476456  predictions:  {0: 1513, 1: 925, 2: 68}
+4 Accuracy:  62.809257781324824  predictions:  {0: 1573, 1: 898, 2: 35}
+5 Accuracy:  63.687150837988824  predictions:  {0: 1523, 1: 909, 2: 74}
+6 Accuracy:  63.84676775738228  predictions:  {0: 1491, 1: 946, 2: 69}
+7 Accuracy:  64.68475658419793  predictions:  {0: 1454, 1: 942, 2: 110}
+8 Accuracy:  64.32561851556265  predictions:  {0: 1530, 1: 847, 2: 129}
+9 Accuracy:  64.84437350359138  predictions:  {0: 1470, 1: 931, 2: 105}
+10 Accuracy:  64.08619313647247  predictions:  {0: 1525, 1: 896, 2: 85}
+11 Accuracy:  65.08379888268156  predictions:  {0: 1453, 1: 932, 2: 121}
+12 Accuracy:  65.08379888268156  predictions:  {0: 1507, 1: 877, 2: 122}
+13 Accuracy:  64.64485235434955  predictions:  {0: 1534, 1: 823, 2: 149}
+14 Accuracy:  64.20590582601756  predictions:  {0: 1470, 1: 933, 2: 103}
+15 Accuracy:  64.56504389465283  predictions:  {0: 1477, 1: 902, 2: 127}
+16 Accuracy:  64.56504389465283  predictions:  {0: 1426, 1: 943, 2: 137}
+17 Accuracy:  63.92657621707901  predictions:  {0: 1613, 1: 848, 2: 45}
+18 Accuracy:  64.76456504389465  predictions:  {0: 1507, 1: 871, 2: 128}
+19 Accuracy:  66.40063846767758  predictions:  {0: 1410, 1: 926, 2: 170}
+20 Accuracy:  65.76217079010375  predictions:  {0: 1465, 1: 891, 2: 150}
+21 Accuracy:  65.32322426177176  predictions:  {0: 1522, 1: 850, 2: 134}
+22 Accuracy:  65.32322426177176  predictions:  {0: 1410, 1: 910, 2: 186}
+23 Accuracy:  64.72466081404629  predictions:  {0: 1403, 1: 945, 2: 158}
+24 Accuracy:  64.88427773343975  predictions:  {0: 1493, 1: 842, 2: 171}
+25 Accuracy:  66.16121308858739  predictions:  {0: 1407, 1: 952, 2: 147}
+26 Accuracy:  65.52274541101357  predictions:  {0: 1399, 1: 888, 2: 219}
+27 Accuracy:  65.72226656025538  predictions:  {0: 1378, 1: 928, 2: 200}
+28 Accuracy:  65.40303272146848  predictions:  {0: 1409, 1: 936, 2: 161}
+29 Accuracy:  65.52274541101357  predictions:  {0: 1497, 1: 800, 2: 209}
+30 Accuracy:  65.48284118116521  predictions:  {0: 1517, 1: 836, 2: 153}
+31 Accuracy:  65.32322426177176  predictions:  {0: 1533, 1: 856, 2: 117}
+32 Accuracy:  64.44533120510773  predictions:  {0: 1599, 1: 767, 2: 140}
+33 Accuracy:  65.0438946528332  predictions:  {0: 1355, 1: 925, 2: 226}
+34 Accuracy:  64.56504389465283  predictions:  {0: 1295, 1: 975, 2: 236}
+35 Accuracy:  63.88667198723065  predictions:  {0: 1403, 1: 994, 2: 109}
+36 Accuracy:  64.12609736632083  predictions:  {0: 1466, 1: 818, 2: 222}
+37 Accuracy:  64.24581005586593  predictions:  {0: 1332, 1: 1055, 2: 119}
+38 Accuracy:  63.687150837988824  predictions:  {0: 1386, 1: 994, 2: 126}
+39 Accuracy:  64.24581005586593  predictions:  {0: 1183, 1: 1078, 2: 245}
+40 Accuracy:  63.44772545889864  predictions:  {0: 1361, 1: 968, 2: 177}
+41 Accuracy:  63.84676775738228  predictions:  {0: 1442, 1: 918, 2: 146}
+42 Accuracy:  64.68475658419793  predictions:  {0: 1376, 1: 1002, 2: 128}
+43 Accuracy:  64.88427773343975  predictions:  {0: 1448, 1: 885, 2: 173}
+44 Accuracy:  64.12609736632083  predictions:  {0: 1539, 1: 848, 2: 119}
+45 Accuracy:  65.28332003192338  predictions:  {0: 1412, 1: 933, 2: 161}
+46 Accuracy:  65.00399042298484  predictions:  {0: 1426, 1: 839, 2: 241}
+47 Accuracy:  63.64724660814046  predictions:  {0: 1598, 1: 798, 2: 110}
+48 Accuracy:  64.64485235434955  predictions:  {0: 1435, 1: 918, 2: 153}
+49 Accuracy:  64.84437350359138  predictions:  {0: 1418, 1: 927, 2: 161}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  60.60970718010429  predictions:  {0: 1672, 1: 821}
+1 Accuracy:  62.053750501403925  predictions:  {0: 1275, 1: 1198, 2: 20}
+2 Accuracy:  63.73846770958684  predictions:  {0: 1302, 1: 1140, 2: 51}
+3 Accuracy:  63.61813076614521  predictions:  {0: 1504, 1: 932, 2: 57}
+4 Accuracy:  64.13959085439231  predictions:  {0: 1504, 1: 927, 2: 62}
+5 Accuracy:  64.98194945848375  predictions:  {0: 1435, 1: 965, 2: 93}
+6 Accuracy:  64.94183714400322  predictions:  {0: 1435, 1: 974, 2: 84}
+7 Accuracy:  65.58363417569194  predictions:  {0: 1315, 1: 1072, 2: 106}
+8 Accuracy:  65.62374649017248  predictions:  {0: 1389, 1: 1002, 2: 102}
+9 Accuracy:  65.1022864019254  predictions:  {0: 1397, 1: 929, 2: 167}
+10 Accuracy:  65.22262334536703  predictions:  {0: 1351, 1: 1008, 2: 134}
+11 Accuracy:  65.54352186121139  predictions:  {0: 1366, 1: 1006, 2: 121}
+12 Accuracy:  66.06498194945848  predictions:  {0: 1395, 1: 931, 2: 167}
+13 Accuracy:  65.9045326915363  predictions:  {0: 1380, 1: 973, 2: 140}
+14 Accuracy:  66.14520657841958  predictions:  {0: 1431, 1: 921, 2: 141}
+15 Accuracy:  65.46329723225031  predictions:  {0: 1391, 1: 989, 2: 113}
+16 Accuracy:  66.18531889290013  predictions:  {0: 1336, 1: 974, 2: 183}
+17 Accuracy:  65.86442037705575  predictions:  {0: 1302, 1: 990, 2: 201}
+18 Accuracy:  66.26554352186122  predictions:  {0: 1359, 1: 977, 2: 157}
+19 Accuracy:  65.9045326915363  predictions:  {0: 1386, 1: 986, 2: 121}
+20 Accuracy:  65.30284797432812  predictions:  {0: 1366, 1: 974, 2: 153}
+21 Accuracy:  65.50340954673085  predictions:  {0: 1400, 1: 946, 2: 147}
+22 Accuracy:  65.42318491776975  predictions:  {0: 1356, 1: 900, 2: 237}
+23 Accuracy:  65.18251103088647  predictions:  {0: 1393, 1: 977, 2: 123}
+24 Accuracy:  65.54352186121139  predictions:  {0: 1472, 1: 921, 2: 100}
+25 Accuracy:  65.42318491776975  predictions:  {0: 1399, 1: 972, 2: 122}
+26 Accuracy:  65.9847573204974  predictions:  {0: 1367, 1: 895, 2: 231}
+27 Accuracy:  66.38588046530285  predictions:  {0: 1249, 1: 1017, 2: 227}
+28 Accuracy:  65.54352186121139  predictions:  {0: 1320, 1: 993, 2: 180}
+29 Accuracy:  65.34296028880865  predictions:  {0: 1340, 1: 994, 2: 159}
+30 Accuracy:  65.74408343361412  predictions:  {0: 1382, 1: 905, 2: 206}
+31 Accuracy:  65.9847573204974  predictions:  {0: 1357, 1: 976, 2: 160}
+32 Accuracy:  65.78419574809466  predictions:  {0: 1369, 1: 912, 2: 212}
+33 Accuracy:  66.34576815082231  predictions:  {0: 1405, 1: 904, 2: 184}
+34 Accuracy:  65.14239871640594  predictions:  {0: 1472, 1: 912, 2: 109}
+35 Accuracy:  64.90172482952266  predictions:  {0: 1473, 1: 844, 2: 176}
+36 Accuracy:  65.86442037705575  predictions:  {0: 1368, 1: 922, 2: 203}
+37 Accuracy:  65.26273565984756  predictions:  {0: 1387, 1: 897, 2: 209}
+38 Accuracy:  65.66385880465303  predictions:  {0: 1400, 1: 947, 2: 146}
+39 Accuracy:  65.42318491776975  predictions:  {0: 1239, 1: 1070, 2: 184}
+40 Accuracy:  65.74408343361412  predictions:  {0: 1289, 1: 1045, 2: 159}
+41 Accuracy:  66.46610509426394  predictions:  {0: 1265, 1: 1002, 2: 226}
+42 Accuracy:  65.58363417569194  predictions:  {0: 1323, 1: 1015, 2: 155}
+43 Accuracy:  66.14520657841958  predictions:  {0: 1423, 1: 925, 2: 145}
+44 Accuracy:  65.34296028880865  predictions:  {0: 1441, 1: 900, 2: 152}
+45 Accuracy:  66.30565583634176  predictions:  {0: 1259, 1: 1026, 2: 208}
+46 Accuracy:  66.62655435218612  predictions:  {0: 1297, 1: 1021, 2: 175}
+47 Accuracy:  65.42318491776975  predictions:  {0: 1382, 1: 1019, 2: 92}
+48 Accuracy:  66.02486963497793  predictions:  {0: 1314, 1: 1000, 2: 179}
+49 Accuracy:  65.50340954673085  predictions:  {0: 1207, 1: 1071, 2: 215}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  61.81165203511573  predictions:  {0: 1527, 1: 961, 2: 18}
+1 Accuracy:  62.769353551476456  predictions:  {0: 1510, 1: 970, 2: 26}
+2 Accuracy:  62.849162011173185  predictions:  {0: 1357, 1: 1108, 2: 41}
+3 Accuracy:  63.96648044692738  predictions:  {0: 1480, 1: 928, 2: 98}
+4 Accuracy:  64.12609736632083  predictions:  {0: 1453, 1: 983, 2: 70}
+5 Accuracy:  64.52513966480447  predictions:  {0: 1318, 1: 1023, 2: 165}
+6 Accuracy:  65.12370311252992  predictions:  {0: 1443, 1: 940, 2: 123}
+7 Accuracy:  64.60494812450119  predictions:  {0: 1485, 1: 900, 2: 121}
+8 Accuracy:  64.88427773343975  predictions:  {0: 1515, 1: 892, 2: 99}
+9 Accuracy:  65.40303272146848  predictions:  {0: 1406, 1: 981, 2: 119}
+10 Accuracy:  64.80446927374301  predictions:  {0: 1449, 1: 941, 2: 116}
+11 Accuracy:  65.48284118116521  predictions:  {0: 1438, 1: 930, 2: 138}
+12 Accuracy:  65.0438946528332  predictions:  {0: 1436, 1: 890, 2: 180}
+13 Accuracy:  65.32322426177176  predictions:  {0: 1439, 1: 932, 2: 135}
+14 Accuracy:  65.00399042298484  predictions:  {0: 1515, 1: 896, 2: 95}
+15 Accuracy:  65.92178770949721  predictions:  {0: 1392, 1: 944, 2: 170}
+16 Accuracy:  64.56504389465283  predictions:  {0: 1400, 1: 913, 2: 193}
+17 Accuracy:  63.96648044692738  predictions:  {0: 1511, 1: 840, 2: 155}
+18 Accuracy:  65.24341580207502  predictions:  {0: 1369, 1: 958, 2: 179}
+19 Accuracy:  65.40303272146848  predictions:  {0: 1382, 1: 887, 2: 237}
+20 Accuracy:  64.32561851556265  predictions:  {0: 1428, 1: 905, 2: 173}
+21 Accuracy:  64.68475658419793  predictions:  {0: 1440, 1: 883, 2: 183}
+22 Accuracy:  64.96408619313647  predictions:  {0: 1382, 1: 916, 2: 208}
+23 Accuracy:  65.24341580207502  predictions:  {0: 1363, 1: 913, 2: 230}
+24 Accuracy:  65.48284118116521  predictions:  {0: 1366, 1: 933, 2: 207}
+25 Accuracy:  64.88427773343975  predictions:  {0: 1357, 1: 972, 2: 177}
+26 Accuracy:  64.56504389465283  predictions:  {0: 1377, 1: 882, 2: 247}
+27 Accuracy:  64.60494812450119  predictions:  {0: 1445, 1: 891, 2: 170}
+28 Accuracy:  65.08379888268156  predictions:  {0: 1370, 1: 934, 2: 202}
+29 Accuracy:  65.6025538707103  predictions:  {0: 1327, 1: 974, 2: 205}
+30 Accuracy:  65.1636073423783  predictions:  {0: 1378, 1: 904, 2: 224}
+31 Accuracy:  66.08140462889067  predictions:  {0: 1427, 1: 924, 2: 155}
+32 Accuracy:  65.68236233040702  predictions:  {0: 1375, 1: 934, 2: 197}
+33 Accuracy:  65.52274541101357  predictions:  {0: 1369, 1: 877, 2: 260}
+34 Accuracy:  65.40303272146848  predictions:  {0: 1358, 1: 897, 2: 251}
+35 Accuracy:  66.3607342378292  predictions:  {0: 1217, 1: 1060, 2: 229}
+36 Accuracy:  65.40303272146848  predictions:  {0: 1285, 1: 995, 2: 226}
+37 Accuracy:  66.32083000798085  predictions:  {0: 1289, 1: 1009, 2: 208}
+38 Accuracy:  64.96408619313647  predictions:  {0: 1160, 1: 1017, 2: 329}
+39 Accuracy:  65.56264964086193  predictions:  {0: 1438, 1: 854, 2: 214}
+40 Accuracy:  64.84437350359138  predictions:  {0: 1336, 1: 915, 2: 255}
+41 Accuracy:  65.48284118116521  predictions:  {0: 1421, 1: 897, 2: 188}
+42 Accuracy:  65.12370311252992  predictions:  {0: 1438, 1: 892, 2: 176}
+43 Accuracy:  65.1636073423783  predictions:  {0: 1398, 1: 933, 2: 175}
+44 Accuracy:  65.56264964086193  predictions:  {0: 1401, 1: 904, 2: 201}
+45 Accuracy:  65.84197924980047  predictions:  {0: 1365, 1: 924, 2: 217}
+46 Accuracy:  65.48284118116521  predictions:  {0: 1339, 1: 978, 2: 189}
+47 Accuracy:  65.0438946528332  predictions:  {0: 1356, 1: 932, 2: 218}
+48 Accuracy:  65.72226656025538  predictions:  {0: 1331, 1: 958, 2: 217}
+49 Accuracy:  65.40303272146848  predictions:  {0: 1419, 1: 943, 2: 144}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  61.973525872442835  predictions:  {0: 1541, 1: 950, 2: 2}
+1 Accuracy:  62.41476133172884  predictions:  {0: 1558, 1: 935}
+2 Accuracy:  64.0593662254312  predictions:  {0: 1487, 1: 976, 2: 30}
+3 Accuracy:  64.70116325711993  predictions:  {0: 1422, 1: 1009, 2: 62}
+4 Accuracy:  65.30284797432812  predictions:  {0: 1394, 1: 1028, 2: 71}
+5 Accuracy:  65.74408343361412  predictions:  {0: 1310, 1: 1054, 2: 129}
+6 Accuracy:  65.58363417569194  predictions:  {0: 1361, 1: 1015, 2: 117}
+7 Accuracy:  65.1022864019254  predictions:  {0: 1402, 1: 1027, 2: 64}
+8 Accuracy:  65.9045326915363  predictions:  {0: 1384, 1: 1016, 2: 93}
+9 Accuracy:  66.06498194945848  predictions:  {0: 1431, 1: 943, 2: 119}
+10 Accuracy:  66.38588046530285  predictions:  {0: 1335, 1: 1058, 2: 100}
+11 Accuracy:  66.22543120738067  predictions:  {0: 1386, 1: 1028, 2: 79}
+12 Accuracy:  66.22543120738067  predictions:  {0: 1409, 1: 954, 2: 130}
+13 Accuracy:  66.4259927797834  predictions:  {0: 1434, 1: 936, 2: 123}
+14 Accuracy:  66.02486963497793  predictions:  {0: 1398, 1: 989, 2: 106}
+15 Accuracy:  66.14520657841958  predictions:  {0: 1424, 1: 968, 2: 101}
+16 Accuracy:  66.74689129562775  predictions:  {0: 1371, 1: 995, 2: 127}
+17 Accuracy:  66.18531889290013  predictions:  {0: 1547, 1: 852, 2: 94}
+18 Accuracy:  67.38868832731649  predictions:  {0: 1342, 1: 969, 2: 182}
+19 Accuracy:  66.66666666666666  predictions:  {0: 1436, 1: 933, 2: 124}
+20 Accuracy:  67.06778981147212  predictions:  {0: 1325, 1: 998, 2: 170}
+21 Accuracy:  66.78700361010831  predictions:  {0: 1415, 1: 945, 2: 133}
+22 Accuracy:  66.54632972322503  predictions:  {0: 1411, 1: 949, 2: 133}
+23 Accuracy:  66.78700361010831  predictions:  {0: 1393, 1: 960, 2: 140}
+24 Accuracy:  67.06778981147212  predictions:  {0: 1381, 1: 919, 2: 193}
+25 Accuracy:  66.74689129562775  predictions:  {0: 1382, 1: 933, 2: 178}
+26 Accuracy:  67.50902527075813  predictions:  {0: 1326, 1: 978, 2: 189}
+27 Accuracy:  67.42880064179703  predictions:  {0: 1372, 1: 964, 2: 157}
+28 Accuracy:  67.42880064179703  predictions:  {0: 1344, 1: 988, 2: 161}
+29 Accuracy:  67.34857601283593  predictions:  {0: 1373, 1: 955, 2: 165}
+30 Accuracy:  67.58924989971922  predictions:  {0: 1373, 1: 913, 2: 207}
+31 Accuracy:  66.74689129562775  predictions:  {0: 1264, 1: 1077, 2: 152}
+32 Accuracy:  66.78700361010831  predictions:  {0: 1331, 1: 960, 2: 202}
+33 Accuracy:  66.18531889290013  predictions:  {0: 1266, 1: 1041, 2: 186}
+34 Accuracy:  66.50621740874449  predictions:  {0: 1300, 1: 975, 2: 218}
+35 Accuracy:  66.58644203770557  predictions:  {0: 1333, 1: 956, 2: 204}
+36 Accuracy:  67.26835138387484  predictions:  {0: 1404, 1: 897, 2: 192}
+37 Accuracy:  67.34857601283593  predictions:  {0: 1405, 1: 909, 2: 179}
+38 Accuracy:  66.34576815082231  predictions:  {0: 1372, 1: 947, 2: 174}
+39 Accuracy:  66.22543120738067  predictions:  {0: 1405, 1: 934, 2: 154}
+40 Accuracy:  67.14801444043322  predictions:  {0: 1361, 1: 915, 2: 217}
+41 Accuracy:  66.62655435218612  predictions:  {0: 1386, 1: 853, 2: 254}
+42 Accuracy:  66.62655435218612  predictions:  {0: 1431, 1: 1000, 2: 62}
+43 Accuracy:  66.70677898114721  predictions:  {0: 1243, 1: 1088, 2: 162}
+44 Accuracy:  66.62655435218612  predictions:  {0: 1391, 1: 955, 2: 147}
+45 Accuracy:  66.58644203770557  predictions:  {0: 1341, 1: 962, 2: 190}
+46 Accuracy:  66.78700361010831  predictions:  {0: 1358, 1: 991, 2: 144}
+47 Accuracy:  67.38868832731649  predictions:  {0: 1368, 1: 941, 2: 184}
+48 Accuracy:  67.26835138387484  predictions:  {0: 1356, 1: 971, 2: 166}
+49 Accuracy:  66.58644203770557  predictions:  {0: 1393, 1: 908, 2: 192}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  58.06065442936952  predictions:  {0: 1921, 1: 584, 2: 1}
+1 Accuracy:  62.290502793296085  predictions:  {0: 1601, 1: 868, 2: 37}
+2 Accuracy:  63.00877893056664  predictions:  {0: 1549, 1: 908, 2: 49}
+3 Accuracy:  63.32801276935355  predictions:  {0: 1498, 1: 896, 2: 112}
+4 Accuracy:  63.88667198723065  predictions:  {0: 1493, 1: 903, 2: 110}
+5 Accuracy:  64.60494812450119  predictions:  {0: 1514, 1: 866, 2: 126}
+6 Accuracy:  64.60494812450119  predictions:  {0: 1457, 1: 927, 2: 122}
+7 Accuracy:  64.1660015961692  predictions:  {0: 1541, 1: 830, 2: 135}
+8 Accuracy:  64.76456504389465  predictions:  {0: 1491, 1: 889, 2: 126}
+9 Accuracy:  65.44293695131684  predictions:  {0: 1455, 1: 904, 2: 147}
+10 Accuracy:  65.64245810055866  predictions:  {0: 1354, 1: 913, 2: 239}
+11 Accuracy:  65.52274541101357  predictions:  {0: 1445, 1: 913, 2: 148}
+12 Accuracy:  64.96408619313647  predictions:  {0: 1536, 1: 818, 2: 152}
+13 Accuracy:  66.04150039904229  predictions:  {0: 1425, 1: 928, 2: 153}
+14 Accuracy:  66.04150039904229  predictions:  {0: 1403, 1: 850, 2: 253}
+15 Accuracy:  65.32322426177176  predictions:  {0: 1423, 1: 921, 2: 162}
+16 Accuracy:  66.24102154828412  predictions:  {0: 1370, 1: 940, 2: 196}
+17 Accuracy:  66.08140462889067  predictions:  {0: 1390, 1: 903, 2: 213}
+18 Accuracy:  66.12130885873903  predictions:  {0: 1377, 1: 988, 2: 141}
+19 Accuracy:  66.6001596169194  predictions:  {0: 1365, 1: 951, 2: 190}
+20 Accuracy:  65.88188347964883  predictions:  {0: 1533, 1: 848, 2: 125}
+21 Accuracy:  66.28092577813248  predictions:  {0: 1474, 1: 851, 2: 181}
+22 Accuracy:  65.84197924980047  predictions:  {0: 1468, 1: 850, 2: 188}
+23 Accuracy:  66.87948922585794  predictions:  {0: 1389, 1: 883, 2: 234}
+24 Accuracy:  66.56025538707104  predictions:  {0: 1344, 1: 950, 2: 212}
+25 Accuracy:  65.88188347964883  predictions:  {0: 1429, 1: 892, 2: 185}
+26 Accuracy:  66.3607342378292  predictions:  {0: 1375, 1: 915, 2: 216}
+27 Accuracy:  65.20351157222666  predictions:  {0: 1375, 1: 937, 2: 194}
+28 Accuracy:  65.84197924980047  predictions:  {0: 1319, 1: 928, 2: 259}
+29 Accuracy:  65.96169193934557  predictions:  {0: 1315, 1: 949, 2: 242}
+30 Accuracy:  65.24341580207502  predictions:  {0: 1492, 1: 815, 2: 199}
+31 Accuracy:  65.28332003192338  predictions:  {0: 1432, 1: 863, 2: 211}
+32 Accuracy:  65.68236233040702  predictions:  {0: 1467, 1: 873, 2: 166}
+33 Accuracy:  66.00159616919393  predictions:  {0: 1209, 1: 918, 2: 379}
+34 Accuracy:  65.88188347964883  predictions:  {0: 1348, 1: 950, 2: 208}
+35 Accuracy:  66.04150039904229  predictions:  {0: 1248, 1: 1017, 2: 241}
+36 Accuracy:  66.79968076616122  predictions:  {0: 1329, 1: 821, 2: 356}
+37 Accuracy:  65.76217079010375  predictions:  {0: 1454, 1: 875, 2: 177}
+38 Accuracy:  66.04150039904229  predictions:  {0: 1305, 1: 924, 2: 277}
+39 Accuracy:  65.36312849162012  predictions:  {0: 1381, 1: 880, 2: 245}
+40 Accuracy:  65.08379888268156  predictions:  {0: 1183, 1: 1018, 2: 305}
+41 Accuracy:  66.16121308858739  predictions:  {0: 1509, 1: 836, 2: 161}
+42 Accuracy:  66.24102154828412  predictions:  {0: 1396, 1: 873, 2: 237}
+43 Accuracy:  65.68236233040702  predictions:  {0: 1349, 1: 900, 2: 257}
+44 Accuracy:  65.44293695131684  predictions:  {0: 1452, 1: 903, 2: 151}
+45 Accuracy:  65.0438946528332  predictions:  {0: 1315, 1: 1029, 2: 162}
+46 Accuracy:  65.76217079010375  predictions:  {0: 1405, 1: 837, 2: 264}
+47 Accuracy:  65.84197924980047  predictions:  {0: 1372, 1: 789, 2: 345}
+48 Accuracy:  66.28092577813248  predictions:  {0: 1406, 1: 887, 2: 213}
+49 Accuracy:  66.40063846767758  predictions:  {0: 1411, 1: 835, 2: 260}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  61.211391897312474  predictions:  {0: 1277, 1: 1216}
+1 Accuracy:  62.454873646209386  predictions:  {0: 1384, 1: 1071, 2: 38}
+2 Accuracy:  63.537906137184116  predictions:  {0: 1356, 1: 1088, 2: 49}
+3 Accuracy:  63.45768150822303  predictions:  {0: 1318, 1: 1142, 2: 33}
+4 Accuracy:  64.66105094263939  predictions:  {0: 1357, 1: 1009, 2: 127}
+5 Accuracy:  64.30004011231448  predictions:  {0: 1361, 1: 1044, 2: 88}
+6 Accuracy:  65.30284797432812  predictions:  {0: 1372, 1: 1057, 2: 64}
+7 Accuracy:  65.82430806257521  predictions:  {0: 1401, 1: 987, 2: 105}
+8 Accuracy:  65.22262334536703  predictions:  {0: 1351, 1: 1001, 2: 141}
+9 Accuracy:  65.06217408744484  predictions:  {0: 1423, 1: 966, 2: 104}
+10 Accuracy:  64.94183714400322  predictions:  {0: 1472, 1: 928, 2: 93}
+11 Accuracy:  65.18251103088647  predictions:  {0: 1427, 1: 1000, 2: 66}
+12 Accuracy:  64.70116325711993  predictions:  {0: 1475, 1: 935, 2: 83}
+13 Accuracy:  65.34296028880865  predictions:  {0: 1448, 1: 920, 2: 125}
+14 Accuracy:  65.18251103088647  predictions:  {0: 1366, 1: 917, 2: 210}
+15 Accuracy:  64.98194945848375  predictions:  {0: 1447, 1: 909, 2: 137}
+16 Accuracy:  65.30284797432812  predictions:  {0: 1395, 1: 970, 2: 128}
+17 Accuracy:  65.38307260328921  predictions:  {0: 1378, 1: 1016, 2: 99}
+18 Accuracy:  65.38307260328921  predictions:  {0: 1402, 1: 973, 2: 118}
+19 Accuracy:  65.66385880465303  predictions:  {0: 1369, 1: 1005, 2: 119}
+20 Accuracy:  65.9045326915363  predictions:  {0: 1373, 1: 995, 2: 125}
+21 Accuracy:  65.94464500601684  predictions:  {0: 1404, 1: 927, 2: 162}
+22 Accuracy:  66.18531889290013  predictions:  {0: 1377, 1: 970, 2: 146}
+23 Accuracy:  65.58363417569194  predictions:  {0: 1289, 1: 1078, 2: 126}
+24 Accuracy:  65.26273565984756  predictions:  {0: 1356, 1: 964, 2: 173}
+25 Accuracy:  65.54352186121139  predictions:  {0: 1465, 1: 913, 2: 115}
+26 Accuracy:  65.50340954673085  predictions:  {0: 1431, 1: 925, 2: 137}
+27 Accuracy:  65.62374649017248  predictions:  {0: 1303, 1: 1007, 2: 183}
+28 Accuracy:  65.70397111913357  predictions:  {0: 1312, 1: 1055, 2: 126}
+29 Accuracy:  65.22262334536703  predictions:  {0: 1395, 1: 986, 2: 112}
+30 Accuracy:  65.06217408744484  predictions:  {0: 1335, 1: 990, 2: 168}
+31 Accuracy:  64.50060168471721  predictions:  {0: 1212, 1: 1055, 2: 226}
+32 Accuracy:  65.18251103088647  predictions:  {0: 1377, 1: 951, 2: 165}
+33 Accuracy:  65.9045326915363  predictions:  {0: 1424, 1: 904, 2: 165}
+34 Accuracy:  65.06217408744484  predictions:  {0: 1377, 1: 997, 2: 119}
+35 Accuracy:  64.34015242679503  predictions:  {0: 1513, 1: 792, 2: 188}
+36 Accuracy:  65.70397111913357  predictions:  {0: 1326, 1: 1013, 2: 154}
+37 Accuracy:  65.0220617729643  predictions:  {0: 1384, 1: 888, 2: 221}
+38 Accuracy:  64.21981548335339  predictions:  {0: 1343, 1: 983, 2: 167}
+39 Accuracy:  65.14239871640594  predictions:  {0: 1397, 1: 935, 2: 161}
+40 Accuracy:  64.5808263136783  predictions:  {0: 1377, 1: 925, 2: 191}
+41 Accuracy:  64.01925391095065  predictions:  {0: 1495, 1: 895, 2: 103}
+42 Accuracy:  65.06217408744484  predictions:  {0: 1385, 1: 1000, 2: 108}
+43 Accuracy:  64.38026474127557  predictions:  {0: 1280, 1: 1033, 2: 180}
+44 Accuracy:  65.78419574809466  predictions:  {0: 1401, 1: 924, 2: 168}
+45 Accuracy:  64.62093862815884  predictions:  {0: 1364, 1: 964, 2: 165}
+46 Accuracy:  64.82150020056157  predictions:  {0: 1386, 1: 915, 2: 192}
+47 Accuracy:  64.86161251504213  predictions:  {0: 1358, 1: 1044, 2: 91}
+48 Accuracy:  63.81869233854793  predictions:  {0: 1333, 1: 855, 2: 305}
+49 Accuracy:  64.01925391095065  predictions:  {0: 1343, 1: 997, 2: 153}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  60.774142059058256  predictions:  {0: 1536, 1: 970}
+1 Accuracy:  61.49241819632881  predictions:  {0: 1633, 1: 865, 2: 8}
+2 Accuracy:  62.68954509177973  predictions:  {0: 1371, 1: 1034, 2: 101}
+3 Accuracy:  63.36791699920191  predictions:  {0: 1434, 1: 969, 2: 103}
+4 Accuracy:  63.72705506783719  predictions:  {0: 1486, 1: 931, 2: 89}
+5 Accuracy:  63.687150837988824  predictions:  {0: 1447, 1: 946, 2: 113}
+6 Accuracy:  63.567438148443735  predictions:  {0: 1417, 1: 1019, 2: 70}
+7 Accuracy:  64.32561851556265  predictions:  {0: 1434, 1: 919, 2: 153}
+8 Accuracy:  64.60494812450119  predictions:  {0: 1390, 1: 953, 2: 163}
+9 Accuracy:  64.44533120510773  predictions:  {0: 1416, 1: 965, 2: 125}
+10 Accuracy:  64.80446927374301  predictions:  {0: 1403, 1: 961, 2: 142}
+11 Accuracy:  64.72466081404629  predictions:  {0: 1428, 1: 942, 2: 136}
+12 Accuracy:  64.52513966480447  predictions:  {0: 1482, 1: 943, 2: 81}
+13 Accuracy:  65.24341580207502  predictions:  {0: 1425, 1: 921, 2: 160}
+14 Accuracy:  64.80446927374301  predictions:  {0: 1506, 1: 926, 2: 74}
+15 Accuracy:  65.08379888268156  predictions:  {0: 1465, 1: 882, 2: 159}
+16 Accuracy:  65.24341580207502  predictions:  {0: 1437, 1: 897, 2: 172}
+17 Accuracy:  64.88427773343975  predictions:  {0: 1345, 1: 932, 2: 229}
+18 Accuracy:  65.08379888268156  predictions:  {0: 1504, 1: 889, 2: 113}
+19 Accuracy:  65.00399042298484  predictions:  {0: 1447, 1: 893, 2: 166}
+20 Accuracy:  65.08379888268156  predictions:  {0: 1440, 1: 900, 2: 166}
+21 Accuracy:  65.08379888268156  predictions:  {0: 1486, 1: 863, 2: 157}
+22 Accuracy:  65.28332003192338  predictions:  {0: 1424, 1: 869, 2: 213}
+23 Accuracy:  65.28332003192338  predictions:  {0: 1432, 1: 876, 2: 198}
+24 Accuracy:  64.96408619313647  predictions:  {0: 1387, 1: 925, 2: 194}
+25 Accuracy:  65.64245810055866  predictions:  {0: 1382, 1: 950, 2: 174}
+26 Accuracy:  65.56264964086193  predictions:  {0: 1441, 1: 888, 2: 177}
+27 Accuracy:  65.28332003192338  predictions:  {0: 1348, 1: 965, 2: 193}
+28 Accuracy:  64.64485235434955  predictions:  {0: 1479, 1: 867, 2: 160}
+29 Accuracy:  65.28332003192338  predictions:  {0: 1416, 1: 877, 2: 213}
+30 Accuracy:  65.6025538707103  predictions:  {0: 1393, 1: 966, 2: 147}
+31 Accuracy:  65.48284118116521  predictions:  {0: 1456, 1: 820, 2: 230}
+32 Accuracy:  64.80446927374301  predictions:  {0: 1494, 1: 846, 2: 166}
+33 Accuracy:  65.24341580207502  predictions:  {0: 1430, 1: 895, 2: 181}
+34 Accuracy:  65.40303272146848  predictions:  {0: 1537, 1: 832, 2: 137}
+35 Accuracy:  65.52274541101357  predictions:  {0: 1396, 1: 903, 2: 207}
+36 Accuracy:  65.68236233040702  predictions:  {0: 1447, 1: 900, 2: 159}
+37 Accuracy:  66.16121308858739  predictions:  {0: 1423, 1: 869, 2: 214}
+38 Accuracy:  65.32322426177176  predictions:  {0: 1390, 1: 981, 2: 135}
+39 Accuracy:  64.80446927374301  predictions:  {0: 1390, 1: 949, 2: 167}
+40 Accuracy:  65.00399042298484  predictions:  {0: 1391, 1: 949, 2: 166}
+41 Accuracy:  65.1636073423783  predictions:  {0: 1315, 1: 936, 2: 255}
+42 Accuracy:  64.60494812450119  predictions:  {0: 1492, 1: 806, 2: 208}
+43 Accuracy:  65.00399042298484  predictions:  {0: 1518, 1: 826, 2: 162}
+44 Accuracy:  65.56264964086193  predictions:  {0: 1396, 1: 927, 2: 183}
+45 Accuracy:  65.56264964086193  predictions:  {0: 1375, 1: 914, 2: 217}
+46 Accuracy:  66.00159616919393  predictions:  {0: 1402, 1: 915, 2: 189}
+47 Accuracy:  65.56264964086193  predictions:  {0: 1399, 1: 958, 2: 149}
+48 Accuracy:  65.6025538707103  predictions:  {0: 1404, 1: 914, 2: 188}
+49 Accuracy:  65.52274541101357  predictions:  {0: 1455, 1: 860, 2: 191}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  60.449257922182106  predictions:  {0: 1275, 1: 1218}
+1 Accuracy:  62.936221419975936  predictions:  {0: 1435, 1: 1047, 2: 11}
+2 Accuracy:  63.77858002406739  predictions:  {0: 1361, 1: 1084, 2: 48}
+3 Accuracy:  63.37745687926193  predictions:  {0: 1355, 1: 1088, 2: 50}
+4 Accuracy:  64.0593662254312  predictions:  {0: 1422, 1: 1002, 2: 69}
+5 Accuracy:  64.66105094263939  predictions:  {0: 1426, 1: 1001, 2: 66}
+6 Accuracy:  64.54071399919775  predictions:  {0: 1401, 1: 1029, 2: 63}
+7 Accuracy:  64.70116325711993  predictions:  {0: 1318, 1: 1095, 2: 80}
+8 Accuracy:  65.30284797432812  predictions:  {0: 1414, 1: 984, 2: 95}
+9 Accuracy:  65.22262334536703  predictions:  {0: 1364, 1: 1004, 2: 125}
+10 Accuracy:  64.90172482952266  predictions:  {0: 1374, 1: 1003, 2: 116}
+11 Accuracy:  65.18251103088647  predictions:  {0: 1375, 1: 1010, 2: 108}
+12 Accuracy:  64.54071399919775  predictions:  {0: 1341, 1: 1045, 2: 107}
+13 Accuracy:  64.90172482952266  predictions:  {0: 1395, 1: 1017, 2: 81}
+14 Accuracy:  65.70397111913357  predictions:  {0: 1321, 1: 1000, 2: 172}
+15 Accuracy:  65.30284797432812  predictions:  {0: 1403, 1: 1030, 2: 60}
+16 Accuracy:  65.9045326915363  predictions:  {0: 1360, 1: 1004, 2: 129}
+17 Accuracy:  64.74127557160048  predictions:  {0: 1319, 1: 1049, 2: 125}
+18 Accuracy:  65.46329723225031  predictions:  {0: 1330, 1: 1053, 2: 110}
+19 Accuracy:  65.78419574809466  predictions:  {0: 1274, 1: 1065, 2: 154}
+20 Accuracy:  65.30284797432812  predictions:  {0: 1296, 1: 1037, 2: 160}
+21 Accuracy:  65.86442037705575  predictions:  {0: 1347, 1: 927, 2: 219}
+22 Accuracy:  65.54352186121139  predictions:  {0: 1357, 1: 996, 2: 140}
+23 Accuracy:  66.06498194945848  predictions:  {0: 1314, 1: 946, 2: 233}
+24 Accuracy:  66.06498194945848  predictions:  {0: 1387, 1: 913, 2: 193}
+25 Accuracy:  65.94464500601684  predictions:  {0: 1289, 1: 1027, 2: 177}
+26 Accuracy:  65.74408343361412  predictions:  {0: 1313, 1: 982, 2: 198}
+27 Accuracy:  66.34576815082231  predictions:  {0: 1336, 1: 1050, 2: 107}
+28 Accuracy:  66.14520657841958  predictions:  {0: 1248, 1: 1081, 2: 164}
+29 Accuracy:  66.54632972322503  predictions:  {0: 1384, 1: 942, 2: 167}
+30 Accuracy:  65.38307260328921  predictions:  {0: 1301, 1: 1016, 2: 176}
+31 Accuracy:  64.74127557160048  predictions:  {0: 1313, 1: 1065, 2: 115}
+32 Accuracy:  65.14239871640594  predictions:  {0: 1315, 1: 989, 2: 189}
+33 Accuracy:  65.46329723225031  predictions:  {0: 1356, 1: 984, 2: 153}
+34 Accuracy:  65.74408343361412  predictions:  {0: 1269, 1: 1010, 2: 214}
+35 Accuracy:  65.0220617729643  predictions:  {0: 1406, 1: 926, 2: 161}
+36 Accuracy:  65.50340954673085  predictions:  {0: 1235, 1: 1099, 2: 159}
+37 Accuracy:  65.1022864019254  predictions:  {0: 1282, 1: 1045, 2: 166}
+38 Accuracy:  65.14239871640594  predictions:  {0: 1326, 1: 1007, 2: 160}
+39 Accuracy:  65.38307260328921  predictions:  {0: 1339, 1: 964, 2: 190}
+40 Accuracy:  65.66385880465303  predictions:  {0: 1333, 1: 974, 2: 186}
+41 Accuracy:  66.34576815082231  predictions:  {0: 1297, 1: 1006, 2: 190}
+42 Accuracy:  65.9847573204974  predictions:  {0: 1297, 1: 1034, 2: 162}
+43 Accuracy:  65.78419574809466  predictions:  {0: 1321, 1: 984, 2: 188}
+44 Accuracy:  64.46048937023666  predictions:  {0: 1257, 1: 1114, 2: 122}
+45 Accuracy:  64.30004011231448  predictions:  {0: 1514, 1: 919, 2: 60}
+46 Accuracy:  66.30565583634176  predictions:  {0: 1297, 1: 1028, 2: 168}
+47 Accuracy:  64.74127557160048  predictions:  {0: 1385, 1: 967, 2: 141}
+48 Accuracy:  65.1022864019254  predictions:  {0: 1350, 1: 1049, 2: 94}
+49 Accuracy:  64.34015242679503  predictions:  {0: 1214, 1: 1116, 2: 163}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  60.853950518754985  predictions:  {0: 1605, 1: 881, 2: 20}
+1 Accuracy:  62.809257781324824  predictions:  {0: 1432, 1: 1015, 2: 59}
+2 Accuracy:  63.607342378292095  predictions:  {0: 1485, 1: 967, 2: 54}
+3 Accuracy:  62.96887470071828  predictions:  {0: 1392, 1: 1042, 2: 72}
+4 Accuracy:  64.08619313647247  predictions:  {0: 1439, 1: 938, 2: 129}
+5 Accuracy:  64.24581005586593  predictions:  {0: 1417, 1: 954, 2: 135}
+6 Accuracy:  64.0462889066241  predictions:  {0: 1454, 1: 927, 2: 125}
+7 Accuracy:  64.88427773343975  predictions:  {0: 1391, 1: 980, 2: 135}
+8 Accuracy:  64.32561851556265  predictions:  {0: 1443, 1: 968, 2: 95}
+9 Accuracy:  64.84437350359138  predictions:  {0: 1421, 1: 964, 2: 121}
+10 Accuracy:  64.0462889066241  predictions:  {0: 1415, 1: 957, 2: 134}
+11 Accuracy:  65.00399042298484  predictions:  {0: 1447, 1: 891, 2: 168}
+12 Accuracy:  65.28332003192338  predictions:  {0: 1440, 1: 938, 2: 128}
+13 Accuracy:  65.6025538707103  predictions:  {0: 1473, 1: 867, 2: 166}
+14 Accuracy:  65.68236233040702  predictions:  {0: 1476, 1: 907, 2: 123}
+15 Accuracy:  65.36312849162012  predictions:  {0: 1414, 1: 961, 2: 131}
+16 Accuracy:  65.32322426177176  predictions:  {0: 1404, 1: 899, 2: 203}
+17 Accuracy:  66.24102154828412  predictions:  {0: 1443, 1: 862, 2: 201}
+18 Accuracy:  66.12130885873903  predictions:  {0: 1447, 1: 861, 2: 198}
+19 Accuracy:  66.24102154828412  predictions:  {0: 1441, 1: 905, 2: 160}
+20 Accuracy:  65.56264964086193  predictions:  {0: 1526, 1: 789, 2: 191}
+21 Accuracy:  66.6001596169194  predictions:  {0: 1382, 1: 883, 2: 241}
+22 Accuracy:  66.6001596169194  predictions:  {0: 1356, 1: 981, 2: 169}
+23 Accuracy:  65.6025538707103  predictions:  {0: 1418, 1: 885, 2: 203}
+24 Accuracy:  66.52035115722266  predictions:  {0: 1441, 1: 874, 2: 191}
+25 Accuracy:  66.24102154828412  predictions:  {0: 1343, 1: 1011, 2: 152}
+26 Accuracy:  65.88188347964883  predictions:  {0: 1399, 1: 940, 2: 167}
+27 Accuracy:  65.96169193934557  predictions:  {0: 1415, 1: 870, 2: 221}
+28 Accuracy:  66.28092577813248  predictions:  {0: 1312, 1: 994, 2: 200}
+29 Accuracy:  66.16121308858739  predictions:  {0: 1484, 1: 842, 2: 180}
+30 Accuracy:  66.3607342378292  predictions:  {0: 1413, 1: 901, 2: 192}
+31 Accuracy:  65.68236233040702  predictions:  {0: 1473, 1: 881, 2: 152}
+32 Accuracy:  66.08140462889067  predictions:  {0: 1459, 1: 879, 2: 168}
+33 Accuracy:  65.96169193934557  predictions:  {0: 1508, 1: 838, 2: 160}
+34 Accuracy:  66.40063846767758  predictions:  {0: 1397, 1: 947, 2: 162}
+35 Accuracy:  65.48284118116521  predictions:  {0: 1439, 1: 881, 2: 186}
+36 Accuracy:  65.80207501995211  predictions:  {0: 1405, 1: 893, 2: 208}
+37 Accuracy:  66.20111731843575  predictions:  {0: 1386, 1: 942, 2: 178}
+38 Accuracy:  64.96408619313647  predictions:  {0: 1523, 1: 830, 2: 153}
+39 Accuracy:  64.72466081404629  predictions:  {0: 1353, 1: 990, 2: 163}
+40 Accuracy:  65.40303272146848  predictions:  {0: 1427, 1: 852, 2: 227}
+41 Accuracy:  64.84437350359138  predictions:  {0: 1420, 1: 880, 2: 206}
+42 Accuracy:  64.88427773343975  predictions:  {0: 1429, 1: 869, 2: 208}
+43 Accuracy:  64.80446927374301  predictions:  {0: 1452, 1: 835, 2: 219}
+44 Accuracy:  65.64245810055866  predictions:  {0: 1439, 1: 864, 2: 203}
+45 Accuracy:  65.0438946528332  predictions:  {0: 1365, 1: 865, 2: 276}
+46 Accuracy:  65.96169193934557  predictions:  {0: 1406, 1: 931, 2: 169}
+47 Accuracy:  65.32322426177176  predictions:  {0: 1389, 1: 923, 2: 194}
+48 Accuracy:  64.4852354349561  predictions:  {0: 1390, 1: 885, 2: 231}
+49 Accuracy:  64.9241819632881  predictions:  {0: 1460, 1: 882, 2: 164}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  61.17127958283193  predictions:  {0: 1336, 1: 1151, 2: 6}
+1 Accuracy:  61.41195346971521  predictions:  {0: 1284, 1: 1181, 2: 28}
+2 Accuracy:  62.936221419975936  predictions:  {0: 1373, 1: 1073, 2: 47}
+3 Accuracy:  62.89610910549539  predictions:  {0: 1375, 1: 1052, 2: 66}
+4 Accuracy:  63.77858002406739  predictions:  {0: 1318, 1: 1075, 2: 100}
+5 Accuracy:  63.81869233854793  predictions:  {0: 1367, 1: 1029, 2: 97}
+6 Accuracy:  63.57801845166466  predictions:  {0: 1407, 1: 993, 2: 93}
+7 Accuracy:  63.93902928198957  predictions:  {0: 1342, 1: 1012, 2: 139}
+8 Accuracy:  64.13959085439231  predictions:  {0: 1368, 1: 1025, 2: 100}
+9 Accuracy:  64.94183714400322  predictions:  {0: 1317, 1: 1030, 2: 146}
+10 Accuracy:  64.0593662254312  predictions:  {0: 1336, 1: 1037, 2: 120}
+11 Accuracy:  64.25992779783394  predictions:  {0: 1317, 1: 1035, 2: 141}
+12 Accuracy:  64.98194945848375  predictions:  {0: 1289, 1: 1029, 2: 175}
+13 Accuracy:  64.82150020056157  predictions:  {0: 1385, 1: 1005, 2: 103}
+14 Accuracy:  65.26273565984756  predictions:  {0: 1277, 1: 1093, 2: 123}
+15 Accuracy:  64.82150020056157  predictions:  {0: 1371, 1: 940, 2: 182}
+16 Accuracy:  65.42318491776975  predictions:  {0: 1281, 1: 994, 2: 218}
+17 Accuracy:  64.50060168471721  predictions:  {0: 1292, 1: 984, 2: 217}
+18 Accuracy:  65.18251103088647  predictions:  {0: 1383, 1: 930, 2: 180}
+19 Accuracy:  65.46329723225031  predictions:  {0: 1344, 1: 954, 2: 195}
+20 Accuracy:  65.34296028880865  predictions:  {0: 1381, 1: 981, 2: 131}
+21 Accuracy:  65.62374649017248  predictions:  {0: 1326, 1: 1005, 2: 162}
+22 Accuracy:  65.9045326915363  predictions:  {0: 1311, 1: 985, 2: 197}
+23 Accuracy:  65.42318491776975  predictions:  {0: 1401, 1: 909, 2: 183}
+24 Accuracy:  65.50340954673085  predictions:  {0: 1342, 1: 983, 2: 168}
+25 Accuracy:  65.46329723225031  predictions:  {0: 1344, 1: 947, 2: 202}
+26 Accuracy:  65.26273565984756  predictions:  {0: 1216, 1: 1062, 2: 215}
+27 Accuracy:  65.50340954673085  predictions:  {0: 1349, 1: 963, 2: 181}
+28 Accuracy:  64.86161251504213  predictions:  {0: 1360, 1: 935, 2: 198}
+29 Accuracy:  65.38307260328921  predictions:  {0: 1301, 1: 998, 2: 194}
+30 Accuracy:  66.22543120738067  predictions:  {0: 1297, 1: 956, 2: 240}
+31 Accuracy:  64.5808263136783  predictions:  {0: 1367, 1: 918, 2: 208}
+32 Accuracy:  65.14239871640594  predictions:  {0: 1260, 1: 1026, 2: 207}
+33 Accuracy:  65.0220617729643  predictions:  {0: 1281, 1: 1046, 2: 166}
+34 Accuracy:  64.74127557160048  predictions:  {0: 1347, 1: 988, 2: 158}
+35 Accuracy:  64.98194945848375  predictions:  {0: 1295, 1: 1007, 2: 191}
+36 Accuracy:  65.14239871640594  predictions:  {0: 1283, 1: 968, 2: 242}
+37 Accuracy:  65.22262334536703  predictions:  {0: 1332, 1: 973, 2: 188}
+38 Accuracy:  64.62093862815884  predictions:  {0: 1355, 1: 952, 2: 186}
+39 Accuracy:  64.25992779783394  predictions:  {0: 1298, 1: 963, 2: 232}
+40 Accuracy:  64.78138788608103  predictions:  {0: 1205, 1: 1039, 2: 249}
+41 Accuracy:  65.06217408744484  predictions:  {0: 1383, 1: 930, 2: 180}
+42 Accuracy:  64.98194945848375  predictions:  {0: 1306, 1: 1076, 2: 111}
+43 Accuracy:  64.66105094263939  predictions:  {0: 1377, 1: 939, 2: 177}
+44 Accuracy:  64.38026474127557  predictions:  {0: 1330, 1: 964, 2: 199}
+45 Accuracy:  64.46048937023666  predictions:  {0: 1297, 1: 987, 2: 209}
+46 Accuracy:  63.85880465302848  predictions:  {0: 1333, 1: 930, 2: 230}
+47 Accuracy:  64.17970316887285  predictions:  {0: 1113, 1: 1054, 2: 326}
+48 Accuracy:  63.898916967509024  predictions:  {0: 1248, 1: 1001, 2: 244}
+49 Accuracy:  64.17970316887285  predictions:  {0: 1167, 1: 1033, 2: 293}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  59.7366320830008  predictions:  {0: 1690, 1: 811, 2: 5}
+1 Accuracy:  61.29289704708699  predictions:  {0: 1555, 1: 919, 2: 32}
+2 Accuracy:  62.250598563447724  predictions:  {0: 1462, 1: 972, 2: 72}
+3 Accuracy:  62.52992817238627  predictions:  {0: 1421, 1: 1001, 2: 84}
+4 Accuracy:  62.13088587390263  predictions:  {0: 1457, 1: 982, 2: 67}
+5 Accuracy:  62.49002394253791  predictions:  {0: 1444, 1: 988, 2: 74}
+6 Accuracy:  62.33040702314445  predictions:  {0: 1411, 1: 965, 2: 130}
+7 Accuracy:  61.89146049481244  predictions:  {0: 1621, 1: 804, 2: 81}
+8 Accuracy:  63.52753391859537  predictions:  {0: 1424, 1: 990, 2: 92}
+9 Accuracy:  63.32801276935355  predictions:  {0: 1421, 1: 994, 2: 91}
+10 Accuracy:  62.88906624102155  predictions:  {0: 1455, 1: 936, 2: 115}
+11 Accuracy:  63.52753391859537  predictions:  {0: 1430, 1: 942, 2: 134}
+12 Accuracy:  62.92897047086991  predictions:  {0: 1423, 1: 904, 2: 179}
+13 Accuracy:  63.16839584996009  predictions:  {0: 1397, 1: 951, 2: 158}
+14 Accuracy:  63.128491620111724  predictions:  {0: 1433, 1: 940, 2: 133}
+15 Accuracy:  63.20830007980845  predictions:  {0: 1467, 1: 928, 2: 111}
+16 Accuracy:  63.52753391859537  predictions:  {0: 1413, 1: 978, 2: 115}
+17 Accuracy:  63.607342378292095  predictions:  {0: 1418, 1: 930, 2: 158}
+18 Accuracy:  63.40782122905028  predictions:  {0: 1351, 1: 975, 2: 180}
+19 Accuracy:  63.28810853950518  predictions:  {0: 1509, 1: 865, 2: 132}
+20 Accuracy:  63.20830007980845  predictions:  {0: 1516, 1: 868, 2: 122}
+21 Accuracy:  63.40782122905028  predictions:  {0: 1364, 1: 973, 2: 169}
+22 Accuracy:  64.24581005586593  predictions:  {0: 1392, 1: 981, 2: 133}
+23 Accuracy:  63.96648044692738  predictions:  {0: 1398, 1: 938, 2: 170}
+24 Accuracy:  63.96648044692738  predictions:  {0: 1439, 1: 923, 2: 144}
+25 Accuracy:  62.769353551476456  predictions:  {0: 1476, 1: 897, 2: 133}
+26 Accuracy:  63.92657621707901  predictions:  {0: 1354, 1: 993, 2: 159}
+27 Accuracy:  63.487629688747006  predictions:  {0: 1331, 1: 979, 2: 196}
+28 Accuracy:  63.20830007980845  predictions:  {0: 1452, 1: 866, 2: 188}
+29 Accuracy:  63.567438148443735  predictions:  {0: 1369, 1: 952, 2: 185}
+30 Accuracy:  63.28810853950518  predictions:  {0: 1403, 1: 881, 2: 222}
+31 Accuracy:  62.809257781324824  predictions:  {0: 1597, 1: 755, 2: 154}
+32 Accuracy:  63.72705506783719  predictions:  {0: 1375, 1: 948, 2: 183}
+33 Accuracy:  64.20590582601756  predictions:  {0: 1356, 1: 983, 2: 167}
+34 Accuracy:  64.20590582601756  predictions:  {0: 1395, 1: 961, 2: 150}
+35 Accuracy:  64.20590582601756  predictions:  {0: 1420, 1: 942, 2: 144}
+36 Accuracy:  64.44533120510773  predictions:  {0: 1363, 1: 958, 2: 185}
+37 Accuracy:  64.1660015961692  predictions:  {0: 1396, 1: 895, 2: 215}
+38 Accuracy:  64.00638467677574  predictions:  {0: 1419, 1: 880, 2: 207}
+39 Accuracy:  64.0462889066241  predictions:  {0: 1228, 1: 1004, 2: 274}
+40 Accuracy:  63.687150837988824  predictions:  {0: 1385, 1: 952, 2: 169}
+41 Accuracy:  64.20590582601756  predictions:  {0: 1345, 1: 942, 2: 219}
+42 Accuracy:  64.36552274541101  predictions:  {0: 1378, 1: 927, 2: 201}
+43 Accuracy:  62.92897047086991  predictions:  {0: 1431, 1: 965, 2: 110}
+44 Accuracy:  63.44772545889864  predictions:  {0: 1511, 1: 864, 2: 131}
+45 Accuracy:  64.20590582601756  predictions:  {0: 1456, 1: 928, 2: 122}
+46 Accuracy:  64.64485235434955  predictions:  {0: 1406, 1: 891, 2: 209}
+47 Accuracy:  62.609736632083  predictions:  {0: 1600, 1: 745, 2: 161}
+48 Accuracy:  63.567438148443735  predictions:  {0: 1388, 1: 835, 2: 283}
+49 Accuracy:  63.36791699920191  predictions:  {0: 1320, 1: 986, 2: 200}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  62.19903691813804  predictions:  {0: 1449, 1: 1043}
+1 Accuracy:  62.52006420545746  predictions:  {0: 1416, 1: 1028, 2: 48}
+2 Accuracy:  63.28250401284109  predictions:  {0: 1307, 1: 1098, 2: 87}
+3 Accuracy:  64.08507223113965  predictions:  {0: 1379, 1: 1025, 2: 88}
+4 Accuracy:  64.00481540930978  predictions:  {0: 1392, 1: 973, 2: 127}
+5 Accuracy:  63.56340288924559  predictions:  {0: 1488, 1: 905, 2: 99}
+6 Accuracy:  63.96468699839486  predictions:  {0: 1483, 1: 910, 2: 99}
+7 Accuracy:  64.84751203852326  predictions:  {0: 1334, 1: 990, 2: 168}
+8 Accuracy:  65.12841091492777  predictions:  {0: 1368, 1: 1012, 2: 112}
+9 Accuracy:  65.12841091492777  predictions:  {0: 1370, 1: 942, 2: 180}
+10 Accuracy:  65.12841091492777  predictions:  {0: 1416, 1: 924, 2: 152}
+11 Accuracy:  66.05136436597111  predictions:  {0: 1352, 1: 922, 2: 218}
+12 Accuracy:  65.6099518459069  predictions:  {0: 1364, 1: 950, 2: 178}
+13 Accuracy:  64.7271268057785  predictions:  {0: 1332, 1: 1026, 2: 134}
+14 Accuracy:  65.24879614767255  predictions:  {0: 1402, 1: 922, 2: 168}
+15 Accuracy:  65.40930979133226  predictions:  {0: 1340, 1: 988, 2: 164}
+16 Accuracy:  65.00802568218299  predictions:  {0: 1391, 1: 975, 2: 126}
+17 Accuracy:  65.97110754414125  predictions:  {0: 1351, 1: 899, 2: 242}
+18 Accuracy:  65.56982343499197  predictions:  {0: 1351, 1: 942, 2: 199}
+19 Accuracy:  65.24879614767255  predictions:  {0: 1368, 1: 943, 2: 181}
+20 Accuracy:  65.8908507223114  predictions:  {0: 1317, 1: 950, 2: 225}
+21 Accuracy:  66.41252006420547  predictions:  {0: 1406, 1: 907, 2: 179}
+22 Accuracy:  65.93097913322632  predictions:  {0: 1312, 1: 959, 2: 221}
+23 Accuracy:  66.69341894060994  predictions:  {0: 1455, 1: 892, 2: 145}
+24 Accuracy:  66.09149277688604  predictions:  {0: 1360, 1: 932, 2: 200}
+25 Accuracy:  65.56982343499197  predictions:  {0: 1490, 1: 815, 2: 187}
+26 Accuracy:  65.7704654895666  predictions:  {0: 1290, 1: 968, 2: 234}
+27 Accuracy:  65.73033707865169  predictions:  {0: 1391, 1: 848, 2: 253}
+28 Accuracy:  65.85072231139647  predictions:  {0: 1332, 1: 970, 2: 190}
+29 Accuracy:  66.41252006420547  predictions:  {0: 1335, 1: 958, 2: 199}
+30 Accuracy:  66.37239165329053  predictions:  {0: 1368, 1: 908, 2: 216}
+31 Accuracy:  66.45264847512038  predictions:  {0: 1390, 1: 825, 2: 277}
+32 Accuracy:  66.13162118780096  predictions:  {0: 1387, 1: 925, 2: 180}
+33 Accuracy:  66.49277688603532  predictions:  {0: 1283, 1: 969, 2: 240}
+34 Accuracy:  66.05136436597111  predictions:  {0: 1383, 1: 848, 2: 261}
+35 Accuracy:  63.56340288924559  predictions:  {0: 1003, 1: 1001, 2: 488}
+36 Accuracy:  66.21187800963082  predictions:  {0: 1354, 1: 917, 2: 221}
+37 Accuracy:  65.40930979133226  predictions:  {0: 1379, 1: 938, 2: 175}
+38 Accuracy:  65.12841091492777  predictions:  {0: 1314, 1: 989, 2: 189}
+39 Accuracy:  65.7704654895666  predictions:  {0: 1369, 1: 884, 2: 239}
+40 Accuracy:  64.8876404494382  predictions:  {0: 1360, 1: 922, 2: 210}
+41 Accuracy:  65.08828250401284  predictions:  {0: 1357, 1: 827, 2: 308}
+42 Accuracy:  64.48635634028892  predictions:  {0: 1417, 1: 818, 2: 257}
+43 Accuracy:  65.93097913322632  predictions:  {0: 1373, 1: 936, 2: 183}
+44 Accuracy:  65.97110754414125  predictions:  {0: 1353, 1: 955, 2: 184}
+45 Accuracy:  64.48635634028892  predictions:  {0: 1517, 1: 813, 2: 162}
+46 Accuracy:  65.24879614767255  predictions:  {0: 1461, 1: 912, 2: 119}
+47 Accuracy:  65.7704654895666  predictions:  {0: 1367, 1: 897, 2: 228}
+48 Accuracy:  66.57303370786516  predictions:  {0: 1269, 1: 1026, 2: 197}
+49 Accuracy:  66.21187800963082  predictions:  {0: 1371, 1: 907, 2: 214}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  61.49241819632881  predictions:  {0: 1560, 1: 941, 2: 5}
+1 Accuracy:  62.52992817238627  predictions:  {0: 1504, 1: 968, 2: 34}
+2 Accuracy:  63.32801276935355  predictions:  {0: 1474, 1: 980, 2: 52}
+3 Accuracy:  63.96648044692738  predictions:  {0: 1473, 1: 956, 2: 77}
+4 Accuracy:  63.88667198723065  predictions:  {0: 1459, 1: 973, 2: 74}
+5 Accuracy:  63.96648044692738  predictions:  {0: 1467, 1: 943, 2: 96}
+6 Accuracy:  64.96408619313647  predictions:  {0: 1388, 1: 993, 2: 125}
+7 Accuracy:  64.20590582601756  predictions:  {0: 1403, 1: 968, 2: 135}
+8 Accuracy:  64.44533120510773  predictions:  {0: 1443, 1: 943, 2: 120}
+9 Accuracy:  65.52274541101357  predictions:  {0: 1404, 1: 926, 2: 176}
+10 Accuracy:  64.64485235434955  predictions:  {0: 1477, 1: 888, 2: 141}
+11 Accuracy:  64.4852354349561  predictions:  {0: 1495, 1: 880, 2: 131}
+12 Accuracy:  65.28332003192338  predictions:  {0: 1410, 1: 941, 2: 155}
+13 Accuracy:  64.9241819632881  predictions:  {0: 1480, 1: 858, 2: 168}
+14 Accuracy:  64.80446927374301  predictions:  {0: 1465, 1: 886, 2: 155}
+15 Accuracy:  65.1636073423783  predictions:  {0: 1422, 1: 914, 2: 170}
+16 Accuracy:  65.80207501995211  predictions:  {0: 1446, 1: 880, 2: 180}
+17 Accuracy:  65.92178770949721  predictions:  {0: 1514, 1: 833, 2: 159}
+18 Accuracy:  65.0438946528332  predictions:  {0: 1511, 1: 865, 2: 130}
+19 Accuracy:  65.72226656025538  predictions:  {0: 1421, 1: 918, 2: 167}
+20 Accuracy:  65.36312849162012  predictions:  {0: 1416, 1: 916, 2: 174}
+21 Accuracy:  65.76217079010375  predictions:  {0: 1443, 1: 922, 2: 141}
+22 Accuracy:  65.64245810055866  predictions:  {0: 1376, 1: 936, 2: 194}
+23 Accuracy:  65.08379888268156  predictions:  {0: 1457, 1: 902, 2: 147}
+24 Accuracy:  65.12370311252992  predictions:  {0: 1415, 1: 962, 2: 129}
+25 Accuracy:  64.80446927374301  predictions:  {0: 1375, 1: 931, 2: 200}
+26 Accuracy:  65.1636073423783  predictions:  {0: 1457, 1: 852, 2: 197}
+27 Accuracy:  65.12370311252992  predictions:  {0: 1359, 1: 922, 2: 225}
+28 Accuracy:  65.36312849162012  predictions:  {0: 1358, 1: 959, 2: 189}
+29 Accuracy:  65.48284118116521  predictions:  {0: 1427, 1: 927, 2: 152}
+30 Accuracy:  65.40303272146848  predictions:  {0: 1387, 1: 917, 2: 202}
+31 Accuracy:  65.64245810055866  predictions:  {0: 1348, 1: 1014, 2: 144}
+32 Accuracy:  65.48284118116521  predictions:  {0: 1337, 1: 1011, 2: 158}
+33 Accuracy:  64.9241819632881  predictions:  {0: 1359, 1: 957, 2: 190}
+34 Accuracy:  65.24341580207502  predictions:  {0: 1308, 1: 893, 2: 305}
+35 Accuracy:  65.40303272146848  predictions:  {0: 1338, 1: 977, 2: 191}
+36 Accuracy:  65.0438946528332  predictions:  {0: 1394, 1: 986, 2: 126}
+37 Accuracy:  64.9241819632881  predictions:  {0: 1339, 1: 853, 2: 314}
+38 Accuracy:  65.00399042298484  predictions:  {0: 1398, 1: 828, 2: 280}
+39 Accuracy:  65.48284118116521  predictions:  {0: 1366, 1: 957, 2: 183}
+40 Accuracy:  64.56504389465283  predictions:  {0: 1580, 1: 832, 2: 94}
+41 Accuracy:  66.24102154828412  predictions:  {0: 1467, 1: 892, 2: 147}
+42 Accuracy:  66.16121308858739  predictions:  {0: 1344, 1: 956, 2: 206}
+43 Accuracy:  66.12130885873903  predictions:  {0: 1383, 1: 945, 2: 178}
+44 Accuracy:  67.0391061452514  predictions:  {0: 1356, 1: 949, 2: 201}
+45 Accuracy:  66.16121308858739  predictions:  {0: 1344, 1: 893, 2: 269}
+46 Accuracy:  65.20351157222666  predictions:  {0: 1361, 1: 952, 2: 193}
+47 Accuracy:  65.88188347964883  predictions:  {0: 1346, 1: 983, 2: 177}
+48 Accuracy:  65.32322426177176  predictions:  {0: 1466, 1: 849, 2: 191}
+49 Accuracy:  65.28332003192338  predictions:  {0: 1327, 1: 1072, 2: 107}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  62.31942215088283  predictions:  {0: 1368, 1: 1124}
+1 Accuracy:  62.2792937399679  predictions:  {0: 1499, 1: 979, 2: 14}
+2 Accuracy:  62.92134831460674  predictions:  {0: 1341, 1: 1116, 2: 35}
+3 Accuracy:  63.48314606741573  predictions:  {0: 1385, 1: 1051, 2: 56}
+4 Accuracy:  63.7239165329053  predictions:  {0: 1384, 1: 963, 2: 145}
+5 Accuracy:  63.64365971107544  predictions:  {0: 1333, 1: 1058, 2: 101}
+6 Accuracy:  63.76404494382022  predictions:  {0: 1376, 1: 1005, 2: 111}
+7 Accuracy:  64.12520064205457  predictions:  {0: 1466, 1: 908, 2: 118}
+8 Accuracy:  64.32584269662921  predictions:  {0: 1359, 1: 989, 2: 144}
+9 Accuracy:  64.04494382022472  predictions:  {0: 1408, 1: 912, 2: 172}
+10 Accuracy:  65.1685393258427  predictions:  {0: 1429, 1: 924, 2: 139}
+11 Accuracy:  65.08828250401284  predictions:  {0: 1287, 1: 1024, 2: 181}
+12 Accuracy:  64.92776886035313  predictions:  {0: 1343, 1: 1029, 2: 120}
+13 Accuracy:  65.40930979133226  predictions:  {0: 1366, 1: 914, 2: 212}
+14 Accuracy:  65.0481540930979  predictions:  {0: 1367, 1: 930, 2: 195}
+15 Accuracy:  65.20866773675762  predictions:  {0: 1368, 1: 984, 2: 140}
+16 Accuracy:  65.0481540930979  predictions:  {0: 1374, 1: 955, 2: 163}
+17 Accuracy:  65.24879614767255  predictions:  {0: 1228, 1: 1057, 2: 207}
+18 Accuracy:  65.7704654895666  predictions:  {0: 1390, 1: 964, 2: 138}
+19 Accuracy:  65.4494382022472  predictions:  {0: 1396, 1: 974, 2: 122}
+20 Accuracy:  65.0481540930979  predictions:  {0: 1352, 1: 925, 2: 215}
+21 Accuracy:  65.36918138041734  predictions:  {0: 1332, 1: 995, 2: 165}
+22 Accuracy:  65.48956661316213  predictions:  {0: 1302, 1: 938, 2: 252}
+23 Accuracy:  65.0481540930979  predictions:  {0: 1345, 1: 968, 2: 179}
+24 Accuracy:  65.32905296950241  predictions:  {0: 1299, 1: 971, 2: 222}
+25 Accuracy:  65.8908507223114  predictions:  {0: 1432, 1: 894, 2: 166}
+26 Accuracy:  66.21187800963082  predictions:  {0: 1334, 1: 932, 2: 226}
+27 Accuracy:  65.73033707865169  predictions:  {0: 1342, 1: 930, 2: 220}
+28 Accuracy:  65.97110754414125  predictions:  {0: 1284, 1: 962, 2: 246}
+29 Accuracy:  65.97110754414125  predictions:  {0: 1359, 1: 995, 2: 138}
+30 Accuracy:  65.56982343499197  predictions:  {0: 1286, 1: 1051, 2: 155}
+31 Accuracy:  66.09149277688604  predictions:  {0: 1337, 1: 935, 2: 220}
+32 Accuracy:  65.28892455858748  predictions:  {0: 1360, 1: 956, 2: 176}
+33 Accuracy:  65.81059390048154  predictions:  {0: 1381, 1: 1019, 2: 92}
+34 Accuracy:  66.13162118780096  predictions:  {0: 1409, 1: 967, 2: 116}
+35 Accuracy:  66.21187800963082  predictions:  {0: 1338, 1: 945, 2: 209}
+36 Accuracy:  66.3322632423756  predictions:  {0: 1334, 1: 903, 2: 255}
+37 Accuracy:  65.7704654895666  predictions:  {0: 1303, 1: 992, 2: 197}
+38 Accuracy:  65.24879614767255  predictions:  {0: 1378, 1: 840, 2: 274}
+39 Accuracy:  65.65008025682182  predictions:  {0: 1343, 1: 932, 2: 217}
+40 Accuracy:  66.37239165329053  predictions:  {0: 1413, 1: 848, 2: 231}
+41 Accuracy:  65.8908507223114  predictions:  {0: 1436, 1: 879, 2: 177}
+42 Accuracy:  65.12841091492777  predictions:  {0: 1409, 1: 904, 2: 179}
+43 Accuracy:  65.7704654895666  predictions:  {0: 1266, 1: 1092, 2: 134}
+44 Accuracy:  65.93097913322632  predictions:  {0: 1327, 1: 978, 2: 187}
+45 Accuracy:  66.53290529695025  predictions:  {0: 1254, 1: 965, 2: 273}
+46 Accuracy:  66.45264847512038  predictions:  {0: 1307, 1: 979, 2: 206}
+47 Accuracy:  66.53290529695025  predictions:  {0: 1308, 1: 919, 2: 265}
+48 Accuracy:  65.73033707865169  predictions:  {0: 1257, 1: 1011, 2: 224}
+49 Accuracy:  64.8876404494382  predictions:  {0: 1285, 1: 930, 2: 277}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  62.609736632083  predictions:  {0: 1528, 1: 976, 2: 2}
+1 Accuracy:  63.00877893056664  predictions:  {0: 1534, 1: 955, 2: 17}
+2 Accuracy:  64.0462889066241  predictions:  {0: 1443, 1: 1034, 2: 29}
+3 Accuracy:  64.20590582601756  predictions:  {0: 1467, 1: 970, 2: 69}
+4 Accuracy:  64.32561851556265  predictions:  {0: 1408, 1: 1028, 2: 70}
+5 Accuracy:  64.68475658419793  predictions:  {0: 1450, 1: 896, 2: 160}
+6 Accuracy:  64.4852354349561  predictions:  {0: 1430, 1: 961, 2: 115}
+7 Accuracy:  65.1636073423783  predictions:  {0: 1418, 1: 962, 2: 126}
+8 Accuracy:  64.80446927374301  predictions:  {0: 1432, 1: 928, 2: 146}
+9 Accuracy:  64.64485235434955  predictions:  {0: 1467, 1: 954, 2: 85}
+10 Accuracy:  65.40303272146848  predictions:  {0: 1470, 1: 922, 2: 114}
+11 Accuracy:  65.12370311252992  predictions:  {0: 1454, 1: 920, 2: 132}
+12 Accuracy:  65.48284118116521  predictions:  {0: 1481, 1: 874, 2: 151}
+13 Accuracy:  65.96169193934557  predictions:  {0: 1412, 1: 902, 2: 192}
+14 Accuracy:  65.64245810055866  predictions:  {0: 1504, 1: 872, 2: 130}
+15 Accuracy:  65.64245810055866  predictions:  {0: 1438, 1: 881, 2: 187}
+16 Accuracy:  65.92178770949721  predictions:  {0: 1469, 1: 881, 2: 156}
+17 Accuracy:  66.12130885873903  predictions:  {0: 1468, 1: 888, 2: 150}
+18 Accuracy:  66.3607342378292  predictions:  {0: 1434, 1: 893, 2: 179}
+19 Accuracy:  65.88188347964883  predictions:  {0: 1417, 1: 939, 2: 150}
+20 Accuracy:  65.24341580207502  predictions:  {0: 1319, 1: 964, 2: 223}
+21 Accuracy:  64.84437350359138  predictions:  {0: 1412, 1: 879, 2: 215}
+22 Accuracy:  65.64245810055866  predictions:  {0: 1406, 1: 889, 2: 211}
+23 Accuracy:  65.56264964086193  predictions:  {0: 1420, 1: 839, 2: 247}
+24 Accuracy:  65.84197924980047  predictions:  {0: 1303, 1: 958, 2: 245}
+25 Accuracy:  65.76217079010375  predictions:  {0: 1486, 1: 873, 2: 147}
+26 Accuracy:  64.32561851556265  predictions:  {0: 1547, 1: 834, 2: 125}
+27 Accuracy:  65.84197924980047  predictions:  {0: 1409, 1: 869, 2: 228}
+28 Accuracy:  65.56264964086193  predictions:  {0: 1452, 1: 909, 2: 145}
+29 Accuracy:  66.16121308858739  predictions:  {0: 1443, 1: 909, 2: 154}
+30 Accuracy:  64.80446927374301  predictions:  {0: 1555, 1: 856, 2: 95}
+31 Accuracy:  65.6025538707103  predictions:  {0: 1387, 1: 944, 2: 175}
+32 Accuracy:  66.44054269752594  predictions:  {0: 1392, 1: 905, 2: 209}
+33 Accuracy:  66.00159616919393  predictions:  {0: 1456, 1: 909, 2: 141}
+34 Accuracy:  65.0438946528332  predictions:  {0: 1489, 1: 870, 2: 147}
+35 Accuracy:  65.52274541101357  predictions:  {0: 1403, 1: 929, 2: 174}
+36 Accuracy:  65.1636073423783  predictions:  {0: 1526, 1: 827, 2: 153}
+37 Accuracy:  66.40063846767758  predictions:  {0: 1330, 1: 955, 2: 221}
+38 Accuracy:  66.08140462889067  predictions:  {0: 1300, 1: 1000, 2: 206}
+39 Accuracy:  66.4804469273743  predictions:  {0: 1333, 1: 921, 2: 252}
+40 Accuracy:  66.28092577813248  predictions:  {0: 1368, 1: 889, 2: 249}
+41 Accuracy:  65.28332003192338  predictions:  {0: 1406, 1: 922, 2: 178}
+42 Accuracy:  66.79968076616122  predictions:  {0: 1403, 1: 910, 2: 193}
+43 Accuracy:  65.64245810055866  predictions:  {0: 1452, 1: 864, 2: 190}
+44 Accuracy:  65.84197924980047  predictions:  {0: 1304, 1: 998, 2: 204}
+45 Accuracy:  65.88188347964883  predictions:  {0: 1368, 1: 930, 2: 208}
+46 Accuracy:  66.08140462889067  predictions:  {0: 1322, 1: 971, 2: 213}
+47 Accuracy:  65.6025538707103  predictions:  {0: 1378, 1: 899, 2: 229}
+48 Accuracy:  65.68236233040702  predictions:  {0: 1403, 1: 875, 2: 228}
+49 Accuracy:  65.32322426177176  predictions:  {0: 1316, 1: 973, 2: 217}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  59.18940609951846  predictions:  {0: 1752, 1: 740}
+1 Accuracy:  61.59711075441413  predictions:  {0: 1568, 1: 908, 2: 16}
+2 Accuracy:  62.68057784911717  predictions:  {0: 1422, 1: 1013, 2: 57}
+3 Accuracy:  62.84109149277689  predictions:  {0: 1311, 1: 1113, 2: 68}
+4 Accuracy:  63.68378812199037  predictions:  {0: 1359, 1: 1058, 2: 75}
+5 Accuracy:  63.40288924558587  predictions:  {0: 1381, 1: 1057, 2: 54}
+6 Accuracy:  63.7239165329053  predictions:  {0: 1364, 1: 1048, 2: 80}
+7 Accuracy:  64.00481540930978  predictions:  {0: 1336, 1: 1056, 2: 100}
+8 Accuracy:  64.64686998394865  predictions:  {0: 1350, 1: 1007, 2: 135}
+9 Accuracy:  64.64686998394865  predictions:  {0: 1393, 1: 1010, 2: 89}
+10 Accuracy:  64.7271268057785  predictions:  {0: 1330, 1: 1041, 2: 121}
+11 Accuracy:  63.76404494382022  predictions:  {0: 1271, 1: 1121, 2: 100}
+12 Accuracy:  64.446227929374  predictions:  {0: 1345, 1: 990, 2: 157}
+13 Accuracy:  64.68699839486356  predictions:  {0: 1307, 1: 1063, 2: 122}
+14 Accuracy:  65.4494382022472  predictions:  {0: 1288, 1: 1024, 2: 180}
+15 Accuracy:  65.00802568218299  predictions:  {0: 1326, 1: 1016, 2: 150}
+16 Accuracy:  65.28892455858748  predictions:  {0: 1335, 1: 1026, 2: 131}
+17 Accuracy:  65.0481540930979  predictions:  {0: 1233, 1: 1073, 2: 186}
+18 Accuracy:  64.8876404494382  predictions:  {0: 1353, 1: 994, 2: 145}
+19 Accuracy:  64.7271268057785  predictions:  {0: 1323, 1: 1038, 2: 131}
+20 Accuracy:  65.81059390048154  predictions:  {0: 1329, 1: 1002, 2: 161}
+21 Accuracy:  65.8908507223114  predictions:  {0: 1403, 1: 970, 2: 119}
+22 Accuracy:  64.80738362760835  predictions:  {0: 1435, 1: 938, 2: 119}
+23 Accuracy:  65.52969502407706  predictions:  {0: 1331, 1: 1045, 2: 116}
+24 Accuracy:  65.69020866773675  predictions:  {0: 1310, 1: 1030, 2: 152}
+25 Accuracy:  66.09149277688604  predictions:  {0: 1310, 1: 944, 2: 238}
+26 Accuracy:  65.97110754414125  predictions:  {0: 1339, 1: 1041, 2: 112}
+27 Accuracy:  66.25200642054575  predictions:  {0: 1345, 1: 989, 2: 158}
+28 Accuracy:  65.6099518459069  predictions:  {0: 1202, 1: 1035, 2: 255}
+29 Accuracy:  65.12841091492777  predictions:  {0: 1283, 1: 1018, 2: 191}
+30 Accuracy:  65.1685393258427  predictions:  {0: 1276, 1: 982, 2: 234}
+31 Accuracy:  65.08828250401284  predictions:  {0: 1324, 1: 1042, 2: 126}
+32 Accuracy:  65.52969502407706  predictions:  {0: 1406, 1: 943, 2: 143}
+33 Accuracy:  64.76725521669341  predictions:  {0: 1335, 1: 1016, 2: 141}
+34 Accuracy:  65.48956661316213  predictions:  {0: 1408, 1: 945, 2: 139}
+35 Accuracy:  65.4494382022472  predictions:  {0: 1319, 1: 983, 2: 190}
+36 Accuracy:  65.8908507223114  predictions:  {0: 1248, 1: 1019, 2: 225}
+37 Accuracy:  65.32905296950241  predictions:  {0: 1281, 1: 930, 2: 281}
+38 Accuracy:  65.12841091492777  predictions:  {0: 1234, 1: 1002, 2: 256}
+39 Accuracy:  65.4494382022472  predictions:  {0: 1389, 1: 924, 2: 179}
+40 Accuracy:  65.28892455858748  predictions:  {0: 1286, 1: 1001, 2: 205}
+41 Accuracy:  65.69020866773675  predictions:  {0: 1340, 1: 999, 2: 153}
+42 Accuracy:  64.36597110754414  predictions:  {0: 1259, 1: 1097, 2: 136}
+43 Accuracy:  65.0481540930979  predictions:  {0: 1341, 1: 1052, 2: 99}
+44 Accuracy:  64.80738362760835  predictions:  {0: 1283, 1: 948, 2: 261}
+45 Accuracy:  64.92776886035313  predictions:  {0: 1269, 1: 1014, 2: 209}
+46 Accuracy:  65.69020866773675  predictions:  {0: 1277, 1: 974, 2: 241}
+47 Accuracy:  64.64686998394865  predictions:  {0: 1327, 1: 909, 2: 256}
+48 Accuracy:  64.92776886035313  predictions:  {0: 1232, 1: 1049, 2: 211}
+49 Accuracy:  64.32584269662921  predictions:  {0: 1163, 1: 954, 2: 375}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  61.0534716679968  predictions:  {0: 1532, 1: 958, 2: 16}
+1 Accuracy:  61.97126895450917  predictions:  {0: 1514, 1: 946, 2: 46}
+2 Accuracy:  62.92897047086991  predictions:  {0: 1500, 1: 961, 2: 45}
+3 Accuracy:  63.607342378292095  predictions:  {0: 1489, 1: 951, 2: 66}
+4 Accuracy:  63.567438148443735  predictions:  {0: 1441, 1: 989, 2: 76}
+5 Accuracy:  63.96648044692738  predictions:  {0: 1459, 1: 932, 2: 115}
+6 Accuracy:  63.487629688747006  predictions:  {0: 1517, 1: 898, 2: 91}
+7 Accuracy:  64.52513966480447  predictions:  {0: 1464, 1: 951, 2: 91}
+8 Accuracy:  64.56504389465283  predictions:  {0: 1475, 1: 948, 2: 83}
+9 Accuracy:  65.20351157222666  predictions:  {0: 1445, 1: 945, 2: 116}
+10 Accuracy:  65.12370311252992  predictions:  {0: 1440, 1: 954, 2: 112}
+11 Accuracy:  65.20351157222666  predictions:  {0: 1415, 1: 939, 2: 152}
+12 Accuracy:  65.48284118116521  predictions:  {0: 1398, 1: 965, 2: 143}
+13 Accuracy:  65.36312849162012  predictions:  {0: 1362, 1: 1016, 2: 128}
+14 Accuracy:  65.64245810055866  predictions:  {0: 1420, 1: 949, 2: 137}
+15 Accuracy:  66.00159616919393  predictions:  {0: 1432, 1: 935, 2: 139}
+16 Accuracy:  66.04150039904229  predictions:  {0: 1423, 1: 940, 2: 143}
+17 Accuracy:  65.40303272146848  predictions:  {0: 1392, 1: 929, 2: 185}
+18 Accuracy:  65.72226656025538  predictions:  {0: 1440, 1: 912, 2: 154}
+19 Accuracy:  66.24102154828412  predictions:  {0: 1361, 1: 979, 2: 166}
+20 Accuracy:  65.40303272146848  predictions:  {0: 1467, 1: 931, 2: 108}
+21 Accuracy:  65.84197924980047  predictions:  {0: 1408, 1: 943, 2: 155}
+22 Accuracy:  65.52274541101357  predictions:  {0: 1278, 1: 1060, 2: 168}
+23 Accuracy:  65.80207501995211  predictions:  {0: 1442, 1: 929, 2: 135}
+24 Accuracy:  66.4804469273743  predictions:  {0: 1352, 1: 957, 2: 197}
+25 Accuracy:  65.72226656025538  predictions:  {0: 1393, 1: 1025, 2: 88}
+26 Accuracy:  65.92178770949721  predictions:  {0: 1455, 1: 950, 2: 101}
+27 Accuracy:  65.84197924980047  predictions:  {0: 1401, 1: 962, 2: 143}
+28 Accuracy:  65.1636073423783  predictions:  {0: 1452, 1: 911, 2: 143}
+29 Accuracy:  65.44293695131684  predictions:  {0: 1334, 1: 991, 2: 181}
+30 Accuracy:  65.72226656025538  predictions:  {0: 1443, 1: 960, 2: 103}
+31 Accuracy:  65.12370311252992  predictions:  {0: 1384, 1: 953, 2: 169}
+32 Accuracy:  66.12130885873903  predictions:  {0: 1390, 1: 931, 2: 185}
+33 Accuracy:  65.84197924980047  predictions:  {0: 1252, 1: 1024, 2: 230}
+34 Accuracy:  65.48284118116521  predictions:  {0: 1307, 1: 951, 2: 248}
+35 Accuracy:  65.52274541101357  predictions:  {0: 1351, 1: 968, 2: 187}
+36 Accuracy:  65.12370311252992  predictions:  {0: 1418, 1: 919, 2: 169}
+37 Accuracy:  66.04150039904229  predictions:  {0: 1365, 1: 894, 2: 247}
+38 Accuracy:  65.68236233040702  predictions:  {0: 1350, 1: 960, 2: 196}
+39 Accuracy:  66.12130885873903  predictions:  {0: 1357, 1: 959, 2: 190}
+40 Accuracy:  66.32083000798085  predictions:  {0: 1389, 1: 978, 2: 139}
+41 Accuracy:  65.0438946528332  predictions:  {0: 1345, 1: 980, 2: 181}
+42 Accuracy:  65.28332003192338  predictions:  {0: 1302, 1: 993, 2: 211}
+43 Accuracy:  64.36552274541101  predictions:  {0: 1313, 1: 1005, 2: 188}
+44 Accuracy:  65.48284118116521  predictions:  {0: 1381, 1: 1047, 2: 78}
+45 Accuracy:  64.60494812450119  predictions:  {0: 1398, 1: 1029, 2: 79}
+46 Accuracy:  64.32561851556265  predictions:  {0: 1337, 1: 1018, 2: 151}
+47 Accuracy:  65.0438946528332  predictions:  {0: 1303, 1: 998, 2: 205}
+48 Accuracy:  64.40542697525937  predictions:  {0: 1340, 1: 930, 2: 236}
+49 Accuracy:  63.80686352753392  predictions:  {0: 1321, 1: 1022, 2: 163}
+ - Finished: Seperated starting player Convolutional
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  80.45609121824366  predictions:  {0: 3002, 1: 1997}
+1 Accuracy:  82.17643528705742  predictions:  {0: 3108, 1: 1891}
+2 Accuracy:  82.07641528305662  predictions:  {0: 3039, 1: 1960}
+3 Accuracy:  82.07641528305662  predictions:  {0: 3049, 1: 1950}
+4 Accuracy:  82.29645929185837  predictions:  {0: 3040, 1: 1959}
+5 Accuracy:  81.95639127825565  predictions:  {0: 3061, 1: 1938}
+6 Accuracy:  82.77655531106221  predictions:  {0: 3178, 1: 1821}
+7 Accuracy:  81.69633926785357  predictions:  {0: 3002, 1: 1997}
+8 Accuracy:  81.67633526705342  predictions:  {0: 3011, 1: 1988}
+9 Accuracy:  80.47609521904381  predictions:  {0: 2837, 1: 2162}
+10 Accuracy:  82.7365473094619  predictions:  {0: 3178, 1: 1821}
+11 Accuracy:  81.61632326465293  predictions:  {0: 3038, 1: 1961}
+12 Accuracy:  82.87657531506302  predictions:  {0: 3143, 1: 1856}
+13 Accuracy:  81.11622324464894  predictions:  {0: 2877, 1: 2122}
+14 Accuracy:  82.47649529905982  predictions:  {0: 3111, 1: 1888}
+15 Accuracy:  79.81596319263853  predictions:  {0: 2740, 1: 2259}
+16 Accuracy:  81.45629125825164  predictions:  {0: 2996, 1: 2003}
+17 Accuracy:  82.01640328065614  predictions:  {0: 3082, 1: 1917}
+18 Accuracy:  81.61632326465293  predictions:  {0: 3040, 1: 1959}
+19 Accuracy:  81.07621524304861  predictions:  {0: 2933, 1: 2066}
+20 Accuracy:  81.63632726545309  predictions:  {0: 2981, 1: 2018}
+21 Accuracy:  81.67633526705342  predictions:  {0: 3035, 1: 1964}
+22 Accuracy:  79.33586717343468  predictions:  {0: 2766, 1: 2233}
+23 Accuracy:  82.01640328065614  predictions:  {0: 3152, 1: 1847}
+24 Accuracy:  80.47609521904381  predictions:  {0: 2873, 1: 2126}
+25 Accuracy:  81.71634326865373  predictions:  {0: 3045, 1: 1954}
+26 Accuracy:  81.85637127425484  predictions:  {0: 3062, 1: 1937}
+27 Accuracy:  81.59631926385276  predictions:  {0: 3099, 1: 1900}
+28 Accuracy:  81.45629125825164  predictions:  {0: 2910, 1: 2089}
+29 Accuracy:  78.7757551510302  predictions:  {0: 2678, 1: 2321}
+30 Accuracy:  81.29625925185037  predictions:  {0: 2946, 1: 2053}
+31 Accuracy:  80.97619523904781  predictions:  {0: 2974, 1: 2025}
+32 Accuracy:  80.63612722544508  predictions:  {0: 3003, 1: 1996}
+33 Accuracy:  82.3364672934587  predictions:  {0: 3338, 1: 1661}
+34 Accuracy:  81.59631926385276  predictions:  {0: 3157, 1: 1842}
+35 Accuracy:  81.63632726545309  predictions:  {0: 3067, 1: 1932}
+36 Accuracy:  82.05641128225645  predictions:  {0: 3030, 1: 1969}
+37 Accuracy:  80.63612722544508  predictions:  {0: 2809, 1: 2190}
+38 Accuracy:  80.95619123824765  predictions:  {0: 2965, 1: 2034}
+39 Accuracy:  81.19623924784956  predictions:  {0: 2995, 1: 2004}
+40 Accuracy:  80.2760552110422  predictions:  {0: 2809, 1: 2190}
+41 Accuracy:  81.69633926785357  predictions:  {0: 3014, 1: 1985}
+42 Accuracy:  82.19643928785757  predictions:  {0: 3071, 1: 1928}
+43 Accuracy:  82.71654330866173  predictions:  {0: 3191, 1: 1808}
+44 Accuracy:  80.81616323264653  predictions:  {0: 2922, 1: 2077}
+45 Accuracy:  81.77635527105421  predictions:  {0: 3072, 1: 1927}
+46 Accuracy:  79.81596319263853  predictions:  {0: 2792, 1: 2207}
+47 Accuracy:  81.69633926785357  predictions:  {0: 3080, 1: 1919}
+48 Accuracy:  80.41608321664333  predictions:  {0: 2870, 1: 2129}
+49 Accuracy:  81.75635127025404  predictions:  {0: 3091, 1: 1908}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  76.31339204372912  predictions:  {0: 2806, 1: 487}
+1 Accuracy:  74.79501973883997  predictions:  {0: 2934, 1: 359}
+2 Accuracy:  76.49559672031582  predictions:  {0: 2836, 1: 457}
+3 Accuracy:  76.43486182812026  predictions:  {0: 2836, 1: 457}
+4 Accuracy:  76.73853628909809  predictions:  {0: 2832, 1: 461}
+5 Accuracy:  76.70816884300031  predictions:  {0: 2827, 1: 466}
+6 Accuracy:  76.46522927421803  predictions:  {0: 2853, 1: 440}
+7 Accuracy:  76.86000607348922  predictions:  {0: 2814, 1: 479}
+8 Accuracy:  77.22441542666262  predictions:  {0: 2804, 1: 489}
+9 Accuracy:  76.58669905860917  predictions:  {0: 2839, 1: 454}
+10 Accuracy:  76.86000607348922  predictions:  {0: 2832, 1: 461}
+11 Accuracy:  76.890373519587  predictions:  {0: 2811, 1: 482}
+12 Accuracy:  77.07257819617371  predictions:  {0: 2811, 1: 482}
+13 Accuracy:  76.92074096568479  predictions:  {0: 2804, 1: 489}
+14 Accuracy:  77.58882477983602  predictions:  {0: 2736, 1: 557}
+15 Accuracy:  77.04221075007592  predictions:  {0: 2772, 1: 521}
+16 Accuracy:  77.19404798056485  predictions:  {0: 2775, 1: 518}
+17 Accuracy:  76.890373519587  predictions:  {0: 2811, 1: 482}
+18 Accuracy:  77.01184330397814  predictions:  {0: 2791, 1: 502}
+19 Accuracy:  77.10294564227148  predictions:  {0: 2816, 1: 477}
+20 Accuracy:  76.07045247494686  predictions:  {0: 2858, 1: 435}
+21 Accuracy:  77.46735499544488  predictions:  {0: 2768, 1: 525}
+22 Accuracy:  76.70816884300031  predictions:  {0: 2811, 1: 482}
+23 Accuracy:  76.86000607348922  predictions:  {0: 2804, 1: 489}
+24 Accuracy:  77.01184330397814  predictions:  {0: 2803, 1: 490}
+25 Accuracy:  76.49559672031582  predictions:  {0: 2822, 1: 471}
+26 Accuracy:  76.31339204372912  predictions:  {0: 2824, 1: 469}
+27 Accuracy:  76.00971758275129  predictions:  {0: 2870, 1: 423}
+28 Accuracy:  76.890373519587  predictions:  {0: 2811, 1: 482}
+29 Accuracy:  77.37625265715154  predictions:  {0: 2809, 1: 484}
+30 Accuracy:  77.34588521105375  predictions:  {0: 2794, 1: 499}
+31 Accuracy:  76.98147585788035  predictions:  {0: 2820, 1: 473}
+32 Accuracy:  77.58882477983602  predictions:  {0: 2774, 1: 519}
+33 Accuracy:  77.37625265715154  predictions:  {0: 2721, 1: 572}
+34 Accuracy:  77.52808988764045  predictions:  {0: 2792, 1: 501}
+35 Accuracy:  77.01184330397814  predictions:  {0: 2793, 1: 500}
+36 Accuracy:  77.2547828727604  predictions:  {0: 2779, 1: 514}
+37 Accuracy:  76.46522927421803  predictions:  {0: 2853, 1: 440}
+38 Accuracy:  77.67992711812937  predictions:  {0: 2755, 1: 538}
+39 Accuracy:  76.95110841178257  predictions:  {0: 2809, 1: 484}
+40 Accuracy:  77.2547828727604  predictions:  {0: 2805, 1: 488}
+41 Accuracy:  75.34163376860006  predictions:  {0: 2904, 1: 389}
+42 Accuracy:  76.22228970543577  predictions:  {0: 2859, 1: 434}
+43 Accuracy:  77.04221075007592  predictions:  {0: 2812, 1: 481}
+44 Accuracy:  77.07257819617371  predictions:  {0: 2807, 1: 486}
+45 Accuracy:  76.61706650470695  predictions:  {0: 2832, 1: 461}
+46 Accuracy:  76.37412693592469  predictions:  {0: 2858, 1: 435}
+47 Accuracy:  77.19404798056485  predictions:  {0: 2809, 1: 484}
+48 Accuracy:  77.28515031885819  predictions:  {0: 2806, 1: 487}
+49 Accuracy:  77.40662010324931  predictions:  {0: 2802, 1: 491}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  80.39607921584316  predictions:  {0: 3005, 1: 1994}
+1 Accuracy:  80.99619923984797  predictions:  {0: 3003, 1: 1996}
+2 Accuracy:  82.01640328065614  predictions:  {0: 3048, 1: 1951}
+3 Accuracy:  82.35647129425885  predictions:  {0: 3155, 1: 1844}
+4 Accuracy:  81.91638327665534  predictions:  {0: 3063, 1: 1936}
+5 Accuracy:  82.21644328865774  predictions:  {0: 3138, 1: 1861}
+6 Accuracy:  82.11642328465693  predictions:  {0: 3059, 1: 1940}
+7 Accuracy:  82.55651130226045  predictions:  {0: 3159, 1: 1840}
+8 Accuracy:  81.47629525905181  predictions:  {0: 3041, 1: 1958}
+9 Accuracy:  82.07641528305662  predictions:  {0: 3047, 1: 1952}
+10 Accuracy:  81.31626325265053  predictions:  {0: 2991, 1: 2008}
+11 Accuracy:  81.87637527505501  predictions:  {0: 3165, 1: 1834}
+12 Accuracy:  82.65653130626124  predictions:  {0: 3160, 1: 1839}
+13 Accuracy:  81.73634726945389  predictions:  {0: 3054, 1: 1945}
+14 Accuracy:  82.59651930386077  predictions:  {0: 3193, 1: 1806}
+15 Accuracy:  81.97639527905581  predictions:  {0: 3074, 1: 1925}
+16 Accuracy:  81.81636327265454  predictions:  {0: 3030, 1: 1969}
+17 Accuracy:  82.39647929585917  predictions:  {0: 3113, 1: 1886}
+18 Accuracy:  81.97639527905581  predictions:  {0: 3154, 1: 1845}
+19 Accuracy:  81.9363872774555  predictions:  {0: 3132, 1: 1867}
+20 Accuracy:  81.19623924784956  predictions:  {0: 3041, 1: 1958}
+21 Accuracy:  80.55611122224445  predictions:  {0: 2927, 1: 2072}
+22 Accuracy:  81.47629525905181  predictions:  {0: 3039, 1: 1960}
+23 Accuracy:  80.03600720144028  predictions:  {0: 2857, 1: 2142}
+24 Accuracy:  77.99559911982396  predictions:  {0: 2645, 1: 2354}
+25 Accuracy:  81.81636327265454  predictions:  {0: 3036, 1: 1963}
+26 Accuracy:  81.07621524304861  predictions:  {0: 3001, 1: 1998}
+27 Accuracy:  80.57611522304461  predictions:  {0: 2932, 1: 2067}
+28 Accuracy:  82.01640328065614  predictions:  {0: 3202, 1: 1797}
+29 Accuracy:  81.81636327265454  predictions:  {0: 3130, 1: 1869}
+30 Accuracy:  80.97619523904781  predictions:  {0: 2978, 1: 2021}
+31 Accuracy:  79.9759951990398  predictions:  {0: 2902, 1: 2097}
+32 Accuracy:  81.5363072614523  predictions:  {0: 3032, 1: 1967}
+33 Accuracy:  81.99639927985596  predictions:  {0: 3119, 1: 1880}
+34 Accuracy:  81.75635127025404  predictions:  {0: 3141, 1: 1858}
+35 Accuracy:  82.21644328865774  predictions:  {0: 3120, 1: 1879}
+36 Accuracy:  80.79615923184636  predictions:  {0: 3051, 1: 1948}
+37 Accuracy:  82.09641928385678  predictions:  {0: 3298, 1: 1701}
+38 Accuracy:  80.91618323664733  predictions:  {0: 2977, 1: 2022}
+39 Accuracy:  81.51630326065214  predictions:  {0: 3117, 1: 1882}
+40 Accuracy:  81.89637927585517  predictions:  {0: 3134, 1: 1865}
+41 Accuracy:  81.23624724944989  predictions:  {0: 3127, 1: 1872}
+42 Accuracy:  81.61632326465293  predictions:  {0: 3176, 1: 1823}
+43 Accuracy:  82.37647529505901  predictions:  {0: 3256, 1: 1743}
+44 Accuracy:  82.41648329665932  predictions:  {0: 3278, 1: 1721}
+45 Accuracy:  81.65633126625325  predictions:  {0: 3108, 1: 1891}
+46 Accuracy:  82.13642728545709  predictions:  {0: 3180, 1: 1819}
+47 Accuracy:  80.63612722544508  predictions:  {0: 2933, 1: 2066}
+48 Accuracy:  80.69613922784556  predictions:  {0: 2988, 1: 2011}
+49 Accuracy:  80.65613122624525  predictions:  {0: 3030, 1: 1969}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  74.40024293956878  predictions:  {0: 2977, 1: 316}
+1 Accuracy:  75.76677801396903  predictions:  {0: 2910, 1: 383}
+2 Accuracy:  75.76677801396903  predictions:  {0: 2914, 1: 379}
+3 Accuracy:  75.70604312177346  predictions:  {0: 2918, 1: 375}
+4 Accuracy:  75.7971454600668  predictions:  {0: 2897, 1: 396}
+5 Accuracy:  76.1615548132402  predictions:  {0: 2887, 1: 406}
+6 Accuracy:  75.70604312177346  predictions:  {0: 2890, 1: 403}
+7 Accuracy:  76.22228970543577  predictions:  {0: 2867, 1: 426}
+8 Accuracy:  76.25265715153355  predictions:  {0: 2864, 1: 429}
+9 Accuracy:  75.94898269055572  predictions:  {0: 2880, 1: 413}
+10 Accuracy:  76.28302459763134  predictions:  {0: 2861, 1: 432}
+11 Accuracy:  75.91861524445794  predictions:  {0: 2887, 1: 406}
+12 Accuracy:  76.1615548132402  predictions:  {0: 2859, 1: 434}
+13 Accuracy:  76.34375948982691  predictions:  {0: 2839, 1: 454}
+14 Accuracy:  76.07045247494686  predictions:  {0: 2848, 1: 445}
+15 Accuracy:  76.28302459763134  predictions:  {0: 2877, 1: 416}
+16 Accuracy:  76.37412693592469  predictions:  {0: 2848, 1: 445}
+17 Accuracy:  76.58669905860917  predictions:  {0: 2853, 1: 440}
+18 Accuracy:  75.55420589128454  predictions:  {0: 2931, 1: 362}
+19 Accuracy:  76.13118736714243  predictions:  {0: 2872, 1: 421}
+20 Accuracy:  76.67780139690252  predictions:  {0: 2842, 1: 451}
+21 Accuracy:  76.46522927421803  predictions:  {0: 2857, 1: 436}
+22 Accuracy:  77.07257819617371  predictions:  {0: 2759, 1: 534}
+23 Accuracy:  76.19192225933799  predictions:  {0: 2846, 1: 447}
+24 Accuracy:  76.31339204372912  predictions:  {0: 2862, 1: 431}
+25 Accuracy:  74.70391740054662  predictions:  {0: 2963, 1: 330}
+26 Accuracy:  76.1615548132402  predictions:  {0: 2873, 1: 420}
+27 Accuracy:  76.25265715153355  predictions:  {0: 2844, 1: 449}
+28 Accuracy:  76.19192225933799  predictions:  {0: 2860, 1: 433}
+29 Accuracy:  75.94898269055572  predictions:  {0: 2844, 1: 449}
+30 Accuracy:  76.10081992104463  predictions:  {0: 2877, 1: 416}
+31 Accuracy:  76.00971758275129  predictions:  {0: 2880, 1: 413}
+32 Accuracy:  76.00971758275129  predictions:  {0: 2882, 1: 411}
+33 Accuracy:  74.76465229274218  predictions:  {0: 2967, 1: 326}
+34 Accuracy:  76.00971758275129  predictions:  {0: 2880, 1: 413}
+35 Accuracy:  76.40449438202246  predictions:  {0: 2863, 1: 430}
+36 Accuracy:  75.28089887640449  predictions:  {0: 2936, 1: 357}
+37 Accuracy:  75.97935013665351  predictions:  {0: 2871, 1: 422}
+38 Accuracy:  76.34375948982691  predictions:  {0: 2861, 1: 432}
+39 Accuracy:  76.00971758275129  predictions:  {0: 2898, 1: 395}
+40 Accuracy:  76.34375948982691  predictions:  {0: 2879, 1: 414}
+41 Accuracy:  76.22228970543577  predictions:  {0: 2867, 1: 426}
+42 Accuracy:  76.37412693592469  predictions:  {0: 2866, 1: 427}
+43 Accuracy:  76.31339204372912  predictions:  {0: 2876, 1: 417}
+44 Accuracy:  76.13118736714243  predictions:  {0: 2878, 1: 415}
+45 Accuracy:  76.19192225933799  predictions:  {0: 2870, 1: 423}
+46 Accuracy:  76.46522927421803  predictions:  {0: 2871, 1: 422}
+47 Accuracy:  76.25265715153355  predictions:  {0: 2868, 1: 425}
+48 Accuracy:  76.1615548132402  predictions:  {0: 2895, 1: 398}
+49 Accuracy:  76.19192225933799  predictions:  {0: 2878, 1: 415}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  82.47649529905982  predictions:  {0: 3303, 1: 1696}
+1 Accuracy:  83.27665533106622  predictions:  {0: 3435, 1: 1564}
+2 Accuracy:  83.27665533106622  predictions:  {0: 3301, 1: 1698}
+3 Accuracy:  83.6367273454691  predictions:  {0: 3147, 1: 1852}
+4 Accuracy:  84.07681536307261  predictions:  {0: 3291, 1: 1708}
+5 Accuracy:  82.71654330866173  predictions:  {0: 3053, 1: 1946}
+6 Accuracy:  83.41668333666733  predictions:  {0: 3142, 1: 1857}
+7 Accuracy:  83.15663132626526  predictions:  {0: 3119, 1: 1880}
+8 Accuracy:  83.61672334466893  predictions:  {0: 3310, 1: 1689}
+9 Accuracy:  83.21664332866573  predictions:  {0: 3090, 1: 1909}
+10 Accuracy:  84.0368073614723  predictions:  {0: 3327, 1: 1672}
+11 Accuracy:  83.79675935187038  predictions:  {0: 3293, 1: 1706}
+12 Accuracy:  81.85637127425484  predictions:  {0: 2946, 1: 2053}
+13 Accuracy:  84.31686337267453  predictions:  {0: 3351, 1: 1648}
+14 Accuracy:  83.31666333266654  predictions:  {0: 3069, 1: 1930}
+15 Accuracy:  82.67653530706141  predictions:  {0: 3041, 1: 1958}
+16 Accuracy:  83.61672334466893  predictions:  {0: 3262, 1: 1737}
+17 Accuracy:  82.51650330066013  predictions:  {0: 3053, 1: 1946}
+18 Accuracy:  83.17663532706541  predictions:  {0: 3122, 1: 1877}
+19 Accuracy:  82.77655531106221  predictions:  {0: 3050, 1: 1949}
+20 Accuracy:  82.4364872974595  predictions:  {0: 3085, 1: 1914}
+21 Accuracy:  83.21664332866573  predictions:  {0: 3134, 1: 1865}
+22 Accuracy:  81.91638327665534  predictions:  {0: 3017, 1: 1982}
+23 Accuracy:  82.93658731746349  predictions:  {0: 3138, 1: 1861}
+24 Accuracy:  83.59671934386877  predictions:  {0: 3231, 1: 1768}
+25 Accuracy:  83.39667933586718  predictions:  {0: 3225, 1: 1774}
+26 Accuracy:  83.51670334066813  predictions:  {0: 3195, 1: 1804}
+27 Accuracy:  83.07661532306462  predictions:  {0: 3475, 1: 1524}
+28 Accuracy:  82.31646329265854  predictions:  {0: 3115, 1: 1884}
+29 Accuracy:  82.65653130626124  predictions:  {0: 3102, 1: 1897}
+30 Accuracy:  82.67653530706141  predictions:  {0: 3083, 1: 1916}
+31 Accuracy:  83.21664332866573  predictions:  {0: 3160, 1: 1839}
+32 Accuracy:  82.97659531906382  predictions:  {0: 3148, 1: 1851}
+33 Accuracy:  82.99659931986398  predictions:  {0: 3221, 1: 1778}
+34 Accuracy:  83.37667533506702  predictions:  {0: 3124, 1: 1875}
+35 Accuracy:  83.15663132626526  predictions:  {0: 3271, 1: 1728}
+36 Accuracy:  83.5367073414683  predictions:  {0: 3234, 1: 1765}
+37 Accuracy:  83.67673534706941  predictions:  {0: 3297, 1: 1702}
+38 Accuracy:  82.45649129825965  predictions:  {0: 3022, 1: 1977}
+39 Accuracy:  83.05661132226444  predictions:  {0: 3062, 1: 1937}
+40 Accuracy:  83.61672334466893  predictions:  {0: 3118, 1: 1881}
+41 Accuracy:  82.61652330466093  predictions:  {0: 3110, 1: 1889}
+42 Accuracy:  83.19663932786557  predictions:  {0: 3265, 1: 1734}
+43 Accuracy:  82.91658331666333  predictions:  {0: 3247, 1: 1752}
+44 Accuracy:  83.27665533106622  predictions:  {0: 3139, 1: 1860}
+45 Accuracy:  83.03660732146429  predictions:  {0: 3149, 1: 1850}
+46 Accuracy:  83.07661532306462  predictions:  {0: 3229, 1: 1770}
+47 Accuracy:  83.57671534306861  predictions:  {0: 3336, 1: 1663}
+48 Accuracy:  83.65673134626925  predictions:  {0: 3304, 1: 1695}
+49 Accuracy:  82.57651530306062  predictions:  {0: 3084, 1: 1915}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  74.88612207713331  predictions:  {0: 2879, 1: 414}
+1 Accuracy:  74.03583358639538  predictions:  {0: 2945, 1: 348}
+2 Accuracy:  73.70179167931977  predictions:  {0: 2984, 1: 309}
+3 Accuracy:  74.64318250835105  predictions:  {0: 2915, 1: 378}
+4 Accuracy:  75.55420589128454  predictions:  {0: 2853, 1: 440}
+5 Accuracy:  75.4631035529912  predictions:  {0: 2848, 1: 445}
+6 Accuracy:  74.7342848466444  predictions:  {0: 2910, 1: 383}
+7 Accuracy:  75.76677801396903  predictions:  {0: 2840, 1: 453}
+8 Accuracy:  75.58457333738232  predictions:  {0: 2842, 1: 451}
+9 Accuracy:  75.34163376860006  predictions:  {0: 2854, 1: 439}
+10 Accuracy:  75.28089887640449  predictions:  {0: 2860, 1: 433}
+11 Accuracy:  75.00759186152445  predictions:  {0: 2911, 1: 382}
+12 Accuracy:  75.28089887640449  predictions:  {0: 2872, 1: 421}
+13 Accuracy:  74.49134527786214  predictions:  {0: 2940, 1: 353}
+14 Accuracy:  75.34163376860006  predictions:  {0: 2868, 1: 425}
+15 Accuracy:  75.40236866079563  predictions:  {0: 2858, 1: 435}
+16 Accuracy:  75.06832675372002  predictions:  {0: 2845, 1: 448}
+17 Accuracy:  75.18979653811114  predictions:  {0: 2859, 1: 434}
+18 Accuracy:  75.55420589128454  predictions:  {0: 2851, 1: 442}
+19 Accuracy:  76.04008502884906  predictions:  {0: 2841, 1: 452}
+20 Accuracy:  75.55420589128454  predictions:  {0: 2877, 1: 416}
+21 Accuracy:  74.7342848466444  predictions:  {0: 2942, 1: 351}
+22 Accuracy:  75.7971454600668  predictions:  {0: 2875, 1: 418}
+23 Accuracy:  76.00971758275129  predictions:  {0: 2860, 1: 433}
+24 Accuracy:  75.64530822957789  predictions:  {0: 2872, 1: 421}
+25 Accuracy:  75.76677801396903  predictions:  {0: 2854, 1: 439}
+26 Accuracy:  75.70604312177346  predictions:  {0: 2872, 1: 421}
+27 Accuracy:  76.19192225933799  predictions:  {0: 2850, 1: 443}
+28 Accuracy:  76.25265715153355  predictions:  {0: 2842, 1: 451}
+29 Accuracy:  75.91861524445794  predictions:  {0: 2857, 1: 436}
+30 Accuracy:  75.49347099908897  predictions:  {0: 2879, 1: 414}
+31 Accuracy:  75.8275129061646  predictions:  {0: 2848, 1: 445}
+32 Accuracy:  75.76677801396903  predictions:  {0: 2830, 1: 463}
+33 Accuracy:  75.52383844518677  predictions:  {0: 2874, 1: 419}
+34 Accuracy:  75.67567567567568  predictions:  {0: 2851, 1: 442}
+35 Accuracy:  75.55420589128454  predictions:  {0: 2849, 1: 444}
+36 Accuracy:  75.85788035226237  predictions:  {0: 2817, 1: 476}
+37 Accuracy:  75.4631035529912  predictions:  {0: 2856, 1: 437}
+38 Accuracy:  75.76677801396903  predictions:  {0: 2848, 1: 445}
+39 Accuracy:  75.49347099908897  predictions:  {0: 2861, 1: 432}
+40 Accuracy:  75.4327361068934  predictions:  {0: 2863, 1: 430}
+41 Accuracy:  75.70604312177346  predictions:  {0: 2824, 1: 469}
+42 Accuracy:  75.7971454600668  predictions:  {0: 2837, 1: 456}
+43 Accuracy:  75.15942909201337  predictions:  {0: 2888, 1: 405}
+44 Accuracy:  75.58457333738232  predictions:  {0: 2856, 1: 437}
+45 Accuracy:  76.43486182812026  predictions:  {0: 2824, 1: 469}
+46 Accuracy:  75.31126632250228  predictions:  {0: 2881, 1: 412}
+47 Accuracy:  75.4631035529912  predictions:  {0: 2868, 1: 425}
+48 Accuracy:  75.58457333738232  predictions:  {0: 2852, 1: 441}
+49 Accuracy:  75.94898269055572  predictions:  {0: 2854, 1: 439}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  80.2760552110422  predictions:  {0: 3171, 1: 1828}
+1 Accuracy:  80.71614322864573  predictions:  {0: 3039, 1: 1960}
+2 Accuracy:  81.35627125425084  predictions:  {0: 3047, 1: 1952}
+3 Accuracy:  82.45649129825965  predictions:  {0: 3132, 1: 1867}
+4 Accuracy:  82.57651530306062  predictions:  {0: 3208, 1: 1791}
+5 Accuracy:  82.65653130626124  predictions:  {0: 3192, 1: 1807}
+6 Accuracy:  81.49629925985197  predictions:  {0: 3006, 1: 1993}
+7 Accuracy:  81.65633126625325  predictions:  {0: 3064, 1: 1935}
+8 Accuracy:  82.25645129025804  predictions:  {0: 3158, 1: 1841}
+9 Accuracy:  80.07601520304061  predictions:  {0: 2895, 1: 2104}
+10 Accuracy:  82.85657131426285  predictions:  {0: 3206, 1: 1793}
+11 Accuracy:  81.77635527105421  predictions:  {0: 3052, 1: 1947}
+12 Accuracy:  80.49609921984397  predictions:  {0: 3008, 1: 1991}
+13 Accuracy:  81.0362072414483  predictions:  {0: 2995, 1: 2004}
+14 Accuracy:  82.3364672934587  predictions:  {0: 3174, 1: 1825}
+15 Accuracy:  81.65633126625325  predictions:  {0: 3172, 1: 1827}
+16 Accuracy:  81.35627125425084  predictions:  {0: 3057, 1: 1942}
+17 Accuracy:  81.11622324464894  predictions:  {0: 3025, 1: 1974}
+18 Accuracy:  81.97639527905581  predictions:  {0: 3178, 1: 1821}
+19 Accuracy:  81.79635927185437  predictions:  {0: 3119, 1: 1880}
+20 Accuracy:  80.47609521904381  predictions:  {0: 2955, 1: 2044}
+21 Accuracy:  81.45629125825164  predictions:  {0: 3042, 1: 1957}
+22 Accuracy:  82.51650330066013  predictions:  {0: 3317, 1: 1682}
+23 Accuracy:  81.77635527105421  predictions:  {0: 3090, 1: 1909}
+24 Accuracy:  82.15643128625725  predictions:  {0: 3171, 1: 1828}
+25 Accuracy:  81.47629525905181  predictions:  {0: 3081, 1: 1918}
+26 Accuracy:  81.85637127425484  predictions:  {0: 3126, 1: 1873}
+27 Accuracy:  81.73634726945389  predictions:  {0: 3170, 1: 1829}
+28 Accuracy:  81.95639127825565  predictions:  {0: 3235, 1: 1764}
+29 Accuracy:  82.49649929985998  predictions:  {0: 3266, 1: 1733}
+30 Accuracy:  82.3364672934587  predictions:  {0: 3200, 1: 1799}
+31 Accuracy:  81.37627525505101  predictions:  {0: 3066, 1: 1933}
+32 Accuracy:  80.87617523504701  predictions:  {0: 2991, 1: 2008}
+33 Accuracy:  81.13622724544909  predictions:  {0: 3020, 1: 1979}
+34 Accuracy:  80.93618723744748  predictions:  {0: 3038, 1: 1961}
+35 Accuracy:  81.65633126625325  predictions:  {0: 3038, 1: 1961}
+36 Accuracy:  79.4758951790358  predictions:  {0: 2805, 1: 2194}
+37 Accuracy:  81.09621924384876  predictions:  {0: 3046, 1: 1953}
+38 Accuracy:  79.99599919983997  predictions:  {0: 2869, 1: 2130}
+39 Accuracy:  81.55631126225245  predictions:  {0: 3099, 1: 1900}
+40 Accuracy:  80.79615923184636  predictions:  {0: 3053, 1: 1946}
+41 Accuracy:  82.13642728545709  predictions:  {0: 3306, 1: 1693}
+42 Accuracy:  81.13622724544909  predictions:  {0: 3112, 1: 1887}
+43 Accuracy:  80.05601120224046  predictions:  {0: 2800, 1: 2199}
+44 Accuracy:  81.07621524304861  predictions:  {0: 3017, 1: 1982}
+45 Accuracy:  80.29605921184236  predictions:  {0: 2898, 1: 2101}
+46 Accuracy:  81.27625525105022  predictions:  {0: 2957, 1: 2042}
+47 Accuracy:  81.49629925985197  predictions:  {0: 3022, 1: 1977}
+48 Accuracy:  81.47629525905181  predictions:  {0: 3049, 1: 1950}
+49 Accuracy:  81.55631126225245  predictions:  {0: 3125, 1: 1874}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  73.3070148800486  predictions:  {0: 3023, 1: 270}
+1 Accuracy:  74.94685696932888  predictions:  {0: 2955, 1: 338}
+2 Accuracy:  76.00971758275129  predictions:  {0: 2904, 1: 389}
+3 Accuracy:  76.61706650470695  predictions:  {0: 2868, 1: 425}
+4 Accuracy:  75.7971454600668  predictions:  {0: 2915, 1: 378}
+5 Accuracy:  77.13331308836928  predictions:  {0: 2833, 1: 460}
+6 Accuracy:  76.37412693592469  predictions:  {0: 2868, 1: 425}
+7 Accuracy:  76.76890373519586  predictions:  {0: 2861, 1: 432}
+8 Accuracy:  77.16368053446705  predictions:  {0: 2838, 1: 455}
+9 Accuracy:  76.95110841178257  predictions:  {0: 2855, 1: 438}
+10 Accuracy:  77.13331308836928  predictions:  {0: 2849, 1: 444}
+11 Accuracy:  76.98147585788035  predictions:  {0: 2844, 1: 449}
+12 Accuracy:  76.92074096568479  predictions:  {0: 2852, 1: 441}
+13 Accuracy:  77.2547828727604  predictions:  {0: 2799, 1: 494}
+14 Accuracy:  76.890373519587  predictions:  {0: 2837, 1: 456}
+15 Accuracy:  77.04221075007592  predictions:  {0: 2828, 1: 465}
+16 Accuracy:  75.88824779836015  predictions:  {0: 2906, 1: 387}
+17 Accuracy:  77.13331308836928  predictions:  {0: 2817, 1: 476}
+18 Accuracy:  77.16368053446705  predictions:  {0: 2818, 1: 475}
+19 Accuracy:  77.19404798056485  predictions:  {0: 2839, 1: 454}
+20 Accuracy:  76.76890373519586  predictions:  {0: 2833, 1: 460}
+21 Accuracy:  76.64743395080474  predictions:  {0: 2853, 1: 440}
+22 Accuracy:  77.07257819617371  predictions:  {0: 2855, 1: 438}
+23 Accuracy:  77.49772244154268  predictions:  {0: 2819, 1: 474}
+24 Accuracy:  77.04221075007592  predictions:  {0: 2818, 1: 475}
+25 Accuracy:  77.2547828727604  predictions:  {0: 2799, 1: 494}
+26 Accuracy:  77.28515031885819  predictions:  {0: 2818, 1: 475}
+27 Accuracy:  77.13331308836928  predictions:  {0: 2823, 1: 470}
+28 Accuracy:  77.2547828727604  predictions:  {0: 2839, 1: 454}
+29 Accuracy:  76.58669905860917  predictions:  {0: 2873, 1: 420}
+30 Accuracy:  76.64743395080474  predictions:  {0: 2867, 1: 426}
+31 Accuracy:  77.07257819617371  predictions:  {0: 2843, 1: 450}
+32 Accuracy:  76.43486182812026  predictions:  {0: 2878, 1: 415}
+33 Accuracy:  76.98147585788035  predictions:  {0: 2834, 1: 459}
+34 Accuracy:  76.40449438202246  predictions:  {0: 2889, 1: 404}
+35 Accuracy:  76.1615548132402  predictions:  {0: 2875, 1: 418}
+36 Accuracy:  76.04008502884906  predictions:  {0: 2905, 1: 388}
+37 Accuracy:  76.98147585788035  predictions:  {0: 2858, 1: 435}
+38 Accuracy:  77.52808988764045  predictions:  {0: 2842, 1: 451}
+39 Accuracy:  77.19404798056485  predictions:  {0: 2853, 1: 440}
+40 Accuracy:  76.73853628909809  predictions:  {0: 2880, 1: 413}
+41 Accuracy:  76.22228970543577  predictions:  {0: 2903, 1: 390}
+42 Accuracy:  76.76890373519586  predictions:  {0: 2851, 1: 442}
+43 Accuracy:  76.34375948982691  predictions:  {0: 2877, 1: 416}
+44 Accuracy:  76.28302459763134  predictions:  {0: 2889, 1: 404}
+45 Accuracy:  76.28302459763134  predictions:  {0: 2883, 1: 410}
+46 Accuracy:  77.22441542666262  predictions:  {0: 2828, 1: 465}
+47 Accuracy:  76.73853628909809  predictions:  {0: 2872, 1: 421}
+48 Accuracy:  76.86000607348922  predictions:  {0: 2854, 1: 439}
+49 Accuracy:  76.92074096568479  predictions:  {0: 2862, 1: 431}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  80.47609521904381  predictions:  {0: 3128, 1: 1871}
+1 Accuracy:  80.93618723744748  predictions:  {0: 3079, 1: 1920}
+2 Accuracy:  81.25625125025005  predictions:  {0: 3079, 1: 1920}
+3 Accuracy:  81.01620324064814  predictions:  {0: 3091, 1: 1908}
+4 Accuracy:  81.59631926385276  predictions:  {0: 3032, 1: 1967}
+5 Accuracy:  81.5363072614523  predictions:  {0: 3107, 1: 1892}
+6 Accuracy:  81.39627925585117  predictions:  {0: 3134, 1: 1865}
+7 Accuracy:  81.49629925985197  predictions:  {0: 3137, 1: 1862}
+8 Accuracy:  82.21644328865774  predictions:  {0: 3307, 1: 1692}
+9 Accuracy:  81.33626725345069  predictions:  {0: 3127, 1: 1872}
+10 Accuracy:  81.13622724544909  predictions:  {0: 3025, 1: 1974}
+11 Accuracy:  81.73634726945389  predictions:  {0: 3173, 1: 1826}
+12 Accuracy:  81.09621924384876  predictions:  {0: 2997, 1: 2002}
+13 Accuracy:  81.97639527905581  predictions:  {0: 3175, 1: 1824}
+14 Accuracy:  82.01640328065614  predictions:  {0: 3177, 1: 1822}
+15 Accuracy:  81.71634326865373  predictions:  {0: 3254, 1: 1745}
+16 Accuracy:  80.81616323264653  predictions:  {0: 3005, 1: 1994}
+17 Accuracy:  80.31606321264253  predictions:  {0: 2924, 1: 2075}
+18 Accuracy:  80.39607921584316  predictions:  {0: 3018, 1: 1981}
+19 Accuracy:  81.51630326065214  predictions:  {0: 2992, 1: 2007}
+20 Accuracy:  81.63632726545309  predictions:  {0: 3158, 1: 1841}
+21 Accuracy:  81.0362072414483  predictions:  {0: 3008, 1: 1991}
+22 Accuracy:  82.4364872974595  predictions:  {0: 3222, 1: 1777}
+23 Accuracy:  81.01620324064814  predictions:  {0: 3013, 1: 1986}
+24 Accuracy:  81.75635127025404  predictions:  {0: 3140, 1: 1859}
+25 Accuracy:  80.81616323264653  predictions:  {0: 3033, 1: 1966}
+26 Accuracy:  81.55631126225245  predictions:  {0: 3060, 1: 1939}
+27 Accuracy:  80.95619123824765  predictions:  {0: 3028, 1: 1971}
+28 Accuracy:  82.4364872974595  predictions:  {0: 3236, 1: 1763}
+29 Accuracy:  80.93618723744748  predictions:  {0: 3163, 1: 1836}
+30 Accuracy:  81.19623924784956  predictions:  {0: 3020, 1: 1979}
+31 Accuracy:  81.21624324864973  predictions:  {0: 3131, 1: 1868}
+32 Accuracy:  80.73614722944589  predictions:  {0: 2993, 1: 2006}
+33 Accuracy:  81.21624324864973  predictions:  {0: 3141, 1: 1858}
+34 Accuracy:  80.47609521904381  predictions:  {0: 3004, 1: 1995}
+35 Accuracy:  81.61632326465293  predictions:  {0: 3067, 1: 1932}
+36 Accuracy:  80.81616323264653  predictions:  {0: 3043, 1: 1956}
+37 Accuracy:  80.53610722144428  predictions:  {0: 2943, 1: 2056}
+38 Accuracy:  80.85617123424686  predictions:  {0: 3019, 1: 1980}
+39 Accuracy:  80.43608721744349  predictions:  {0: 2892, 1: 2107}
+40 Accuracy:  81.67633526705342  predictions:  {0: 3206, 1: 1793}
+41 Accuracy:  81.5763152630526  predictions:  {0: 3119, 1: 1880}
+42 Accuracy:  81.73634726945389  predictions:  {0: 3115, 1: 1884}
+43 Accuracy:  79.93598719743949  predictions:  {0: 2875, 1: 2124}
+44 Accuracy:  81.9363872774555  predictions:  {0: 3045, 1: 1954}
+45 Accuracy:  81.69633926785357  predictions:  {0: 3127, 1: 1872}
+46 Accuracy:  81.51630326065214  predictions:  {0: 3198, 1: 1801}
+47 Accuracy:  81.79635927185437  predictions:  {0: 3144, 1: 1855}
+48 Accuracy:  81.39627925585117  predictions:  {0: 3120, 1: 1879}
+49 Accuracy:  81.65633126625325  predictions:  {0: 3103, 1: 1896}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  73.39003645200486  predictions:  {0: 3003, 1: 289}
+1 Accuracy:  75.69866342648845  predictions:  {0: 2877, 1: 415}
+2 Accuracy:  75.06075334143378  predictions:  {0: 2922, 1: 370}
+3 Accuracy:  75.97205346294047  predictions:  {0: 2850, 1: 442}
+4 Accuracy:  75.8809234507898  predictions:  {0: 2873, 1: 419}
+5 Accuracy:  76.03280680437425  predictions:  {0: 2846, 1: 446}
+6 Accuracy:  76.21506682867559  predictions:  {0: 2848, 1: 444}
+7 Accuracy:  76.06318347509114  predictions:  {0: 2849, 1: 443}
+8 Accuracy:  74.3924665856622  predictions:  {0: 2958, 1: 334}
+9 Accuracy:  76.36695018226003  predictions:  {0: 2831, 1: 461}
+10 Accuracy:  76.57958687727825  predictions:  {0: 2808, 1: 484}
+11 Accuracy:  75.91130012150668  predictions:  {0: 2876, 1: 416}
+12 Accuracy:  76.57958687727825  predictions:  {0: 2806, 1: 486}
+13 Accuracy:  75.82017010935601  predictions:  {0: 2869, 1: 423}
+14 Accuracy:  76.54921020656136  predictions:  {0: 2813, 1: 479}
+15 Accuracy:  75.82017010935601  predictions:  {0: 2861, 1: 431}
+16 Accuracy:  76.42770352369381  predictions:  {0: 2817, 1: 475}
+17 Accuracy:  75.06075334143378  predictions:  {0: 2918, 1: 374}
+18 Accuracy:  76.4580801944107  predictions:  {0: 2810, 1: 482}
+19 Accuracy:  76.70109356014581  predictions:  {0: 2828, 1: 464}
+20 Accuracy:  76.48845686512759  predictions:  {0: 2845, 1: 447}
+21 Accuracy:  74.63547995139733  predictions:  {0: 2944, 1: 348}
+22 Accuracy:  76.60996354799514  predictions:  {0: 2803, 1: 489}
+23 Accuracy:  76.79222357229648  predictions:  {0: 2805, 1: 487}
+24 Accuracy:  76.51883353584446  predictions:  {0: 2822, 1: 470}
+25 Accuracy:  76.1543134872418  predictions:  {0: 2842, 1: 450}
+26 Accuracy:  76.1543134872418  predictions:  {0: 2858, 1: 434}
+27 Accuracy:  74.30133657351155  predictions:  {0: 2985, 1: 307}
+28 Accuracy:  75.91130012150668  predictions:  {0: 2856, 1: 436}
+29 Accuracy:  76.1543134872418  predictions:  {0: 2824, 1: 468}
+30 Accuracy:  75.66828675577156  predictions:  {0: 2902, 1: 390}
+31 Accuracy:  76.00243013365736  predictions:  {0: 2867, 1: 425}
+32 Accuracy:  75.94167679222356  predictions:  {0: 2861, 1: 431}
+33 Accuracy:  76.57958687727825  predictions:  {0: 2828, 1: 464}
+34 Accuracy:  76.48845686512759  predictions:  {0: 2809, 1: 483}
+35 Accuracy:  76.21506682867559  predictions:  {0: 2872, 1: 420}
+36 Accuracy:  76.33657351154314  predictions:  {0: 2856, 1: 436}
+37 Accuracy:  76.48845686512759  predictions:  {0: 2831, 1: 461}
+38 Accuracy:  77.0048602673147  predictions:  {0: 2784, 1: 508}
+39 Accuracy:  75.8505467800729  predictions:  {0: 2888, 1: 404}
+40 Accuracy:  75.8809234507898  predictions:  {0: 2869, 1: 423}
+41 Accuracy:  76.30619684082625  predictions:  {0: 2827, 1: 465}
+42 Accuracy:  75.75941676792223  predictions:  {0: 2855, 1: 437}
+43 Accuracy:  75.8505467800729  predictions:  {0: 2874, 1: 418}
+44 Accuracy:  76.30619684082625  predictions:  {0: 2839, 1: 453}
+45 Accuracy:  76.09356014580801  predictions:  {0: 2854, 1: 438}
+46 Accuracy:  77.09599027946537  predictions:  {0: 2781, 1: 511}
+47 Accuracy:  76.64034021871203  predictions:  {0: 2830, 1: 462}
+48 Accuracy:  76.76184690157959  predictions:  {0: 2828, 1: 464}
+49 Accuracy:  75.18226002430134  predictions:  {0: 2934, 1: 358}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  81.73634726945389  predictions:  {0: 3197, 1: 1802}
+1 Accuracy:  81.95639127825565  predictions:  {0: 3154, 1: 1845}
+2 Accuracy:  82.95659131826365  predictions:  {0: 3158, 1: 1841}
+3 Accuracy:  82.8365673134627  predictions:  {0: 3290, 1: 1709}
+4 Accuracy:  82.01640328065614  predictions:  {0: 2987, 1: 2012}
+5 Accuracy:  83.05661132226444  predictions:  {0: 3233, 1: 1766}
+6 Accuracy:  82.89657931586318  predictions:  {0: 3185, 1: 1814}
+7 Accuracy:  83.07661532306462  predictions:  {0: 3220, 1: 1779}
+8 Accuracy:  82.69653930786157  predictions:  {0: 3145, 1: 1854}
+9 Accuracy:  83.07661532306462  predictions:  {0: 3194, 1: 1805}
+10 Accuracy:  83.09661932386477  predictions:  {0: 3225, 1: 1774}
+11 Accuracy:  83.61672334466893  predictions:  {0: 3221, 1: 1778}
+12 Accuracy:  83.11662332466493  predictions:  {0: 3186, 1: 1813}
+13 Accuracy:  82.17643528705742  predictions:  {0: 3047, 1: 1952}
+14 Accuracy:  82.49649929985998  predictions:  {0: 3083, 1: 1916}
+15 Accuracy:  81.81636327265454  predictions:  {0: 3065, 1: 1934}
+16 Accuracy:  81.95639127825565  predictions:  {0: 2998, 1: 2001}
+17 Accuracy:  82.03640728145629  predictions:  {0: 3020, 1: 1979}
+18 Accuracy:  82.77655531106221  predictions:  {0: 3161, 1: 1838}
+19 Accuracy:  79.75595119023805  predictions:  {0: 2740, 1: 2259}
+20 Accuracy:  82.93658731746349  predictions:  {0: 3137, 1: 1862}
+21 Accuracy:  81.87637527505501  predictions:  {0: 3018, 1: 1981}
+22 Accuracy:  81.29625925185037  predictions:  {0: 3147, 1: 1852}
+23 Accuracy:  81.8363672734547  predictions:  {0: 2990, 1: 2009}
+24 Accuracy:  81.89637927585517  predictions:  {0: 3241, 1: 1758}
+25 Accuracy:  81.0362072414483  predictions:  {0: 3008, 1: 1991}
+26 Accuracy:  81.45629125825164  predictions:  {0: 3083, 1: 1916}
+27 Accuracy:  81.35627125425084  predictions:  {0: 2974, 1: 2025}
+28 Accuracy:  80.93618723744748  predictions:  {0: 2945, 1: 2054}
+29 Accuracy:  81.85637127425484  predictions:  {0: 3117, 1: 1882}
+30 Accuracy:  82.15643128625725  predictions:  {0: 3140, 1: 1859}
+31 Accuracy:  81.15623124624925  predictions:  {0: 2958, 1: 2041}
+32 Accuracy:  81.51630326065214  predictions:  {0: 3186, 1: 1813}
+33 Accuracy:  80.95619123824765  predictions:  {0: 3010, 1: 1989}
+34 Accuracy:  81.99639927985596  predictions:  {0: 3106, 1: 1893}
+35 Accuracy:  81.91638327665534  predictions:  {0: 3060, 1: 1939}
+36 Accuracy:  80.89617923584717  predictions:  {0: 2897, 1: 2102}
+37 Accuracy:  82.71654330866173  predictions:  {0: 3160, 1: 1839}
+38 Accuracy:  81.63632726545309  predictions:  {0: 3036, 1: 1963}
+39 Accuracy:  82.53650730146029  predictions:  {0: 3077, 1: 1922}
+40 Accuracy:  81.99639927985596  predictions:  {0: 3052, 1: 1947}
+41 Accuracy:  80.15603120624125  predictions:  {0: 2870, 1: 2129}
+42 Accuracy:  81.95639127825565  predictions:  {0: 2990, 1: 2009}
+43 Accuracy:  81.1762352470494  predictions:  {0: 2957, 1: 2042}
+44 Accuracy:  81.91638327665534  predictions:  {0: 3072, 1: 1927}
+45 Accuracy:  80.89617923584717  predictions:  {0: 2963, 1: 2036}
+46 Accuracy:  81.29625925185037  predictions:  {0: 3053, 1: 1946}
+47 Accuracy:  81.75635127025404  predictions:  {0: 3120, 1: 1879}
+48 Accuracy:  82.31646329265854  predictions:  {0: 3188, 1: 1811}
+49 Accuracy:  82.41648329665932  predictions:  {0: 3141, 1: 1858}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  74.87849331713244  predictions:  {0: 2948, 1: 344}
+1 Accuracy:  75.39489671931956  predictions:  {0: 2909, 1: 383}
+2 Accuracy:  75.12150668286756  predictions:  {0: 2922, 1: 370}
+3 Accuracy:  76.1239368165249  predictions:  {0: 2855, 1: 437}
+4 Accuracy:  74.60510328068044  predictions:  {0: 2963, 1: 329}
+5 Accuracy:  75.78979343863914  predictions:  {0: 2862, 1: 430}
+6 Accuracy:  75.5771567436209  predictions:  {0: 2877, 1: 415}
+7 Accuracy:  76.21506682867559  predictions:  {0: 2842, 1: 450}
+8 Accuracy:  75.8505467800729  predictions:  {0: 2854, 1: 438}
+9 Accuracy:  76.09356014580801  predictions:  {0: 2872, 1: 420}
+10 Accuracy:  76.4580801944107  predictions:  {0: 2862, 1: 430}
+11 Accuracy:  76.48845686512759  predictions:  {0: 2853, 1: 439}
+12 Accuracy:  76.00243013365736  predictions:  {0: 2851, 1: 441}
+13 Accuracy:  75.78979343863914  predictions:  {0: 2884, 1: 408}
+14 Accuracy:  76.57958687727825  predictions:  {0: 2846, 1: 446}
+15 Accuracy:  76.48845686512759  predictions:  {0: 2833, 1: 459}
+16 Accuracy:  76.57958687727825  predictions:  {0: 2832, 1: 460}
+17 Accuracy:  76.18469015795868  predictions:  {0: 2833, 1: 459}
+18 Accuracy:  76.42770352369381  predictions:  {0: 2839, 1: 453}
+19 Accuracy:  76.3973268529769  predictions:  {0: 2806, 1: 486}
+20 Accuracy:  77.2478736330498  predictions:  {0: 2766, 1: 526}
+21 Accuracy:  75.8809234507898  predictions:  {0: 2847, 1: 445}
+22 Accuracy:  76.48845686512759  predictions:  {0: 2783, 1: 509}
+23 Accuracy:  76.88335358444715  predictions:  {0: 2834, 1: 458}
+24 Accuracy:  76.4580801944107  predictions:  {0: 2820, 1: 472}
+25 Accuracy:  76.27582017010936  predictions:  {0: 2830, 1: 462}
+26 Accuracy:  75.8505467800729  predictions:  {0: 2864, 1: 428}
+27 Accuracy:  76.70109356014581  predictions:  {0: 2824, 1: 468}
+28 Accuracy:  76.33657351154314  predictions:  {0: 2872, 1: 420}
+29 Accuracy:  76.21506682867559  predictions:  {0: 2852, 1: 440}
+30 Accuracy:  76.54921020656136  predictions:  {0: 2839, 1: 453}
+31 Accuracy:  76.67071688942892  predictions:  {0: 2823, 1: 469}
+32 Accuracy:  76.64034021871203  predictions:  {0: 2818, 1: 474}
+33 Accuracy:  76.82260024301335  predictions:  {0: 2822, 1: 470}
+34 Accuracy:  76.60996354799514  predictions:  {0: 2833, 1: 459}
+35 Accuracy:  76.4580801944107  predictions:  {0: 2846, 1: 446}
+36 Accuracy:  76.79222357229648  predictions:  {0: 2803, 1: 489}
+37 Accuracy:  76.64034021871203  predictions:  {0: 2836, 1: 456}
+38 Accuracy:  77.21749696233293  predictions:  {0: 2797, 1: 495}
+39 Accuracy:  76.60996354799514  predictions:  {0: 2853, 1: 439}
+40 Accuracy:  76.33657351154314  predictions:  {0: 2858, 1: 434}
+41 Accuracy:  77.09599027946537  predictions:  {0: 2841, 1: 451}
+42 Accuracy:  76.70109356014581  predictions:  {0: 2838, 1: 454}
+43 Accuracy:  77.52126366950182  predictions:  {0: 2791, 1: 501}
+44 Accuracy:  77.36938031591738  predictions:  {0: 2724, 1: 568}
+45 Accuracy:  77.15674362089915  predictions:  {0: 2763, 1: 529}
+46 Accuracy:  76.67071688942892  predictions:  {0: 2841, 1: 451}
+47 Accuracy:  76.60996354799514  predictions:  {0: 2849, 1: 443}
+48 Accuracy:  76.70109356014581  predictions:  {0: 2828, 1: 464}
+49 Accuracy:  76.54921020656136  predictions:  {0: 2843, 1: 449}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  80.33606721344269  predictions:  {0: 3271, 1: 1728}
+1 Accuracy:  81.47629525905181  predictions:  {0: 3216, 1: 1783}
+2 Accuracy:  81.05621124224845  predictions:  {0: 3065, 1: 1934}
+3 Accuracy:  81.97639527905581  predictions:  {0: 3229, 1: 1770}
+4 Accuracy:  82.21644328865774  predictions:  {0: 3261, 1: 1738}
+5 Accuracy:  81.71634326865373  predictions:  {0: 3250, 1: 1749}
+6 Accuracy:  81.95639127825565  predictions:  {0: 3184, 1: 1815}
+7 Accuracy:  81.97639527905581  predictions:  {0: 3359, 1: 1640}
+8 Accuracy:  81.99639927985596  predictions:  {0: 3236, 1: 1763}
+9 Accuracy:  82.21644328865774  predictions:  {0: 3253, 1: 1746}
+10 Accuracy:  81.91638327665534  predictions:  {0: 3296, 1: 1703}
+11 Accuracy:  82.25645129025804  predictions:  {0: 3333, 1: 1666}
+12 Accuracy:  81.59631926385276  predictions:  {0: 3210, 1: 1789}
+13 Accuracy:  80.87617523504701  predictions:  {0: 3010, 1: 1989}
+14 Accuracy:  81.95639127825565  predictions:  {0: 3226, 1: 1773}
+15 Accuracy:  81.5363072614523  predictions:  {0: 3259, 1: 1740}
+16 Accuracy:  82.21644328865774  predictions:  {0: 3299, 1: 1700}
+17 Accuracy:  81.41628325665134  predictions:  {0: 3149, 1: 1850}
+18 Accuracy:  81.49629925985197  predictions:  {0: 3091, 1: 1908}
+19 Accuracy:  81.35627125425084  predictions:  {0: 3218, 1: 1781}
+20 Accuracy:  81.41628325665134  predictions:  {0: 3133, 1: 1866}
+21 Accuracy:  81.25625125025005  predictions:  {0: 3109, 1: 1890}
+22 Accuracy:  81.5363072614523  predictions:  {0: 3327, 1: 1672}
+23 Accuracy:  81.39627925585117  predictions:  {0: 3150, 1: 1849}
+24 Accuracy:  81.49629925985197  predictions:  {0: 3157, 1: 1842}
+25 Accuracy:  81.85637127425484  predictions:  {0: 3219, 1: 1780}
+26 Accuracy:  81.33626725345069  predictions:  {0: 3121, 1: 1878}
+27 Accuracy:  81.11622324464894  predictions:  {0: 3130, 1: 1869}
+28 Accuracy:  81.39627925585117  predictions:  {0: 3118, 1: 1881}
+29 Accuracy:  81.43628725745148  predictions:  {0: 3108, 1: 1891}
+30 Accuracy:  81.29625925185037  predictions:  {0: 3101, 1: 1898}
+31 Accuracy:  81.63632726545309  predictions:  {0: 3122, 1: 1877}
+32 Accuracy:  81.23624724944989  predictions:  {0: 3042, 1: 1957}
+33 Accuracy:  80.79615923184636  predictions:  {0: 3216, 1: 1783}
+34 Accuracy:  80.95619123824765  predictions:  {0: 3110, 1: 1889}
+35 Accuracy:  81.21624324864973  predictions:  {0: 3133, 1: 1866}
+36 Accuracy:  80.83616723344669  predictions:  {0: 3172, 1: 1827}
+37 Accuracy:  80.31606321264253  predictions:  {0: 3010, 1: 1989}
+38 Accuracy:  81.99639927985596  predictions:  {0: 3198, 1: 1801}
+39 Accuracy:  81.55631126225245  predictions:  {0: 3178, 1: 1821}
+40 Accuracy:  80.49609921984397  predictions:  {0: 3057, 1: 1942}
+41 Accuracy:  80.73614722944589  predictions:  {0: 3127, 1: 1872}
+42 Accuracy:  81.15623124624925  predictions:  {0: 3082, 1: 1917}
+43 Accuracy:  80.89617923584717  predictions:  {0: 3135, 1: 1864}
+44 Accuracy:  81.39627925585117  predictions:  {0: 3362, 1: 1637}
+45 Accuracy:  81.51630326065214  predictions:  {0: 3154, 1: 1845}
+46 Accuracy:  81.1762352470494  predictions:  {0: 3151, 1: 1848}
+47 Accuracy:  81.91638327665534  predictions:  {0: 3220, 1: 1779}
+48 Accuracy:  80.79615923184636  predictions:  {0: 3070, 1: 1929}
+49 Accuracy:  81.27625525105022  predictions:  {0: 3186, 1: 1813}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  73.20777642770352  predictions:  {0: 3004, 1: 288}
+1 Accuracy:  74.48359659781289  predictions:  {0: 2940, 1: 352}
+2 Accuracy:  75.82017010935601  predictions:  {0: 2872, 1: 420}
+3 Accuracy:  74.63547995139733  predictions:  {0: 2935, 1: 357}
+4 Accuracy:  74.4228432563791  predictions:  {0: 2946, 1: 346}
+5 Accuracy:  76.1239368165249  predictions:  {0: 2842, 1: 450}
+6 Accuracy:  75.42527339003645  predictions:  {0: 2893, 1: 399}
+7 Accuracy:  75.21263669501823  predictions:  {0: 2910, 1: 382}
+8 Accuracy:  75.82017010935601  predictions:  {0: 2876, 1: 416}
+9 Accuracy:  75.273390036452  predictions:  {0: 2900, 1: 392}
+10 Accuracy:  75.91130012150668  predictions:  {0: 2865, 1: 427}
+11 Accuracy:  75.42527339003645  predictions:  {0: 2877, 1: 415}
+12 Accuracy:  76.24544349939247  predictions:  {0: 2840, 1: 452}
+13 Accuracy:  75.69866342648845  predictions:  {0: 2868, 1: 424}
+14 Accuracy:  75.51640340218711  predictions:  {0: 2852, 1: 440}
+15 Accuracy:  76.30619684082625  predictions:  {0: 2816, 1: 476}
+16 Accuracy:  76.1239368165249  predictions:  {0: 2822, 1: 470}
+17 Accuracy:  76.1543134872418  predictions:  {0: 2837, 1: 455}
+18 Accuracy:  75.5771567436209  predictions:  {0: 2882, 1: 410}
+19 Accuracy:  76.60996354799514  predictions:  {0: 2822, 1: 470}
+20 Accuracy:  76.03280680437425  predictions:  {0: 2863, 1: 429}
+21 Accuracy:  76.03280680437425  predictions:  {0: 2847, 1: 445}
+22 Accuracy:  75.6075334143378  predictions:  {0: 2857, 1: 435}
+23 Accuracy:  75.12150668286756  predictions:  {0: 2923, 1: 369}
+24 Accuracy:  76.21506682867559  predictions:  {0: 2843, 1: 449}
+25 Accuracy:  75.36452004860267  predictions:  {0: 2901, 1: 391}
+26 Accuracy:  76.21506682867559  predictions:  {0: 2835, 1: 457}
+27 Accuracy:  74.63547995139733  predictions:  {0: 2945, 1: 347}
+28 Accuracy:  75.66828675577156  predictions:  {0: 2879, 1: 413}
+29 Accuracy:  76.82260024301335  predictions:  {0: 2809, 1: 483}
+30 Accuracy:  76.42770352369381  predictions:  {0: 2830, 1: 462}
+31 Accuracy:  76.21506682867559  predictions:  {0: 2841, 1: 451}
+32 Accuracy:  75.8505467800729  predictions:  {0: 2861, 1: 431}
+33 Accuracy:  75.21263669501823  predictions:  {0: 2912, 1: 380}
+34 Accuracy:  76.60996354799514  predictions:  {0: 2812, 1: 480}
+35 Accuracy:  76.3973268529769  predictions:  {0: 2817, 1: 475}
+36 Accuracy:  76.76184690157959  predictions:  {0: 2807, 1: 485}
+37 Accuracy:  73.72417982989064  predictions:  {0: 2987, 1: 305}
+38 Accuracy:  76.27582017010936  predictions:  {0: 2835, 1: 457}
+39 Accuracy:  75.54678007290401  predictions:  {0: 2861, 1: 431}
+40 Accuracy:  75.51640340218711  predictions:  {0: 2878, 1: 414}
+41 Accuracy:  76.00243013365736  predictions:  {0: 2834, 1: 458}
+42 Accuracy:  76.33657351154314  predictions:  {0: 2839, 1: 453}
+43 Accuracy:  75.03037667071689  predictions:  {0: 2888, 1: 404}
+44 Accuracy:  75.30376670716889  predictions:  {0: 2855, 1: 437}
+45 Accuracy:  76.3973268529769  predictions:  {0: 2805, 1: 487}
+46 Accuracy:  75.09113001215067  predictions:  {0: 2926, 1: 366}
+47 Accuracy:  76.48845686512759  predictions:  {0: 2806, 1: 486}
+48 Accuracy:  75.72904009720534  predictions:  {0: 2845, 1: 447}
+49 Accuracy:  75.36452004860267  predictions:  {0: 2897, 1: 395}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  79.63592718543708  predictions:  {0: 3652, 1: 1347}
+1 Accuracy:  82.27645529105821  predictions:  {0: 3264, 1: 1735}
+2 Accuracy:  81.99639927985596  predictions:  {0: 3158, 1: 1841}
+3 Accuracy:  82.17643528705742  predictions:  {0: 3103, 1: 1896}
+4 Accuracy:  82.49649929985998  predictions:  {0: 3215, 1: 1784}
+5 Accuracy:  81.77635527105421  predictions:  {0: 3097, 1: 1902}
+6 Accuracy:  82.35647129425885  predictions:  {0: 3200, 1: 1799}
+7 Accuracy:  82.09641928385678  predictions:  {0: 3353, 1: 1646}
+8 Accuracy:  82.25645129025804  predictions:  {0: 3171, 1: 1828}
+9 Accuracy:  81.91638327665534  predictions:  {0: 3062, 1: 1937}
+10 Accuracy:  81.65633126625325  predictions:  {0: 3077, 1: 1922}
+11 Accuracy:  81.8363672734547  predictions:  {0: 3234, 1: 1765}
+12 Accuracy:  82.55651130226045  predictions:  {0: 3254, 1: 1745}
+13 Accuracy:  82.01640328065614  predictions:  {0: 3081, 1: 1918}
+14 Accuracy:  81.19623924784956  predictions:  {0: 3014, 1: 1985}
+15 Accuracy:  82.21644328865774  predictions:  {0: 3145, 1: 1854}
+16 Accuracy:  81.05621124224845  predictions:  {0: 2931, 1: 2068}
+17 Accuracy:  82.13642728545709  predictions:  {0: 3151, 1: 1848}
+18 Accuracy:  81.87637527505501  predictions:  {0: 3140, 1: 1859}
+19 Accuracy:  81.65633126625325  predictions:  {0: 3067, 1: 1932}
+20 Accuracy:  80.39607921584316  predictions:  {0: 2888, 1: 2111}
+21 Accuracy:  81.89637927585517  predictions:  {0: 3133, 1: 1866}
+22 Accuracy:  81.21624324864973  predictions:  {0: 3055, 1: 1944}
+23 Accuracy:  81.85637127425484  predictions:  {0: 3203, 1: 1796}
+24 Accuracy:  81.69633926785357  predictions:  {0: 3149, 1: 1850}
+25 Accuracy:  82.07641528305662  predictions:  {0: 3142, 1: 1857}
+26 Accuracy:  80.75615123024605  predictions:  {0: 3042, 1: 1957}
+27 Accuracy:  82.25645129025804  predictions:  {0: 3173, 1: 1826}
+28 Accuracy:  81.89637927585517  predictions:  {0: 3197, 1: 1802}
+29 Accuracy:  81.45629125825164  predictions:  {0: 3043, 1: 1956}
+30 Accuracy:  81.29625925185037  predictions:  {0: 3015, 1: 1984}
+31 Accuracy:  79.33586717343468  predictions:  {0: 2799, 1: 2200}
+32 Accuracy:  82.17643528705742  predictions:  {0: 3253, 1: 1746}
+33 Accuracy:  81.5763152630526  predictions:  {0: 3087, 1: 1912}
+34 Accuracy:  80.79615923184636  predictions:  {0: 2972, 1: 2027}
+35 Accuracy:  81.8363672734547  predictions:  {0: 3208, 1: 1791}
+36 Accuracy:  81.25625125025005  predictions:  {0: 2973, 1: 2026}
+37 Accuracy:  81.71634326865373  predictions:  {0: 3040, 1: 1959}
+38 Accuracy:  81.35627125425084  predictions:  {0: 3024, 1: 1975}
+39 Accuracy:  81.63632726545309  predictions:  {0: 3246, 1: 1753}
+40 Accuracy:  80.65613122624525  predictions:  {0: 2959, 1: 2040}
+41 Accuracy:  81.63632726545309  predictions:  {0: 3102, 1: 1897}
+42 Accuracy:  81.61632326465293  predictions:  {0: 3095, 1: 1904}
+43 Accuracy:  80.61612322464494  predictions:  {0: 2969, 1: 2030}
+44 Accuracy:  80.45609121824366  predictions:  {0: 3029, 1: 1970}
+45 Accuracy:  81.45629125825164  predictions:  {0: 3201, 1: 1798}
+46 Accuracy:  81.35627125425084  predictions:  {0: 3136, 1: 1863}
+47 Accuracy:  82.29645929185837  predictions:  {0: 3297, 1: 1702}
+48 Accuracy:  81.87637527505501  predictions:  {0: 3100, 1: 1899}
+49 Accuracy:  80.69613922784556  predictions:  {0: 2941, 1: 2058}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  73.42041312272175  predictions:  {0: 3017, 1: 275}
+1 Accuracy:  74.726609963548  predictions:  {0: 2944, 1: 348}
+2 Accuracy:  75.6075334143378  predictions:  {0: 2895, 1: 397}
+3 Accuracy:  74.63547995139733  predictions:  {0: 2947, 1: 345}
+4 Accuracy:  75.94167679222356  predictions:  {0: 2878, 1: 414}
+5 Accuracy:  76.33657351154314  predictions:  {0: 2853, 1: 439}
+6 Accuracy:  74.33171324422844  predictions:  {0: 2967, 1: 325}
+7 Accuracy:  76.18469015795868  predictions:  {0: 2856, 1: 436}
+8 Accuracy:  76.18469015795868  predictions:  {0: 2854, 1: 438}
+9 Accuracy:  76.82260024301335  predictions:  {0: 2817, 1: 475}
+10 Accuracy:  74.726609963548  predictions:  {0: 2950, 1: 342}
+11 Accuracy:  76.21506682867559  predictions:  {0: 2849, 1: 443}
+12 Accuracy:  75.91130012150668  predictions:  {0: 2859, 1: 433}
+13 Accuracy:  75.5771567436209  predictions:  {0: 2906, 1: 386}
+14 Accuracy:  76.18469015795868  predictions:  {0: 2824, 1: 468}
+15 Accuracy:  76.4580801944107  predictions:  {0: 2829, 1: 463}
+16 Accuracy:  74.75698663426489  predictions:  {0: 2939, 1: 353}
+17 Accuracy:  76.27582017010936  predictions:  {0: 2849, 1: 443}
+18 Accuracy:  75.94167679222356  predictions:  {0: 2864, 1: 428}
+19 Accuracy:  76.03280680437425  predictions:  {0: 2869, 1: 423}
+20 Accuracy:  75.5771567436209  predictions:  {0: 2888, 1: 404}
+21 Accuracy:  76.03280680437425  predictions:  {0: 2881, 1: 411}
+22 Accuracy:  76.09356014580801  predictions:  {0: 2857, 1: 435}
+23 Accuracy:  76.30619684082625  predictions:  {0: 2864, 1: 428}
+24 Accuracy:  76.54921020656136  predictions:  {0: 2838, 1: 454}
+25 Accuracy:  74.66585662211422  predictions:  {0: 2954, 1: 338}
+26 Accuracy:  76.79222357229648  predictions:  {0: 2816, 1: 476}
+27 Accuracy:  76.36695018226003  predictions:  {0: 2862, 1: 430}
+28 Accuracy:  76.48845686512759  predictions:  {0: 2850, 1: 442}
+29 Accuracy:  76.33657351154314  predictions:  {0: 2829, 1: 463}
+30 Accuracy:  76.54921020656136  predictions:  {0: 2842, 1: 450}
+31 Accuracy:  76.24544349939247  predictions:  {0: 2848, 1: 444}
+32 Accuracy:  75.273390036452  predictions:  {0: 2892, 1: 400}
+33 Accuracy:  75.78979343863914  predictions:  {0: 2873, 1: 419}
+34 Accuracy:  76.88335358444715  predictions:  {0: 2823, 1: 469}
+35 Accuracy:  75.69866342648845  predictions:  {0: 2900, 1: 392}
+36 Accuracy:  76.33657351154314  predictions:  {0: 2849, 1: 443}
+37 Accuracy:  75.54678007290401  predictions:  {0: 2913, 1: 379}
+38 Accuracy:  76.51883353584446  predictions:  {0: 2839, 1: 453}
+39 Accuracy:  76.36695018226003  predictions:  {0: 2862, 1: 430}
+40 Accuracy:  76.1239368165249  predictions:  {0: 2876, 1: 416}
+41 Accuracy:  76.06318347509114  predictions:  {0: 2854, 1: 438}
+42 Accuracy:  75.51640340218711  predictions:  {0: 2910, 1: 382}
+43 Accuracy:  75.69866342648845  predictions:  {0: 2898, 1: 394}
+44 Accuracy:  76.09356014580801  predictions:  {0: 2875, 1: 417}
+45 Accuracy:  76.27582017010936  predictions:  {0: 2867, 1: 425}
+46 Accuracy:  75.72904009720534  predictions:  {0: 2885, 1: 407}
+47 Accuracy:  76.00243013365736  predictions:  {0: 2870, 1: 422}
+48 Accuracy:  76.18469015795868  predictions:  {0: 2878, 1: 414}
+49 Accuracy:  76.27582017010936  predictions:  {0: 2861, 1: 431}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  78.57142857142857  predictions:  {0: 4005, 1: 993}
+1 Accuracy:  82.33293317326931  predictions:  {0: 3235, 1: 1763}
+2 Accuracy:  82.6530612244898  predictions:  {0: 3279, 1: 1719}
+3 Accuracy:  82.75310124049619  predictions:  {0: 3442, 1: 1556}
+4 Accuracy:  82.71308523409364  predictions:  {0: 3254, 1: 1744}
+5 Accuracy:  82.55302120848339  predictions:  {0: 3172, 1: 1826}
+6 Accuracy:  82.6530612244898  predictions:  {0: 3311, 1: 1687}
+7 Accuracy:  82.91316526610645  predictions:  {0: 3298, 1: 1700}
+8 Accuracy:  82.93317326930773  predictions:  {0: 3197, 1: 1801}
+9 Accuracy:  82.39295718287315  predictions:  {0: 3268, 1: 1730}
+10 Accuracy:  82.81312525010004  predictions:  {0: 3259, 1: 1739}
+11 Accuracy:  82.73309323729492  predictions:  {0: 3217, 1: 1781}
+12 Accuracy:  82.23289315726291  predictions:  {0: 3204, 1: 1794}
+13 Accuracy:  82.97318927571028  predictions:  {0: 3171, 1: 1827}
+14 Accuracy:  82.71308523409364  predictions:  {0: 3086, 1: 1912}
+15 Accuracy:  83.19327731092437  predictions:  {0: 3396, 1: 1602}
+16 Accuracy:  83.13325330132054  predictions:  {0: 3235, 1: 1763}
+17 Accuracy:  82.953181272509  predictions:  {0: 3354, 1: 1644}
+18 Accuracy:  83.51340536214485  predictions:  {0: 3266, 1: 1732}
+19 Accuracy:  82.85314125650261  predictions:  {0: 3233, 1: 1765}
+20 Accuracy:  82.47298919567827  predictions:  {0: 3124, 1: 1874}
+21 Accuracy:  82.27290916366546  predictions:  {0: 3102, 1: 1896}
+22 Accuracy:  82.11284513805522  predictions:  {0: 3070, 1: 1928}
+23 Accuracy:  82.01280512204882  predictions:  {0: 3013, 1: 1985}
+24 Accuracy:  82.53301320528212  predictions:  {0: 3195, 1: 1803}
+25 Accuracy:  82.87314925970388  predictions:  {0: 3130, 1: 1868}
+26 Accuracy:  81.97278911564626  predictions:  {0: 3003, 1: 1995}
+27 Accuracy:  82.83313325330131  predictions:  {0: 3164, 1: 1834}
+28 Accuracy:  82.71308523409364  predictions:  {0: 3108, 1: 1890}
+29 Accuracy:  82.6330532212885  predictions:  {0: 3170, 1: 1828}
+30 Accuracy:  82.07282913165265  predictions:  {0: 3126, 1: 1872}
+31 Accuracy:  82.0328131252501  predictions:  {0: 3224, 1: 1774}
+32 Accuracy:  81.67266906762704  predictions:  {0: 2962, 1: 2036}
+33 Accuracy:  81.85274109643858  predictions:  {0: 3121, 1: 1877}
+34 Accuracy:  81.73269307723089  predictions:  {0: 3095, 1: 1903}
+35 Accuracy:  82.07282913165265  predictions:  {0: 3262, 1: 1736}
+36 Accuracy:  82.69307723089236  predictions:  {0: 3159, 1: 1839}
+37 Accuracy:  82.25290116046419  predictions:  {0: 3177, 1: 1821}
+38 Accuracy:  82.17286914765907  predictions:  {0: 3165, 1: 1833}
+39 Accuracy:  81.87274909963985  predictions:  {0: 3530, 1: 1468}
+40 Accuracy:  82.59303721488595  predictions:  {0: 3186, 1: 1812}
+41 Accuracy:  82.09283713485395  predictions:  {0: 3245, 1: 1753}
+42 Accuracy:  81.91276510604241  predictions:  {0: 3104, 1: 1894}
+43 Accuracy:  82.43297318927571  predictions:  {0: 3262, 1: 1736}
+44 Accuracy:  82.33293317326931  predictions:  {0: 3135, 1: 1863}
+45 Accuracy:  82.43297318927571  predictions:  {0: 3394, 1: 1604}
+46 Accuracy:  81.55262104841937  predictions:  {0: 3012, 1: 1986}
+47 Accuracy:  81.73269307723089  predictions:  {0: 3173, 1: 1825}
+48 Accuracy:  81.45258103241297  predictions:  {0: 3005, 1: 1993}
+49 Accuracy:  82.07282913165265  predictions:  {0: 3086, 1: 1912}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  74.24058323207777  predictions:  {0: 3002, 1: 290}
+1 Accuracy:  75.36452004860267  predictions:  {0: 2955, 1: 337}
+2 Accuracy:  76.36695018226003  predictions:  {0: 2904, 1: 388}
+3 Accuracy:  76.60996354799514  predictions:  {0: 2882, 1: 410}
+4 Accuracy:  77.46051032806804  predictions:  {0: 2860, 1: 432}
+5 Accuracy:  77.27825030376671  predictions:  {0: 2852, 1: 440}
+6 Accuracy:  76.94410692588093  predictions:  {0: 2841, 1: 451}
+7 Accuracy:  77.06561360874848  predictions:  {0: 2851, 1: 441}
+8 Accuracy:  77.79465370595383  predictions:  {0: 2785, 1: 507}
+9 Accuracy:  77.70352369380316  predictions:  {0: 2812, 1: 480}
+10 Accuracy:  76.85297691373026  predictions:  {0: 2856, 1: 436}
+11 Accuracy:  76.79222357229648  predictions:  {0: 2834, 1: 458}
+12 Accuracy:  77.46051032806804  predictions:  {0: 2828, 1: 464}
+13 Accuracy:  77.76427703523694  predictions:  {0: 2776, 1: 516}
+14 Accuracy:  77.70352369380316  predictions:  {0: 2786, 1: 506}
+15 Accuracy:  76.54921020656136  predictions:  {0: 2868, 1: 424}
+16 Accuracy:  77.55164034021871  predictions:  {0: 2829, 1: 463}
+17 Accuracy:  76.21506682867559  predictions:  {0: 2921, 1: 371}
+18 Accuracy:  77.12636695018226  predictions:  {0: 2867, 1: 425}
+19 Accuracy:  77.27825030376671  predictions:  {0: 2820, 1: 472}
+20 Accuracy:  74.93924665856622  predictions:  {0: 2985, 1: 307}
+21 Accuracy:  76.7314702308627  predictions:  {0: 2894, 1: 398}
+22 Accuracy:  77.21749696233293  predictions:  {0: 2850, 1: 442}
+23 Accuracy:  77.49088699878493  predictions:  {0: 2835, 1: 457}
+24 Accuracy:  78.64520048602674  predictions:  {0: 2701, 1: 591}
+25 Accuracy:  75.8505467800729  predictions:  {0: 2947, 1: 345}
+26 Accuracy:  77.46051032806804  predictions:  {0: 2848, 1: 444}
+27 Accuracy:  77.70352369380316  predictions:  {0: 2832, 1: 460}
+28 Accuracy:  77.15674362089915  predictions:  {0: 2842, 1: 450}
+29 Accuracy:  78.4325637910085  predictions:  {0: 2752, 1: 540}
+30 Accuracy:  77.36938031591738  predictions:  {0: 2853, 1: 439}
+31 Accuracy:  77.0048602673147  predictions:  {0: 2859, 1: 433}
+32 Accuracy:  77.39975698663426  predictions:  {0: 2846, 1: 446}
+33 Accuracy:  75.36452004860267  predictions:  {0: 2957, 1: 335}
+34 Accuracy:  77.2478736330498  predictions:  {0: 2851, 1: 441}
+35 Accuracy:  77.70352369380316  predictions:  {0: 2816, 1: 476}
+36 Accuracy:  75.75941676792223  predictions:  {0: 2946, 1: 346}
+37 Accuracy:  77.36938031591738  predictions:  {0: 2863, 1: 429}
+38 Accuracy:  76.54921020656136  predictions:  {0: 2884, 1: 408}
+39 Accuracy:  77.91616038882138  predictions:  {0: 2775, 1: 517}
+40 Accuracy:  77.27825030376671  predictions:  {0: 2846, 1: 446}
+41 Accuracy:  77.06561360874848  predictions:  {0: 2837, 1: 455}
+42 Accuracy:  76.1543134872418  predictions:  {0: 2907, 1: 385}
+43 Accuracy:  77.18712029161604  predictions:  {0: 2841, 1: 451}
+44 Accuracy:  76.33657351154314  predictions:  {0: 2903, 1: 389}
+45 Accuracy:  76.79222357229648  predictions:  {0: 2870, 1: 422}
+46 Accuracy:  77.06561360874848  predictions:  {0: 2839, 1: 453}
+47 Accuracy:  76.76184690157959  predictions:  {0: 2831, 1: 461}
+48 Accuracy:  76.79222357229648  predictions:  {0: 2858, 1: 434}
+49 Accuracy:  77.09599027946537  predictions:  {0: 2858, 1: 434}
+Stratifying data
+Stratifying data
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  79.35174069627851  predictions:  {0: 2850, 1: 2148}
+1 Accuracy:  82.71308523409364  predictions:  {0: 3212, 1: 1786}
+2 Accuracy:  81.07242897158864  predictions:  {0: 2898, 1: 2100}
+3 Accuracy:  82.17286914765907  predictions:  {0: 3085, 1: 1913}
+4 Accuracy:  82.43297318927571  predictions:  {0: 3078, 1: 1920}
+5 Accuracy:  82.61304521808724  predictions:  {0: 3197, 1: 1801}
+6 Accuracy:  81.85274109643858  predictions:  {0: 3059, 1: 1939}
+7 Accuracy:  82.75310124049619  predictions:  {0: 3210, 1: 1788}
+8 Accuracy:  82.73309323729492  predictions:  {0: 3217, 1: 1781}
+9 Accuracy:  82.953181272509  predictions:  {0: 3192, 1: 1806}
+10 Accuracy:  82.69307723089236  predictions:  {0: 3249, 1: 1749}
+11 Accuracy:  82.99319727891157  predictions:  {0: 3152, 1: 1846}
+12 Accuracy:  81.45258103241297  predictions:  {0: 2971, 1: 2027}
+13 Accuracy:  82.17286914765907  predictions:  {0: 3073, 1: 1925}
+14 Accuracy:  82.17286914765907  predictions:  {0: 3173, 1: 1825}
+15 Accuracy:  82.37294917967188  predictions:  {0: 3021, 1: 1977}
+16 Accuracy:  80.9923969587835  predictions:  {0: 2934, 1: 2064}
+17 Accuracy:  82.07282913165265  predictions:  {0: 3094, 1: 1904}
+18 Accuracy:  82.55302120848339  predictions:  {0: 3170, 1: 1828}
+19 Accuracy:  82.1328531412565  predictions:  {0: 3199, 1: 1799}
+20 Accuracy:  82.27290916366546  predictions:  {0: 3256, 1: 1742}
+21 Accuracy:  82.35294117647058  predictions:  {0: 3090, 1: 1908}
+22 Accuracy:  81.23249299719888  predictions:  {0: 3034, 1: 1964}
+23 Accuracy:  80.91236494597838  predictions:  {0: 2914, 1: 2084}
+24 Accuracy:  81.47258903561423  predictions:  {0: 3024, 1: 1974}
+25 Accuracy:  80.87234893957583  predictions:  {0: 2990, 1: 2008}
+26 Accuracy:  82.39295718287315  predictions:  {0: 3146, 1: 1852}
+27 Accuracy:  82.57302921168468  predictions:  {0: 3147, 1: 1851}
+28 Accuracy:  82.11284513805522  predictions:  {0: 3170, 1: 1828}
+29 Accuracy:  81.35254101640656  predictions:  {0: 3066, 1: 1932}
+30 Accuracy:  82.79311724689876  predictions:  {0: 3274, 1: 1724}
+31 Accuracy:  82.07282913165265  predictions:  {0: 3170, 1: 1828}
+32 Accuracy:  80.73229291716687  predictions:  {0: 2953, 1: 2045}
+33 Accuracy:  82.0328131252501  predictions:  {0: 3300, 1: 1698}
+34 Accuracy:  80.35214085634253  predictions:  {0: 2838, 1: 2160}
+35 Accuracy:  80.75230092036814  predictions:  {0: 2978, 1: 2020}
+36 Accuracy:  81.37254901960785  predictions:  {0: 2991, 1: 2007}
+37 Accuracy:  80.5922368947579  predictions:  {0: 2924, 1: 2074}
+38 Accuracy:  81.39255702280911  predictions:  {0: 3172, 1: 1826}
+39 Accuracy:  82.53301320528212  predictions:  {0: 3297, 1: 1701}
+40 Accuracy:  80.0720288115246  predictions:  {0: 2878, 1: 2120}
+41 Accuracy:  81.33253301320528  predictions:  {0: 3061, 1: 1937}
+42 Accuracy:  81.81272509003601  predictions:  {0: 3091, 1: 1907}
+43 Accuracy:  80.85234093637455  predictions:  {0: 3049, 1: 1949}
+44 Accuracy:  80.53221288515407  predictions:  {0: 2969, 1: 2029}
+45 Accuracy:  80.3921568627451  predictions:  {0: 2964, 1: 2034}
+46 Accuracy:  81.39255702280911  predictions:  {0: 3186, 1: 1812}
+47 Accuracy:  80.03201280512204  predictions:  {0: 2852, 1: 2146}
+48 Accuracy:  81.37254901960785  predictions:  {0: 3109, 1: 1889}
+49 Accuracy:  82.33293317326931  predictions:  {0: 3295, 1: 1703}
+Window size: (7, 7)
+Training: Clauses=4000, T=8000, S=10
+0 Accuracy:  74.93924665856622  predictions:  {0: 2941, 1: 351}
+1 Accuracy:  75.36452004860267  predictions:  {0: 2905, 1: 387}
+2 Accuracy:  75.273390036452  predictions:  {0: 2918, 1: 374}
+3 Accuracy:  74.96962332928311  predictions:  {0: 2942, 1: 350}
+4 Accuracy:  76.06318347509114  predictions:  {0: 2876, 1: 416}
+5 Accuracy:  76.42770352369381  predictions:  {0: 2830, 1: 462}
+6 Accuracy:  75.39489671931956  predictions:  {0: 2900, 1: 392}
+7 Accuracy:  76.1543134872418  predictions:  {0: 2843, 1: 449}
+8 Accuracy:  75.51640340218711  predictions:  {0: 2878, 1: 414}
+9 Accuracy:  75.54678007290401  predictions:  {0: 2891, 1: 401}
+10 Accuracy:  76.76184690157959  predictions:  {0: 2815, 1: 477}
+11 Accuracy:  74.84811664641555  predictions:  {0: 2950, 1: 342}
+12 Accuracy:  76.60996354799514  predictions:  {0: 2836, 1: 456}
+13 Accuracy:  76.18469015795868  predictions:  {0: 2846, 1: 446}
+14 Accuracy:  76.76184690157959  predictions:  {0: 2829, 1: 463}
+15 Accuracy:  76.54921020656136  predictions:  {0: 2848, 1: 444}
+16 Accuracy:  76.51883353584446  predictions:  {0: 2831, 1: 461}
+17 Accuracy:  76.21506682867559  predictions:  {0: 2865, 1: 427}
+18 Accuracy:  76.67071688942892  predictions:  {0: 2806, 1: 486}
+19 Accuracy:  76.4580801944107  predictions:  {0: 2829, 1: 463}
+20 Accuracy:  76.67071688942892  predictions:  {0: 2816, 1: 476}
+21 Accuracy:  76.03280680437425  predictions:  {0: 2857, 1: 435}
+22 Accuracy:  76.1239368165249  predictions:  {0: 2846, 1: 446}
+23 Accuracy:  74.69623329283111  predictions:  {0: 2937, 1: 355}
+24 Accuracy:  75.94167679222356  predictions:  {0: 2858, 1: 434}
+25 Accuracy:  75.15188335358445  predictions:  {0: 2936, 1: 356}
+26 Accuracy:  76.64034021871203  predictions:  {0: 2831, 1: 461}
+27 Accuracy:  76.4580801944107  predictions:  {0: 2839, 1: 453}
+28 Accuracy:  76.03280680437425  predictions:  {0: 2853, 1: 439}
+29 Accuracy:  76.7314702308627  predictions:  {0: 2830, 1: 462}
+30 Accuracy:  76.70109356014581  predictions:  {0: 2833, 1: 459}
+31 Accuracy:  76.18469015795868  predictions:  {0: 2858, 1: 434}
+32 Accuracy:  76.21506682867559  predictions:  {0: 2863, 1: 429}
+33 Accuracy:  75.09113001215067  predictions:  {0: 2918, 1: 374}
+34 Accuracy:  76.4580801944107  predictions:  {0: 2841, 1: 451}
+35 Accuracy:  76.76184690157959  predictions:  {0: 2811, 1: 481}
+36 Accuracy:  76.54921020656136  predictions:  {0: 2824, 1: 468}
+37 Accuracy:  76.51883353584446  predictions:  {0: 2817, 1: 475}
+38 Accuracy:  76.57958687727825  predictions:  {0: 2847, 1: 445}
+39 Accuracy:  76.57958687727825  predictions:  {0: 2835, 1: 457}
+40 Accuracy:  76.7314702308627  predictions:  {0: 2836, 1: 456}
+41 Accuracy:  76.18469015795868  predictions:  {0: 2858, 1: 434}
+42 Accuracy:  76.27582017010936  predictions:  {0: 2833, 1: 459}
+43 Accuracy:  75.8505467800729  predictions:  {0: 2905, 1: 387}
+44 Accuracy:  76.57958687727825  predictions:  {0: 2837, 1: 455}
+45 Accuracy:  76.27582017010936  predictions:  {0: 2861, 1: 431}
+46 Accuracy:  76.21506682867559  predictions:  {0: 2853, 1: 439}
+47 Accuracy:  73.93681652490886  predictions:  {0: 2982, 1: 310}
+48 Accuracy:  76.67071688942892  predictions:  {0: 2808, 1: 484}
+49 Accuracy:  76.60996354799514  predictions:  {0: 2824, 1: 468}
+ - Finished: Seperated by result Convolutional
+

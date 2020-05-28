@@ -1,0 +1,126 @@
+3pieces 3x3 Flipped Player     3pieces-3x3-rev.txt
+Recall:
+index: 17 percent: 0.8258766626360339
+Precision:
+index: 17 percent: 0.8258766626360339
+
+3pieces 3x3 Flipped Player     3pieces-3x3-rev_orgScore.txt
+Recall:
+index: 17 percent: 0.8258766626360339
+Precision:
+index: 17 percent: 0.8258766626360339
+
+3pieces 3x3 Moving Player     3pieces-3x3-white.txt
+Recall:
+index: 32 percent: 0.8035043804755945
+Precision:
+index: 32 percent: 0.8035043804755945
+
+3pieces 3x3 Moving Player     3pieces-3x3-white_orgScore.txt
+Recall:
+index: 32 percent: 0.8035043804755945
+Precision:
+index: 32 percent: 0.8035043804755945
+
+3pieces 7x7 Moving player bits Split     3pieces-7x7-BitsTest-Win.txt
+Recall:
+index: 1 percent: 0.32926829268292684
+Precision:
+index: 1 percent: 0.32926829268292684
+
+3pieces 7x7 Moving player bits Split     3pieces-7x7-BitsTest-Win_orgScore.txt
+Recall:
+index: 1 percent: 0.32926829268292684
+Precision:
+index: 1 percent: 0.32926829268292684
+
+4pieces 5x5 Moving player bits Flipped Player     4pieces-5x5-BitsTest-rev.txt
+Recall:
+index: 7 percent: 0.9628482972136223
+Precision:
+index: 7 percent: 0.9628482972136223
+
+4pieces 5x5 Moving player bits Flipped Player     4pieces-5x5-BitsTest-rev_orgScore.txt
+Recall:
+index: 7 percent: 0.9628482972136223
+Precision:
+index: 7 percent: 0.9628482972136223
+
+4pieces 5x5 Moving player bits Moving Player     4pieces-5x5-BitsTest-white.txt
+Recall:
+index: 1 percent: 0.9222222222222223
+Precision:
+index: 1 percent: 0.9222222222222223
+
+4pieces 5x5 Moving player bits Moving Player     4pieces-5x5-BitsTest-white_orgScore.txt
+Recall:
+index: 1 percent: 0.9222222222222223
+Precision:
+index: 1 percent: 0.9222222222222223
+
+4pieces 5x5 Moving player bits Split     4pieces-5x5-BitsTest-Win.txt
+Recall:
+index: 91 percent: 0.3282970550576184
+Precision:
+index: 91 percent: 0.3282970550576184
+
+4pieces 5x5 Moving player bits Split     4pieces-5x5-BitsTest-Win_orgScore.txt
+Recall:
+index: 91 percent: 0.3282970550576184
+Precision:
+index: 91 percent: 0.3282970550576184
+
+5pieces 2x2 Flipped Player     5pieces-2x2-rev_orgScore.txt
+Recall:
+index: 40 percent: 0.7050639955481358
+Precision:
+index: 40 percent: 0.7050639955481358
+
+5pieces 2x2 Moving Player     5pieces-2x2-white_orgScore.txt
+Recall:
+index: 99 percent: 0.6605526441162458
+Precision:
+index: 99 percent: 0.6605526441162458
+
+5pieces 5x5 bitsTest Split     5pieces-5x5-bitsTest-Win_orgScore.txt
+Recall:
+index: 99 percent: 0.31233211233211233
+Precision:
+index: 99 percent: 0.31233211233211233
+
+allpieces 2x2 Flipped Player     allpieces-2x2-rev.txt
+Recall:
+index: 99 percent: 0.686533212010919
+Precision:
+index: 99 percent: 0.686533212010919
+
+allpieces 2x2 Flipped Player     allpieces-2x2-rev_orgScore.txt
+Recall:
+index: 99 percent: 0.686533212010919
+Precision:
+index: 99 percent: 0.686533212010919
+
+allpieces 2x2 Moving Player     allpieces-2x2-white.txt
+Recall:
+index: 99 percent: 0.7726535341830822
+Precision:
+index: 99 percent: 0.7726535341830822
+
+allpieces 2x2 Moving Player     allpieces-2x2-white_orgScore.txt
+Recall:
+index: 99 percent: 0.7726535341830822
+Precision:
+index: 99 percent: 0.7726535341830822
+
+allpieces 2x2 Split     allpieces-2x2-Win.txt
+Recall:
+index: 4 percent: 0.10714285714285714
+Precision:
+index: 4 percent: 0.10714285714285714
+
+allpieces 2x2 Split     allpieces-2x2-Win_orgScore.txt
+Recall:
+index: 4 percent: 0.10714285714285714
+Precision:
+index: 4 percent: 0.10714285714285714
+

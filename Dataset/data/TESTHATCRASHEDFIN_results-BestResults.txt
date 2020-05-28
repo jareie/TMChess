@@ -1,0 +1,4 @@
+Seperated starting player Convolutional - White 66.57894509209791 +- 0.43411280339235664
+Seperated starting player Convolutional - Black 66.38143373987675 +- 0.622043439115849
+Seperated by result Convolutional - Win 80.09544759152503 +- 2.9862833077160413
+Seperated by result Convolutional - Other 80.15705534628124 +- 2.8989515120181477

@@ -1,0 +1,10 @@
+.idea
+*/data/syzygy
+*/data/TreeSearch/*.csv
+*/data/Raw_game
+*/data/results/machines
+*.pyc
+*.csv
+*/node_modules
+node_modules
+*/settings.json

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Chat</title>
+    <script
+    src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+    crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script><!-- development version, includes helpful console warnings -->
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+      <canvas></canvas>
+    <div class="container">
+      <div class="row flex-row">
+        <div id="app" class="col-md-8 offset-md-2">
+            
+            <!--
+          <div class="panel panel-default flex-col">
+              <div class="panel-heading">
+                  <h3 class="panel-title">
+                      <span class="glyphicon glyphicon-comment"></span> Chat
+                      
+                      <button v-on:click="expandTheChat()" class="btn btn-primary" style="float: right; height:25px; width: 30px; font-size: 15px; padding: 2px">
+                          <span class="glyphicon glyphicon-resize-full"></span>
+                      </button>
+                      
+                  </h3>
+              </div>
+              <div id="messages-field" class="panel-body flex-grow" style="overflow-y: scroll">
+                <ul id="lobbies" class="list-unstyled">
+                        <li v-for="msg in messages">
+                            <div v-if="msg.message.name=='Deg'">
+                                <div class='metainfo fright'><i>{{msg.time}} {{msg.message.name}}</i></div><br/>
+                                <div class='botStyle fright'>{{msg.message.message}}</div>
+                            </div>
+                            <div v-else>
+                                <div class='metainfo'><i>{{msg.time}} {{msg.message.name}}</i></div>
+                                <div class='userStyle'>{{msg.message.message}}</div>
+                            </div>
+                        </li>
+                    </ul>
+              </div>
+              <hr style="margin-bottom: 2px; margin-top: 0px">
+              <div id="message-box">
+                  <input id="msg-field" type="text" class="form-control" placeholder="Skriv en melding" /> &nbsp <button id="msg-button" onclick="sendMessage()" class="btn btn-success">Send</button>                
+              </div>
+          </div>
+          -->
+      </div>
+      </div>
+  </div>
+  <script src="js/chat.js"></script>
+  </body>
+</html>
